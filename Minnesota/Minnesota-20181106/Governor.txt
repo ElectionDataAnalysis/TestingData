@@ -1,0 +1,5 @@
+MN;;;0331;Governor & Lt Governor;;0301;Jeff Johnson and Donna Bergstrom;;;R;4113;4113;1097705;42.43;2587287
+MN;;;0331;Governor & Lt Governor;;0401;Tim Walz and Peggy Flanagan;;;DFL;4113;4113;1393096;53.84;2587287
+MN;;;0331;Governor & Lt Governor;;0801;Chris Wright and Judith Schwartzbacker;;;GLC;4113;4113;68667;2.65;2587287
+MN;;;0331;Governor & Lt Governor;;0901;Josh Welter and Mary O'Connor;;;LIB;4113;4113;26735;1.03;2587287
+MN;;;0331;Governor & Lt Governor;;9901;WRITE-IN**;;;WI;4113;4113;1084;0.04;2587287

@@ -1,0 +1,80 @@
+MN;;;0101;U.S. President & Vice President;1;0301;Donald J. Trump and Michael R. Pence;;;R;697;697;181647;52.85;343735
+MN;;;0101;U.S. President & Vice President;1;0401;Hillary Clinton and Tim Kaine;;;DFL;697;697;130831;38.06;343735
+MN;;;0101;U.S. President & Vice President;1;0501;Darrell Castle and Scott Bradley;;;CP;697;697;1444;0.42;343735
+MN;;;0101;U.S. President & Vice President;1;0601;Dan R. Vacek and Mark Elworth, Jr.;;;LMN;697;697;1398;0.41;343735
+MN;;;0101;U.S. President & Vice President;1;0701;Alyson Kennedy and Osborne Hart;;;SWP;697;697;207;0.06;343735
+MN;;;0101;U.S. President & Vice President;1;0801;Jill Stein and Howie Hawkins;;;GP;697;697;4307;1.25;343735
+MN;;;0101;U.S. President & Vice President;1;0901;"Rocky" Roque De La Fuente and Michael Steinberg;;;ADP;697;697;201;0.06;343735
+MN;;;0101;U.S. President & Vice President;1;1101;Evan McMullin and Nathan Johnson;;;IP;697;697;6915;2.01;343735
+MN;;;0101;U.S. President & Vice President;1;1201;Gary Johnson and William Weld;;;LIB;697;697;13881;4.04;343735
+MN;;;0101;U.S. President & Vice President;1;9901;WRITE-IN**;;;WI;697;697;2904;0.84;343735
+MN;;;0101;U.S. President & Vice President;2;0301;Donald J. Trump and Michael R. Pence;;;R;292;292;175807;46.07;381647
+MN;;;0101;U.S. President & Vice President;2;0401;Hillary Clinton and Tim Kaine;;;DFL;292;292;171287;44.88;381647
+MN;;;0101;U.S. President & Vice President;2;0501;Darrell Castle and Scott Bradley;;;CP;292;292;1118;0.29;381647
+MN;;;0101;U.S. President & Vice President;2;0601;Dan R. Vacek and Mark Elworth, Jr.;;;LMN;292;292;1365;0.36;381647
+MN;;;0101;U.S. President & Vice President;2;0701;Alyson Kennedy and Osborne Hart;;;SWP;292;292;176;0.05;381647
+MN;;;0101;U.S. President & Vice President;2;0801;Jill Stein and Howie Hawkins;;;GP;292;292;4275;1.12;381647
+MN;;;0101;U.S. President & Vice President;2;0901;"Rocky" Roque De La Fuente and Michael Steinberg;;;ADP;292;292;199;0.05;381647
+MN;;;0101;U.S. President & Vice President;2;1101;Evan McMullin and Nathan Johnson;;;IP;292;292;7107;1.86;381647
+MN;;;0101;U.S. President & Vice President;2;1201;Gary Johnson and William Weld;;;LIB;292;292;16553;4.34;381647
+MN;;;0101;U.S. President & Vice President;2;9901;WRITE-IN**;;;WI;292;292;3760;0.99;381647
+MN;;;0101;U.S. President & Vice President;3;0301;Donald J. Trump and Michael R. Pence;;;R;247;247;164259;40.89;401670
+MN;;;0101;U.S. President & Vice President;3;0401;Hillary Clinton and Tim Kaine;;;DFL;247;247;201833;50.25;401670
+MN;;;0101;U.S. President & Vice President;3;0501;Darrell Castle and Scott Bradley;;;CP;247;247;1066;0.27;401670
+MN;;;0101;U.S. President & Vice President;3;0601;Dan R. Vacek and Mark Elworth, Jr.;;;LMN;247;247;1205;0.30;401670
+MN;;;0101;U.S. President & Vice President;3;0701;Alyson Kennedy and Osborne Hart;;;SWP;247;247;134;0.03;401670
+MN;;;0101;U.S. President & Vice President;3;0801;Jill Stein and Howie Hawkins;;;GP;247;247;3970;0.99;401670
+MN;;;0101;U.S. President & Vice President;3;0901;"Rocky" Roque De La Fuente and Michael Steinberg;;;ADP;247;247;181;0.05;401670
+MN;;;0101;U.S. President & Vice President;3;1101;Evan McMullin and Nathan Johnson;;;IP;247;247;8348;2.08;401670
+MN;;;0101;U.S. President & Vice President;3;1201;Gary Johnson and William Weld;;;LIB;247;247;16012;3.99;401670
+MN;;;0101;U.S. President & Vice President;3;9901;WRITE-IN**;;;WI;247;247;4662;1.16;401670
+MN;;;0101;U.S. President & Vice President;4;0301;Donald J. Trump and Michael R. Pence;;;R;229;229;111163;30.24;367654
+MN;;;0101;U.S. President & Vice President;4;0401;Hillary Clinton and Tim Kaine;;;DFL;229;229;223803;60.87;367654
+MN;;;0101;U.S. President & Vice President;4;0501;Darrell Castle and Scott Bradley;;;CP;229;229;995;0.27;367654
+MN;;;0101;U.S. President & Vice President;4;0601;Dan R. Vacek and Mark Elworth, Jr.;;;LMN;229;229;1487;0.40;367654
+MN;;;0101;U.S. President & Vice President;4;0701;Alyson Kennedy and Osborne Hart;;;SWP;229;229;243;0.07;367654
+MN;;;0101;U.S. President & Vice President;4;0801;Jill Stein and Howie Hawkins;;;GP;229;229;5505;1.50;367654
+MN;;;0101;U.S. President & Vice President;4;0901;"Rocky" Roque De La Fuente and Michael Steinberg;;;ADP;229;229;176;0.05;367654
+MN;;;0101;U.S. President & Vice President;4;1101;Evan McMullin and Nathan Johnson;;;IP;229;229;6765;1.84;367654
+MN;;;0101;U.S. President & Vice President;4;1201;Gary Johnson and William Weld;;;LIB;229;229;13513;3.68;367654
+MN;;;0101;U.S. President & Vice President;4;9901;WRITE-IN**;;;WI;229;229;4004;1.09;367654
+MN;;;0101;U.S. President & Vice President;5;0301;Donald J. Trump and Michael R. Pence;;;R;236;236;68535;18.30;374560
+MN;;;0101;U.S. President & Vice President;5;0401;Hillary Clinton and Tim Kaine;;;DFL;236;236;273402;72.99;374560
+MN;;;0101;U.S. President & Vice President;5;0501;Darrell Castle and Scott Bradley;;;CP;236;236;775;0.21;374560
+MN;;;0101;U.S. President & Vice President;5;0601;Dan R. Vacek and Mark Elworth, Jr.;;;LMN;236;236;1604;0.43;374560
+MN;;;0101;U.S. President & Vice President;5;0701;Alyson Kennedy and Osborne Hart;;;SWP;236;236;350;0.09;374560
+MN;;;0101;U.S. President & Vice President;5;0801;Jill Stein and Howie Hawkins;;;GP;236;236;7522;2.01;374560
+MN;;;0101;U.S. President & Vice President;5;0901;"Rocky" Roque De La Fuente and Michael Steinberg;;;ADP;236;236;163;0.04;374560
+MN;;;0101;U.S. President & Vice President;5;1101;Evan McMullin and Nathan Johnson;;;IP;236;236;5960;1.59;374560
+MN;;;0101;U.S. President & Vice President;5;1201;Gary Johnson and William Weld;;;LIB;236;236;12558;3.35;374560
+MN;;;0101;U.S. President & Vice President;5;9901;WRITE-IN**;;;WI;236;236;3691;0.99;374560
+MN;;;0101;U.S. President & Vice President;6;0301;Donald J. Trump and Michael R. Pence;;;R;280;280;218546;58.45;373920
+MN;;;0101;U.S. President & Vice President;6;0401;Hillary Clinton and Tim Kaine;;;DFL;280;280;123329;32.98;373920
+MN;;;0101;U.S. President & Vice President;6;0501;Darrell Castle and Scott Bradley;;;CP;280;280;1266;0.34;373920
+MN;;;0101;U.S. President & Vice President;6;0601;Dan R. Vacek and Mark Elworth, Jr.;;;LMN;280;280;1376;0.37;373920
+MN;;;0101;U.S. President & Vice President;6;0701;Alyson Kennedy and Osborne Hart;;;SWP;280;280;160;0.04;373920
+MN;;;0101;U.S. President & Vice President;6;0801;Jill Stein and Howie Hawkins;;;GP;280;280;3787;1.01;373920
+MN;;;0101;U.S. President & Vice President;6;0901;"Rocky" Roque De La Fuente and Michael Steinberg;;;ADP;280;280;187;0.05;373920
+MN;;;0101;U.S. President & Vice President;6;1101;Evan McMullin and Nathan Johnson;;;IP;280;280;6982;1.87;373920
+MN;;;0101;U.S. President & Vice President;6;1201;Gary Johnson and William Weld;;;LIB;280;280;15314;4.10;373920
+MN;;;0101;U.S. President & Vice President;6;9901;WRITE-IN**;;;WI;280;280;2973;0.80;373920
+MN;;;0101;U.S. President & Vice President;7;0301;Donald J. Trump and Michael R. Pence;;;R;1329;1329;208215;61.37;339286
+MN;;;0101;U.S. President & Vice President;7;0401;Hillary Clinton and Tim Kaine;;;DFL;1329;1329;104566;30.82;339286
+MN;;;0101;U.S. President & Vice President;7;0501;Darrell Castle and Scott Bradley;;;CP;1329;1329;1439;0.42;339286
+MN;;;0101;U.S. President & Vice President;7;0601;Dan R. Vacek and Mark Elworth, Jr.;;;LMN;1329;1329;1166;0.34;339286
+MN;;;0101;U.S. President & Vice President;7;0701;Alyson Kennedy and Osborne Hart;;;SWP;1329;1329;205;0.06;339286
+MN;;;0101;U.S. President & Vice President;7;0801;Jill Stein and Howie Hawkins;;;GP;1329;1329;3076;0.91;339286
+MN;;;0101;U.S. President & Vice President;7;0901;"Rocky" Roque De La Fuente and Michael Steinberg;;;ADP;1329;1329;161;0.05;339286
+MN;;;0101;U.S. President & Vice President;7;1101;Evan McMullin and Nathan Johnson;;;IP;1329;1329;5654;1.67;339286
+MN;;;0101;U.S. President & Vice President;7;1201;Gary Johnson and William Weld;;;LIB;1329;1329;12523;3.69;339286
+MN;;;0101;U.S. President & Vice President;7;9901;WRITE-IN**;;;WI;1329;1329;2281;0.67;339286
+MN;;;0101;U.S. President & Vice President;8;0301;Donald J. Trump and Michael R. Pence;;;R;810;810;194779;53.76;362341
+MN;;;0101;U.S. President & Vice President;8;0401;Hillary Clinton and Tim Kaine;;;DFL;810;810;138665;38.27;362341
+MN;;;0101;U.S. President & Vice President;8;0501;Darrell Castle and Scott Bradley;;;CP;810;810;1353;0.37;362341
+MN;;;0101;U.S. President & Vice President;8;0601;Dan R. Vacek and Mark Elworth, Jr.;;;LMN;810;810;1690;0.47;362341
+MN;;;0101;U.S. President & Vice President;8;0701;Alyson Kennedy and Osborne Hart;;;SWP;810;810;197;0.05;362341
+MN;;;0101;U.S. President & Vice President;8;0801;Jill Stein and Howie Hawkins;;;GP;810;810;4543;1.25;362341
+MN;;;0101;U.S. President & Vice President;8;0901;"Rocky" Roque De La Fuente and Michael Steinberg;;;ADP;810;810;163;0.04;362341
+MN;;;0101;U.S. President & Vice President;8;1101;Evan McMullin and Nathan Johnson;;;IP;810;810;5345;1.48;362341
+MN;;;0101;U.S. President & Vice President;8;1201;Gary Johnson and William Weld;;;LIB;810;810;12618;3.48;362341
+MN;;;0101;U.S. President & Vice President;8;9901;WRITE-IN**;;;WI;810;810;2988;0.82;362341

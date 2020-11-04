@@ -1,0 +1,18 @@
+MN;;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;4110;4110;137275;97.67;140555
+MN;;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;4110;4110;3280;2.33;140555
+MN;;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;4110;4110;172;0.02;744198
+MN;;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;4110;4110;41530;5.58;744198
+MN;;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;4110;4110;222431;29.89;744198
+MN;;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;4110;4110;114674;15.41;744198
+MN;;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;4110;4110;226;0.03;744198
+MN;;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;4110;4110;114;0.02;744198
+MN;;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;4110;4110;2612;0.35;744198
+MN;;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;4110;4110;61882;8.32;744198
+MN;;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;4110;4110;2504;0.34;744198
+MN;;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;4110;4110;72;0.01;744198
+MN;;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;4110;4110;1749;0.24;744198
+MN;;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;4110;4110;315;0.04;744198
+MN;;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;4110;4110;287553;38.64;744198
+MN;;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;4110;4110;197;0.03;744198
+MN;;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;4110;4110;7616;1.02;744198
+MN;;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;4110;4110;551;0.07;744198

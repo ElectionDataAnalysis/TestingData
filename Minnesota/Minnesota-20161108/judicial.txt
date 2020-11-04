@@ -1,0 +1,21 @@
+MN;;;7007;Associate Justice - Supreme Court 6;;9001;Natalie Hudson;;;NP;4120;4120;1279989;58.80;2176686
+MN;;;7007;Associate Justice - Supreme Court 6;;9002;Michelle L. MacDonald;;;NP;4120;4120;887656;40.78;2176686
+MN;;;7007;Associate Justice - Supreme Court 6;;9901;WRITE-IN**;;;WI;4120;4120;9041;0.42;2176686
+MN;;;7014;Judge - Court of Appeals 5;;9001;Louise Dovre Bjorkman;;;NP;4120;4120;1724451;98.91;1743415
+MN;;;7014;Judge - Court of Appeals 5;;9901;WRITE-IN**;;;WI;4120;4120;18964;1.09;1743415
+MN;;;7017;Judge - Court of Appeals 8;;9001;Denise D. Reilly;;;NP;4120;4120;1698599;99.01;1715605
+MN;;;7017;Judge - Court of Appeals 8;;9901;WRITE-IN**;;;WI;4120;4120;17006;0.99;1715605
+MN;;;7020;Judge - Court of Appeals 11;;9001;Michelle A. Larkin;;;NP;4120;4120;1693095;99.05;1709284
+MN;;;7020;Judge - Court of Appeals 11;;9901;WRITE-IN**;;;WI;4120;4120;16189;0.95;1709284
+MN;;;7022;Judge - Court of Appeals 13;;9001;Randolph W. Peterson;;;NP;4120;4120;1674632;99.03;1690998
+MN;;;7022;Judge - Court of Appeals 13;;9901;WRITE-IN**;;;WI;4120;4120;16366;0.97;1690998
+MN;;;7023;Judge - Court of Appeals 14;;9001;Larry Stauber Jr.;;;NP;4120;4120;1667130;99.03;1683420
+MN;;;7023;Judge - Court of Appeals 14;;9901;WRITE-IN**;;;WI;4120;4120;16290;0.97;1683420
+MN;;;7025;Judge - Court of Appeals 16;;9001;Peter M. Reyes, Jr.;;;NP;4120;4120;1660411;99.08;1675872
+MN;;;7025;Judge - Court of Appeals 16;;9901;WRITE-IN**;;;WI;4120;4120;15461;0.92;1675872
+MN;;;7026;Judge - Court of Appeals 17;;9001;Matthew E. Johnson;;;NP;4120;4120;1659103;99.08;1674462
+MN;;;7026;Judge - Court of Appeals 17;;9901;WRITE-IN**;;;WI;4120;4120;15359;0.92;1674462
+MN;;;7027;Judge - Court of Appeals 18;;9001;Heidi Schellhas;;;NP;4120;4120;1656679;99.09;1671809
+MN;;;7027;Judge - Court of Appeals 18;;9901;WRITE-IN**;;;WI;4120;4120;15130;0.91;1671809
+MN;;;7028;Judge - Court of Appeals 19;;9001;Francis Connolly;;;NP;4120;4120;1651332;99.10;1666370
+MN;;;7028;Judge - Court of Appeals 19;;9901;WRITE-IN**;;;WI;4120;4120;15038;0.90;1666370

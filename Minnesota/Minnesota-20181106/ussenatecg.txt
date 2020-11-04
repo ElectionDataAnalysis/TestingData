@@ -1,0 +1,80 @@
+MN;;;0102;U.S. Senator;01;0301;Jim Newberger;;;R;698;1396;124411;42.33;293899
+MN;;;0102;U.S. Senator;01;0401;Amy Klobuchar;;;DFL;698;1396;158443;53.91;293899
+MN;;;0102;U.S. Senator;01;0601;Dennis Schuller;;;LMN;698;1396;8292;2.82;293899
+MN;;;0102;U.S. Senator;01;1001;Paula M Overby;;;MGP;698;1396;2659;0.90;293899
+MN;;;0102;U.S. Senator;01;9901;WRITE-IN**;;;WI;698;1396;94;0.03;293899
+MN;;;0102;U.S. Senator;02;0301;Jim Newberger;;;R;292;584;128168;37.63;340567
+MN;;;0102;U.S. Senator;02;0401;Amy Klobuchar;;;DFL;292;584;200736;58.94;340567
+MN;;;0102;U.S. Senator;02;0601;Dennis Schuller;;;LMN;292;584;8413;2.47;340567
+MN;;;0102;U.S. Senator;02;1001;Paula M Overby;;;MGP;292;584;3146;0.92;340567
+MN;;;0102;U.S. Senator;02;9901;WRITE-IN**;;;WI;292;584;104;0.03;340567
+MN;;;0102;U.S. Senator;03;0301;Jim Newberger;;;R;248;496;127339;34.79;365992
+MN;;;0102;U.S. Senator;03;0401;Amy Klobuchar;;;DFL;248;496;228819;62.52;365992
+MN;;;0102;U.S. Senator;03;0601;Dennis Schuller;;;LMN;248;496;7231;1.98;365992
+MN;;;0102;U.S. Senator;03;1001;Paula M Overby;;;MGP;248;496;2481;0.68;365992
+MN;;;0102;U.S. Senator;03;9901;WRITE-IN**;;;WI;248;496;122;0.03;365992
+MN;;;0102;U.S. Senator;04;0301;Jim Newberger;;;R;225;450;83634;25.23;331421
+MN;;;0102;U.S. Senator;04;0401;Amy Klobuchar;;;DFL;225;450;235512;71.06;331421
+MN;;;0102;U.S. Senator;04;0601;Dennis Schuller;;;LMN;225;450;8654;2.61;331421
+MN;;;0102;U.S. Senator;04;1001;Paula M Overby;;;MGP;225;450;3471;1.05;331421
+MN;;;0102;U.S. Senator;04;9901;WRITE-IN**;;;WI;225;450;150;0.05;331421
+MN;;;0102;U.S. Senator;05;0301;Jim Newberger;;;R;236;472;51787;14.87;348281
+MN;;;0102;U.S. Senator;05;0401;Amy Klobuchar;;;DFL;236;472;282695;81.17;348281
+MN;;;0102;U.S. Senator;05;0601;Dennis Schuller;;;LMN;236;472;9326;2.68;348281
+MN;;;0102;U.S. Senator;05;1001;Paula M Overby;;;MGP;236;472;4277;1.23;348281
+MN;;;0102;U.S. Senator;05;9901;WRITE-IN**;;;WI;236;472;196;0.06;348281
+MN;;;0102;U.S. Senator;06;0301;Jim Newberger;;;R;279;558;153520;48.17;318734
+MN;;;0102;U.S. Senator;06;0401;Amy Klobuchar;;;DFL;279;558;153818;48.26;318734
+MN;;;0102;U.S. Senator;06;0601;Dennis Schuller;;;LMN;279;558;8785;2.76;318734
+MN;;;0102;U.S. Senator;06;1001;Paula M Overby;;;MGP;279;558;2498;0.78;318734
+MN;;;0102;U.S. Senator;06;9901;WRITE-IN**;;;WI;279;558;113;0.04;318734
+MN;;;0102;U.S. Senator;07;0301;Jim Newberger;;;R;1329;2658;136559;48.31;282651
+MN;;;0102;U.S. Senator;07;0401;Amy Klobuchar;;;DFL;1329;2658;136894;48.43;282651
+MN;;;0102;U.S. Senator;07;0601;Dennis Schuller;;;LMN;1329;2658;7094;2.51;282651
+MN;;;0102;U.S. Senator;07;1001;Paula M Overby;;;MGP;1329;2658;2046;0.72;282651
+MN;;;0102;U.S. Senator;07;9901;WRITE-IN**;;;WI;1329;2658;58;0.02;282651
+MN;;;0102;U.S. Senator;08;0301;Jim Newberger;;;R;806;1612;135019;42.82;315334
+MN;;;0102;U.S. Senator;08;0401;Amy Klobuchar;;;DFL;806;1612;169257;53.68;315334
+MN;;;0102;U.S. Senator;08;0601;Dennis Schuller;;;LMN;806;1612;8441;2.68;315334
+MN;;;0102;U.S. Senator;08;1001;Paula M Overby;;;MGP;806;1612;2523;0.80;315334
+MN;;;0102;U.S. Senator;08;9901;WRITE-IN**;;;WI;806;1612;94;0.03;315334
+MN;;;0103;U.S. Senator Special Election;01;0301;Karin Housley;;;R;698;1396;142144;48.59;292534
+MN;;;0103;U.S. Senator Special Election;01;0401;Tina Smith;;;DFL;698;1396;135543;46.33;292534
+MN;;;0103;U.S. Senator Special Election;01;0601;Sarah Wellington;;;LMN;698;1396;11653;3.98;292534
+MN;;;0103;U.S. Senator Special Election;01;1301;Jerry Trooien;;;UA;698;1396;3091;1.06;292534
+MN;;;0103;U.S. Senator Special Election;01;9901;WRITE-IN**;;;WI;698;1396;103;0.04;292534
+MN;;;0103;U.S. Senator Special Election;02;0301;Karin Housley;;;R;292;584;152480;44.92;339463
+MN;;;0103;U.S. Senator Special Election;02;0401;Tina Smith;;;DFL;292;584;171428;50.50;339463
+MN;;;0103;U.S. Senator Special Election;02;0601;Sarah Wellington;;;LMN;292;584;11994;3.53;339463
+MN;;;0103;U.S. Senator Special Election;02;1301;Jerry Trooien;;;UA;292;584;3436;1.01;339463
+MN;;;0103;U.S. Senator Special Election;02;9901;WRITE-IN**;;;WI;292;584;125;0.04;339463
+MN;;;0103;U.S. Senator Special Election;03;0301;Karin Housley;;;R;248;496;154028;42.19;365077
+MN;;;0103;U.S. Senator Special Election;03;0401;Tina Smith;;;DFL;248;496;197321;54.05;365077
+MN;;;0103;U.S. Senator Special Election;03;0601;Sarah Wellington;;;LMN;248;496;10659;2.92;365077
+MN;;;0103;U.S. Senator Special Election;03;1301;Jerry Trooien;;;UA;248;496;2932;0.80;365077
+MN;;;0103;U.S. Senator Special Election;03;9901;WRITE-IN**;;;WI;248;496;137;0.04;365077
+MN;;;0103;U.S. Senator Special Election;04;0301;Karin Housley;;;R;225;450;101433;30.71;330334
+MN;;;0103;U.S. Senator Special Election;04;0401;Tina Smith;;;DFL;225;450;212552;64.34;330334
+MN;;;0103;U.S. Senator Special Election;04;0601;Sarah Wellington;;;LMN;225;450;12668;3.83;330334
+MN;;;0103;U.S. Senator Special Election;04;1301;Jerry Trooien;;;UA;225;450;3477;1.05;330334
+MN;;;0103;U.S. Senator Special Election;04;9901;WRITE-IN**;;;WI;225;450;204;0.06;330334
+MN;;;0103;U.S. Senator Special Election;05;0301;Karin Housley;;;R;236;472;63668;18.34;347126
+MN;;;0103;U.S. Senator Special Election;05;0401;Tina Smith;;;DFL;236;472;267109;76.95;347126
+MN;;;0103;U.S. Senator Special Election;05;0601;Sarah Wellington;;;LMN;236;472;13525;3.90;347126
+MN;;;0103;U.S. Senator Special Election;05;1301;Jerry Trooien;;;UA;236;472;2632;0.76;347126
+MN;;;0103;U.S. Senator Special Election;05;9901;WRITE-IN**;;;WI;236;472;192;0.06;347126
+MN;;;0103;U.S. Senator Special Election;06;0301;Karin Housley;;;R;279;558;175206;55.19;317467
+MN;;;0103;U.S. Senator Special Election;06;0401;Tina Smith;;;DFL;279;558;126403;39.82;317467
+MN;;;0103;U.S. Senator Special Election;06;0601;Sarah Wellington;;;LMN;279;558;12550;3.95;317467
+MN;;;0103;U.S. Senator Special Election;06;1301;Jerry Trooien;;;UA;279;558;3188;1.00;317467
+MN;;;0103;U.S. Senator Special Election;06;9901;WRITE-IN**;;;WI;279;558;120;0.04;317467
+MN;;;0103;U.S. Senator Special Election;07;0301;Karin Housley;;;R;1329;2658;155216;55.19;281229
+MN;;;0103;U.S. Senator Special Election;07;0401;Tina Smith;;;DFL;1329;2658;113108;40.22;281229
+MN;;;0103;U.S. Senator Special Election;07;0601;Sarah Wellington;;;LMN;1329;2658;10106;3.59;281229
+MN;;;0103;U.S. Senator Special Election;07;1301;Jerry Trooien;;;UA;1329;2658;2723;0.97;281229
+MN;;;0103;U.S. Senator Special Election;07;9901;WRITE-IN**;;;WI;1329;2658;76;0.03;281229
+MN;;;0103;U.S. Senator Special Election;08;0301;Karin Housley;;;R;806;1612;151602;48.26;314126
+MN;;;0103;U.S. Senator Special Election;08;0401;Tina Smith;;;DFL;806;1612;147076;46.82;314126
+MN;;;0103;U.S. Senator Special Election;08;0601;Sarah Wellington;;;LMN;806;1612;12459;3.97;314126
+MN;;;0103;U.S. Senator Special Election;08;1301;Jerry Trooien;;;UA;806;1612;2845;0.91;314126
+MN;;;0103;U.S. Senator Special Election;08;9901;WRITE-IN**;;;WI;806;1612;144;0.05;314126

@@ -1,0 +1,2056 @@
+MN;01;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;54;54;13;100.00;13
+MN;01;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;54;54;9;100.00;9
+MN;01;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;54;54;101;6.83;1478
+MN;01;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;54;54;54;3.65;1478
+MN;01;;0102;U.S. Senator;;0303;James Reibestein;;;R;54;54;65;4.40;1478
+MN;01;;0102;U.S. Senator;;0304;Jason Lewis;;;R;54;54;1148;77.67;1478
+MN;01;;0102;U.S. Senator;;0305;John L. Berman;;;R;54;54;110;7.44;1478
+MN;01;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;54;54;11;0.81;1354
+MN;01;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;54;54;1198;88.48;1354
+MN;01;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;54;54;24;1.77;1354
+MN;01;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;54;54;51;3.77;1354
+MN;01;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;54;54;70;5.17;1354
+MN;01;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;54;54;10;100.00;10
+MN;01;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;54;54;1442;94.06;1533
+MN;01;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;54;54;91;5.94;1533
+MN;01;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;54;54;1259;100.00;1259
+MN;01;;0130;State Senator District 10;10;0301;Shaun Christian Hansen;;;R;54;54;232;15.49;1498
+MN;01;;0130;State Senator District 10;10;0302;Carrie Ruud;;;R;54;54;1266;84.51;1498
+MN;01;;0130;State Senator District 10;10;0401;Steve Samuelson;;;DFL;54;54;1247;100.00;1247
+MN;02;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;128;128;430;100.00;430
+MN;02;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;128;128;126;100.00;126
+MN;02;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;128;128;971;5.96;16289
+MN;02;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;128;128;567;3.48;16289
+MN;02;;0102;U.S. Senator;;0303;James Reibestein;;;R;128;128;474;2.91;16289
+MN;02;;0102;U.S. Senator;;0304;Jason Lewis;;;R;128;128;13505;82.91;16289
+MN;02;;0102;U.S. Senator;;0305;John L. Berman;;;R;128;128;772;4.74;16289
+MN;02;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;128;128;383;1.43;26788
+MN;02;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;128;128;22658;84.58;26788
+MN;02;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;128;128;1262;4.71;26788
+MN;02;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;128;128;1510;5.64;26788
+MN;02;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;128;128;975;3.64;26788
+MN;02;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;22;22;1634;67.66;2415
+MN;02;;0106;U.S. Representative District 3;3;0302;Leslie Davis;;;R;22;22;781;32.34;2415
+MN;02;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;22;22;3886;85.29;4556
+MN;02;;0106;U.S. Representative District 3;3;0402;Cole Young;;;DFL;22;22;670;14.71;4556
+MN;02;;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;24;24;75;100.00;75
+MN;02;;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;24;24;1198;74.23;1614
+MN;02;;0108;U.S. Representative District 5;5;0302;Danielle Stella;;;R;24;24;352;21.81;1614
+MN;02;;0108;U.S. Representative District 5;5;0303;Dalia Al-Aqidi;;;R;24;24;64;3.97;1614
+MN;02;;0108;U.S. Representative District 5;5;0401;Daniel Patrick McCarthy;;;DFL;24;24;244;2.80;8709
+MN;02;;0108;U.S. Representative District 5;5;0402;Les Lester;;;DFL;24;24;114;1.31;8709
+MN;02;;0108;U.S. Representative District 5;5;0403;John Mason;;;DFL;24;24;234;2.69;8709
+MN;02;;0108;U.S. Representative District 5;5;0404;Ilhan Omar;;;DFL;24;24;4383;50.33;8709
+MN;02;;0108;U.S. Representative District 5;5;0405;Antone Melton-Meaux;;;DFL;24;24;3734;42.88;8709
+MN;02;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;82;82;10548;88.14;11967
+MN;02;;0109;U.S. Representative District 6;6;0302;Patrick Munro;;;R;82;82;1419;11.86;11967
+MN;02;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;82;82;11767;100.00;11767
+MN;02;;0248;State Representative District 31A;31A;0301;Beau C. Hullermann;;;R;8;8;150;12.94;1159
+MN;02;;0248;State Representative District 31A;31A;0302;Kurt Daudt;;;R;8;8;1009;87.06;1159
+MN;02;;0248;State Representative District 31A;31A;0401;Brad Brown;;;DFL;8;8;703;100.00;703
+MN;02;;0262;State Representative District 38A;38A;0301;Donald Raleigh;;;R;14;14;1389;55.32;2511
+MN;02;;0262;State Representative District 38A;38A;0302;Kelly Gunderson;;;R;14;14;376;14.97;2511
+MN;02;;0262;State Representative District 38A;38A;0303;Doug Malsom;;;R;14;14;746;29.71;2511
+MN;02;;0262;State Representative District 38A;38A;0401;Kris Fredrick;;;DFL;14;14;2619;100.00;2619
+MN;02;;0396;County Commissioner District 6;06;9001;Cindy Hansen;;;NP;17;17;2783;44.10;6311
+MN;02;;0396;County Commissioner District 6;06;9002;Kevin Ryan;;;NP;17;17;529;8.38;6311
+MN;02;;0396;County Commissioner District 6;06;9003;Jeff Reinert;;;NP;17;17;2999;47.52;6311
+MN;03;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;48;48;27;100.00;27
+MN;03;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;48;48;11;100.00;11
+MN;03;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;48;48;204;11.27;1810
+MN;03;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;48;48;106;5.86;1810
+MN;03;;0102;U.S. Senator;;0303;James Reibestein;;;R;48;48;113;6.24;1810
+MN;03;;0102;U.S. Senator;;0304;Jason Lewis;;;R;48;48;1128;62.32;1810
+MN;03;;0102;U.S. Senator;;0305;John L. Berman;;;R;48;48;259;14.31;1810
+MN;03;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;48;48;7;0.48;1449
+MN;03;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;48;48;1246;85.99;1449
+MN;03;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;48;48;21;1.45;1449
+MN;03;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;48;48;60;4.14;1449
+MN;03;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;48;48;115;7.94;1449
+MN;03;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;48;48;22;100.00;22
+MN;03;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;48;48;5;55.56;9
+MN;03;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;48;48;4;44.44;9
+MN;03;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;48;48;14;0.73;1906
+MN;03;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;48;48;24;1.26;1906
+MN;03;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;48;48;332;17.42;1906
+MN;03;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;48;48;408;21.41;1906
+MN;03;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;48;48;1128;59.18;1906
+MN;03;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;48;48;1134;77.94;1455
+MN;03;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;48;48;226;15.53;1455
+MN;03;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;48;48;95;6.53;1455
+MN;04;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;63;63;76;100.00;76
+MN;04;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;63;63;48;100.00;48
+MN;04;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;63;63;187;7.52;2488
+MN;04;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;63;63;105;4.22;2488
+MN;04;;0102;U.S. Senator;;0303;James Reibestein;;;R;63;63;120;4.82;2488
+MN;04;;0102;U.S. Senator;;0304;Jason Lewis;;;R;63;63;1844;74.12;2488
+MN;04;;0102;U.S. Senator;;0305;John L. Berman;;;R;63;63;232;9.32;2488
+MN;04;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;63;63;57;1.73;3300
+MN;04;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;63;63;2752;83.39;3300
+MN;04;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;63;63;131;3.97;3300
+MN;04;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;63;63;180;5.45;3300
+MN;04;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;63;63;180;5.45;3300
+MN;04;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;36;36;55;100.00;55
+MN;04;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;36;36;15;55.56;27
+MN;04;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;36;36;12;44.44;27
+MN;04;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;36;36;20;1.50;1337
+MN;04;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;36;36;41;3.07;1337
+MN;04;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;36;36;152;11.37;1337
+MN;04;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;36;36;386;28.87;1337
+MN;04;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;36;36;738;55.20;1337
+MN;04;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;36;36;1418;67.52;2100
+MN;04;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;36;36;495;23.57;2100
+MN;04;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;36;36;187;8.90;2100
+MN;04;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;27;27;18;100.00;18
+MN;04;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;27;27;1132;94.89;1193
+MN;04;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;27;27;61;5.11;1193
+MN;04;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;27;27;921;100.00;921
+MN;04;;0395;County Commissioner District 5;05;9001;Mike Bredon;;;NP;5;5;295;20.54;1436
+MN;04;;0395;County Commissioner District 5;05;9002;Jim Lucachick;;;NP;5;5;880;61.28;1436
+MN;04;;0395;County Commissioner District 5;05;9003;Christian Taylor-Johnson;;;NP;5;5;261;18.18;1436
+MN;05;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;27;27;30;100.00;30
+MN;05;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;27;27;22;100.00;22
+MN;05;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;27;27;181;8.54;2120
+MN;05;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;27;27;101;4.76;2120
+MN;05;;0102;U.S. Senator;;0303;James Reibestein;;;R;27;27;95;4.48;2120
+MN;05;;0102;U.S. Senator;;0304;Jason Lewis;;;R;27;27;1573;74.20;2120
+MN;05;;0102;U.S. Senator;;0305;John L. Berman;;;R;27;27;170;8.02;2120
+MN;05;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;27;27;18;1.22;1472
+MN;05;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;27;27;1242;84.38;1472
+MN;05;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;27;27;79;5.37;1472
+MN;05;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;27;27;80;5.43;1472
+MN;05;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;27;27;53;3.60;1472
+MN;05;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;27;27;1815;84.18;2156
+MN;05;;0109;U.S. Representative District 6;6;0302;Patrick Munro;;;R;27;27;341;15.82;2156
+MN;05;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;27;27;1189;100.00;1189
+MN;05;;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;14;14;808;65.21;1239
+MN;05;;0217;State Representative District 15B;15B;0302;John Ulrick;;;R;14;14;431;34.79;1239
+MN;05;;0217;State Representative District 15B;15B;0401;Ron Thiessen;;;DFL;14;14;402;100.00;402
+MN;05;;0391;County Commissioner District 1;01;9001;Christopher G Winkelman;;;NP;7;7;204;20.52;994
+MN;05;;0391;County Commissioner District 1;01;9002;Anthony Neis;;;NP;7;7;55;5.53;994
+MN;05;;0391;County Commissioner District 1;01;9003;Christine Scherbing;;;NP;7;7;189;19.01;994
+MN;05;;0391;County Commissioner District 1;01;9004;Scott Johnson;;;NP;7;7;546;54.93;994
+MN;06;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;23;23;6;100.00;6
+MN;06;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;23;23;3;100.00;3
+MN;06;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;23;23;47;9.33;504
+MN;06;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;23;23;18;3.57;504
+MN;06;;0102;U.S. Senator;;0303;James Reibestein;;;R;23;23;18;3.57;504
+MN;06;;0102;U.S. Senator;;0304;Jason Lewis;;;R;23;23;376;74.60;504
+MN;06;;0102;U.S. Senator;;0305;John L. Berman;;;R;23;23;45;8.93;504
+MN;06;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;23;23;3;0.58;520
+MN;06;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;23;23;455;87.50;520
+MN;06;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;23;23;9;1.73;520
+MN;06;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;23;23;15;2.88;520
+MN;06;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;23;23;38;7.31;520
+MN;06;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;23;23;5;100.00;5
+MN;06;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;23;23;1;33.33;3
+MN;06;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;23;23;2;66.67;3
+MN;06;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;23;23;11;2.13;516
+MN;06;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;23;23;8;1.55;516
+MN;06;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;23;23;52;10.08;516
+MN;06;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;23;23;116;22.48;516
+MN;06;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;23;23;329;63.76;516
+MN;06;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;23;23;417;78.68;530
+MN;06;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;23;23;76;14.34;530
+MN;06;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;23;23;37;6.98;530
+MN;06;;0395;County Commissioner District 5;05;9001;Lon Moen;;;NP;4;4;70;25.45;275
+MN;06;;0395;County Commissioner District 5;05;9002;James A. Nelson;;;NP;4;4;82;29.82;275
+MN;06;;0395;County Commissioner District 5;05;9003;Jeff Klages;;;NP;4;4;123;44.73;275
+MN;07;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;54;54;142;100.00;142
+MN;07;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;54;54;55;100.00;55
+MN;07;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;54;54;287;9.21;3116
+MN;07;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;54;54;224;7.19;3116
+MN;07;;0102;U.S. Senator;;0303;James Reibestein;;;R;54;54;139;4.46;3116
+MN;07;;0102;U.S. Senator;;0304;Jason Lewis;;;R;54;54;2242;71.95;3116
+MN;07;;0102;U.S. Senator;;0305;John L. Berman;;;R;54;54;224;7.19;3116
+MN;07;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;54;54;42;0.91;4616
+MN;07;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;54;54;4045;87.63;4616
+MN;07;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;54;54;142;3.08;4616
+MN;07;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;54;54;261;5.65;4616
+MN;07;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;54;54;126;2.73;4616
+MN;07;;0232;State Representative District 23A;23A;0301;Bjorn Olson;;;R;1;1;0;0.00;0
+MN;07;;0232;State Representative District 23A;23A;0302;Michael Sukalski;;;R;1;1;0;0.00;0
+MN;07;;0232;State Representative District 23A;23A;0401;Patricia Fahey Bacon;;;DFL;1;1;0;0.00;0
+MN;07;;0233;State Representative District 23B;23B;0301;Jeremy Munson;;;R;29;29;1663;76.67;2169
+MN;07;;0233;State Representative District 23B;23B;0302;Yvonne Simon;;;R;29;29;506;23.33;2169
+MN;07;;0233;State Representative District 23B;23B;0401;Leroy McClelland;;;DFL;29;29;1047;100.00;1047
+MN;07;;0394;County Commissioner District 4;04;9001;Kevin Paap;;;NP;19;19;900;34.13;2637
+MN;07;;0394;County Commissioner District 4;04;9002;Paul FitzSimmons;;;NP;19;19;764;28.97;2637
+MN;07;;0394;County Commissioner District 4;04;9003;Brian Riewe;;;NP;19;19;386;14.64;2637
+MN;07;;0394;County Commissioner District 4;04;9004;Bob Diesch;;;NP;19;19;245;9.29;2637
+MN;07;;0394;County Commissioner District 4;04;9005;Sharon Schaller;;;NP;19;19;342;12.97;2637
+MN;08;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;32;32;27;100.00;27
+MN;08;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;32;32;17;100.00;17
+MN;08;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;32;32;228;9.79;2330
+MN;08;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;32;32;114;4.89;2330
+MN;08;;0102;U.S. Senator;;0303;James Reibestein;;;R;32;32;122;5.24;2330
+MN;08;;0102;U.S. Senator;;0304;Jason Lewis;;;R;32;32;1643;70.52;2330
+MN;08;;0102;U.S. Senator;;0305;John L. Berman;;;R;32;32;223;9.57;2330
+MN;08;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;32;32;9;0.53;1692
+MN;08;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;32;32;1509;89.18;1692
+MN;08;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;32;32;29;1.71;1692
+MN;08;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;32;32;69;4.08;1692
+MN;08;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;32;32;76;4.49;1692
+MN;08;;0219;State Representative District 16B;16B;0301;Paul Torkelson;;;R;32;32;2147;86.19;2491
+MN;08;;0219;State Representative District 16B;16B;0302;Tamara A. Houle;;;R;32;32;344;13.81;2491
+MN;08;;0219;State Representative District 16B;16B;0401;Marinda "Mindy" Kimmel;;;DFL;32;32;1614;100.00;1614
+MN;09;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;38;38;39;100.00;39
+MN;09;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;38;38;36;100.00;36
+MN;09;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;38;38;162;9.75;1662
+MN;09;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;38;38;93;5.60;1662
+MN;09;;0102;U.S. Senator;;0303;James Reibestein;;;R;38;38;132;7.94;1662
+MN;09;;0102;U.S. Senator;;0304;Jason Lewis;;;R;38;38;1118;67.27;1662
+MN;09;;0102;U.S. Senator;;0305;John L. Berman;;;R;38;38;157;9.45;1662
+MN;09;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;38;38;21;0.73;2879
+MN;09;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;38;38;2574;89.41;2879
+MN;09;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;38;38;54;1.88;2879
+MN;09;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;38;38;116;4.03;2879
+MN;09;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;38;38;114;3.96;2879
+MN;09;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;38;38;31;100.00;31
+MN;09;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;38;38;1678;93.48;1795
+MN;09;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;38;38;117;6.52;1795
+MN;09;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;38;38;2455;100.00;2455
+MN;09;;0395;County Commissioner District 5;05;9001;Gary E. Peterson;;;NP;14;14;593;50.95;1164
+MN;09;;0395;County Commissioner District 5;05;9002;Marci Moreland;;;NP;14;14;213;18.30;1164
+MN;09;;0395;County Commissioner District 5;05;9003;Alex French;;;NP;14;14;358;30.76;1164
+MN;10;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;35;35;65;100.00;65
+MN;10;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;35;35;24;100.00;24
+MN;10;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;35;35;732;9.45;7745
+MN;10;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;35;35;318;4.11;7745
+MN;10;;0102;U.S. Senator;;0303;James Reibestein;;;R;35;35;165;2.13;7745
+MN;10;;0102;U.S. Senator;;0304;Jason Lewis;;;R;35;35;6204;80.10;7745
+MN;10;;0102;U.S. Senator;;0305;John L. Berman;;;R;35;35;326;4.21;7745
+MN;10;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;35;35;74;1.00;7418
+MN;10;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;35;35;6605;89.04;7418
+MN;10;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;35;35;187;2.52;7418
+MN;10;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;35;35;407;5.49;7418
+MN;10;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;35;35;145;1.95;7418
+MN;10;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;17;17;3099;71.49;4335
+MN;10;;0106;U.S. Representative District 3;3;0302;Leslie Davis;;;R;17;17;1236;28.51;4335
+MN;10;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;17;17;4871;90.52;5381
+MN;10;;0106;U.S. Representative District 3;3;0402;Cole Young;;;DFL;17;17;510;9.48;5381
+MN;10;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;18;18;2901;88.26;3287
+MN;10;;0109;U.S. Representative District 6;6;0302;Patrick Munro;;;R;18;18;386;11.74;3287
+MN;10;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;18;18;1804;100.00;1804
+MN;10;;0167;State Senator District 47;47;0301;Julia Coleman;;;R;31;31;4586;63.52;7220
+MN;10;;0167;State Senator District 47;47;0302;Thomas Funk;;;R;31;31;2634;36.48;7220
+MN;10;;0167;State Senator District 47;47;0401;Addie Miller;;;DFL;31;31;5105;86.97;5870
+MN;10;;0167;State Senator District 47;47;0402;Bala Chintaginjala;;;DFL;31;31;765;13.03;5870
+MN;10;;0253;State Representative District 33B;33B;0301;Marianne Stebbins;;;R;4;4;310;35.35;877
+MN;10;;0253;State Representative District 33B;33B;0302;Andrew Myers;;;R;4;4;567;64.65;877
+MN;10;;0253;State Representative District 33B;33B;0401;Kelly Morrison;;;DFL;4;4;1290;100.00;1290
+MN;10;;0393;County Commissioner District 3;03;9001;Randy Maluchnik;;;NP;4;4;1481;39.81;3720
+MN;10;;0393;County Commissioner District 3;03;9002;Matt Udermann;;;NP;4;4;2003;53.84;3720
+MN;10;;0393;County Commissioner District 3;03;9003;David Hatten;;;NP;4;4;236;6.34;3720
+MN;10;;0395;County Commissioner District 5;05;9001;John P Fahey;;;NP;13;13;895;30.28;2956
+MN;10;;0395;County Commissioner District 5;05;9002;Randy Clark;;;NP;13;13;128;4.33;2956
+MN;10;;0395;County Commissioner District 5;05;9003;Mark Willems;;;NP;13;13;821;27.77;2956
+MN;10;;0395;County Commissioner District 5;05;9004;Mark D. Halla;;;NP;13;13;726;24.56;2956
+MN;10;;0395;County Commissioner District 5;05;9005;Christopher Lund;;;NP;13;13;144;4.87;2956
+MN;10;;0395;County Commissioner District 5;05;9006;David Pascoe;;;NP;13;13;242;8.19;2956
+MN;11;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;73;73;48;100.00;48
+MN;11;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;73;73;58;100.00;58
+MN;11;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;73;73;210;6.27;3350
+MN;11;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;73;73;110;3.28;3350
+MN;11;;0102;U.S. Senator;;0303;James Reibestein;;;R;73;73;114;3.40;3350
+MN;11;;0102;U.S. Senator;;0304;Jason Lewis;;;R;73;73;2715;81.04;3350
+MN;11;;0102;U.S. Senator;;0305;John L. Berman;;;R;73;73;201;6.00;3350
+MN;11;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;73;73;17;0.79;2146
+MN;11;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;73;73;1946;90.68;2146
+MN;11;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;73;73;40;1.86;2146
+MN;11;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;73;73;74;3.45;2146
+MN;11;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;73;73;69;3.22;2146
+MN;11;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;73;73;54;100.00;54
+MN;11;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;73;73;3179;94.90;3350
+MN;11;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;73;73;171;5.10;3350
+MN;11;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;73;73;1919;100.00;1919
+MN;11;;0129;State Senator District 9;9;0301;Paul Gazelka;;;R;19;19;1121;83.35;1345
+MN;11;;0129;State Senator District 9;9;0302;Richard Dahl;;;R;19;19;224;16.65;1345
+MN;11;;0129;State Senator District 9;9;0401;A. John Peters;;;DFL;19;19;577;100.00;577
+MN;12;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;25;25;10;100.00;10
+MN;12;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;25;25;5;100.00;5
+MN;12;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;25;25;69;8.25;836
+MN;12;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;25;25;18;2.15;836
+MN;12;;0102;U.S. Senator;;0303;James Reibestein;;;R;25;25;28;3.35;836
+MN;12;;0102;U.S. Senator;;0304;Jason Lewis;;;R;25;25;625;74.76;836
+MN;12;;0102;U.S. Senator;;0305;John L. Berman;;;R;25;25;96;11.48;836
+MN;12;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;25;25;9;1.23;729
+MN;12;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;25;25;632;86.69;729
+MN;12;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;25;25;12;1.65;729
+MN;12;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;25;25;32;4.39;729
+MN;12;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;25;25;44;6.04;729
+MN;12;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;25;25;10;100.00;10
+MN;12;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;25;25;3;60.00;5
+MN;12;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;25;25;2;40.00;5
+MN;12;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;25;25;31;3.62;856
+MN;12;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;25;25;6;0.70;856
+MN;12;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;25;25;101;11.80;856
+MN;12;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;25;25;155;18.11;856
+MN;12;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;25;25;563;65.77;856
+MN;12;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;25;25;572;77.72;736
+MN;12;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;25;25;111;15.08;736
+MN;12;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;25;25;53;7.20;736
+MN;12;;0220;State Representative District 17A;17A;0101;Ed Engelmann;;;LMN;24;24;10;100.00;10
+MN;12;;0220;State Representative District 17A;17A;0301;Tim Miller;;;R;24;24;833;100.00;833
+MN;12;;0220;State Representative District 17A;17A;0401;Ben Dolan;;;DFL;24;24;556;83.48;666
+MN;12;;0220;State Representative District 17A;17A;0402;Robert M Wright;;;DFL;24;24;110;16.52;666
+MN;12;;0392;County Commissioner District 2;02;9001;Brian Harguth;;;NP;6;6;113;27.83;406
+MN;12;;0392;County Commissioner District 2;02;9002;Candice Jaenisch;;;NP;6;6;157;38.67;406
+MN;12;;0392;County Commissioner District 2;02;9003;Jeffrey P. Lopez;;;NP;6;6;136;33.50;406
+MN;13;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;23;23;43;100.00;43
+MN;13;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;23;23;27;100.00;27
+MN;13;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;23;23;154;5.86;2629
+MN;13;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;23;23;128;4.87;2629
+MN;13;;0102;U.S. Senator;;0303;James Reibestein;;;R;23;23;79;3.00;2629
+MN;13;;0102;U.S. Senator;;0304;Jason Lewis;;;R;23;23;2123;80.75;2629
+MN;13;;0102;U.S. Senator;;0305;John L. Berman;;;R;23;23;145;5.52;2629
+MN;13;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;23;23;34;1.26;2702
+MN;13;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;23;23;2426;89.79;2702
+MN;13;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;23;23;53;1.96;2702
+MN;13;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;23;23;109;4.03;2702
+MN;13;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;23;23;80;2.96;2702
+MN;13;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;23;23;24;100.00;24
+MN;13;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;23;23;2415;91.96;2626
+MN;13;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;23;23;211;8.04;2626
+MN;13;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;23;23;2495;100.00;2495
+MN;13;;0159;State Senator District 39;39;0301;Karin Housley;;;R;3;3;121;100.00;121
+MN;13;;0159;State Senator District 39;39;0401;Brian D. Hile;;;DFL;3;3;50;30.86;162
+MN;13;;0159;State Senator District 39;39;0402;Josiah Hill;;;DFL;3;3;112;69.14;162
+MN;13;;0251;State Representative District 32B;32B;0301;Anne Neu;;;R;14;14;1559;80.94;1926
+MN;13;;0251;State Representative District 32B;32B;0302;Joelle Walmsley;;;R;14;14;367;19.06;1926
+MN;13;;0251;State Representative District 32B;32B;0401;Katie Malchow;;;DFL;14;14;1926;100.00;1926
+MN;13;;0264;State Representative District 39A;39A;0301;Bob Dettmer;;;R;3;3;118;100.00;118
+MN;13;;0264;State Representative District 39A;39A;0401;Ann Mozey;;;DFL;3;3;143;87.73;163
+MN;13;;0264;State Representative District 39A;39A;0402;Chuck Fitzer;;;DFL;3;3;20;12.27;163
+MN;14;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;58;58;42;100.00;42
+MN;14;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;58;58;21;100.00;21
+MN;14;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;58;58;165;10.02;1646
+MN;14;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;58;58;131;7.96;1646
+MN;14;;0102;U.S. Senator;;0303;James Reibestein;;;R;58;58;103;6.26;1646
+MN;14;;0102;U.S. Senator;;0304;Jason Lewis;;;R;58;58;1057;64.22;1646
+MN;14;;0102;U.S. Senator;;0305;John L. Berman;;;R;58;58;190;11.54;1646
+MN;14;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;58;58;40;1.03;3895
+MN;14;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;58;58;3358;86.21;3895
+MN;14;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;58;58;81;2.08;3895
+MN;14;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;58;58;233;5.98;3895
+MN;14;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;58;58;183;4.70;3895
+MN;14;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;58;58;36;100.00;36
+MN;14;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;58;58;12;48.00;25
+MN;14;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;58;58;13;52.00;25
+MN;14;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;58;58;21;1.23;1708
+MN;14;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;58;58;40;2.34;1708
+MN;14;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;58;58;331;19.38;1708
+MN;14;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;58;58;411;24.06;1708
+MN;14;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;58;58;905;52.99;1708
+MN;14;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;58;58;2975;77.43;3842
+MN;14;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;58;58;696;18.12;3842
+MN;14;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;58;58;171;4.45;3842
+MN;14;;0194;State Representative District 4A;4A;0301;Edwin Hahn;;;R;17;17;848;100.00;848
+MN;14;;0194;State Representative District 4A;4A;0401;Chuck Hendrickson;;;DFL;17;17;959;33.68;2847
+MN;14;;0194;State Representative District 4A;4A;0402;Heather Keeler;;;DFL;17;17;1888;66.32;2847
+MN;15;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;29;29;10;100.00;10
+MN;15;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;29;29;9;100.00;9
+MN;15;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;29;29;73;11.18;653
+MN;15;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;29;29;35;5.36;653
+MN;15;;0102;U.S. Senator;;0303;James Reibestein;;;R;29;29;37;5.67;653
+MN;15;;0102;U.S. Senator;;0304;Jason Lewis;;;R;29;29;413;63.25;653
+MN;15;;0102;U.S. Senator;;0305;John L. Berman;;;R;29;29;95;14.55;653
+MN;15;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;29;29;5;1.53;326
+MN;15;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;29;29;267;81.90;326
+MN;15;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;29;29;8;2.45;326
+MN;15;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;29;29;22;6.75;326
+MN;15;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;29;29;24;7.36;326
+MN;15;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;29;29;9;100.00;9
+MN;15;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;29;29;8;80.00;10
+MN;15;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;29;29;2;20.00;10
+MN;15;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;29;29;5;0.73;681
+MN;15;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;29;29;7;1.03;681
+MN;15;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;29;29;105;15.42;681
+MN;15;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;29;29;214;31.42;681
+MN;15;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;29;29;350;51.40;681
+MN;15;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;29;29;241;72.37;333
+MN;15;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;29;29;68;20.42;333
+MN;15;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;29;29;24;7.21;333
+MN;16;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;13;13;16;100.00;16
+MN;16;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;13;13;19;100.00;19
+MN;16;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;13;13;69;11.52;599
+MN;16;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;13;13;41;6.84;599
+MN;16;;0102;U.S. Senator;;0303;James Reibestein;;;R;13;13;25;4.17;599
+MN;16;;0102;U.S. Senator;;0304;Jason Lewis;;;R;13;13;414;69.12;599
+MN;16;;0102;U.S. Senator;;0305;John L. Berman;;;R;13;13;50;8.35;599
+MN;16;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;13;13;16;1.13;1418
+MN;16;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;13;13;1274;89.84;1418
+MN;16;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;13;13;25;1.76;1418
+MN;16;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;13;13;80;5.64;1418
+MN;16;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;13;13;23;1.62;1418
+MN;16;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;13;13;19;100.00;19
+MN;16;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;13;13;619;92.80;667
+MN;16;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;13;13;48;7.20;667
+MN;16;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;13;13;1196;100.00;1196
+MN;16;;0392;County Commissioner District 2;02;9001;Myron Bursheim;;;NP;2;2;119;35.42;336
+MN;16;;0392;County Commissioner District 2;02;9002;Jaye White;;;NP;2;2;65;19.35;336
+MN;16;;0392;County Commissioner District 2;02;9003;Stacey Hawkins;;;NP;2;2;152;45.24;336
+MN;16;;0394;County Commissioner District 4;04;9001;Ann Sullivan;;;NP;2;2;300;46.58;644
+MN;16;;0394;County Commissioner District 4;04;9002;Charles Christiansen;;;NP;2;2;41;6.37;644
+MN;16;;0394;County Commissioner District 4;04;9003;Dean Berglund;;;NP;2;2;223;34.63;644
+MN;16;;0394;County Commissioner District 4;04;9004;Steve Watson;;;NP;2;2;80;12.42;644
+MN;17;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;29;29;4;100.00;4
+MN;17;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;29;29;3;100.00;3
+MN;17;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;29;29;48;9.86;487
+MN;17;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;29;29;19;3.90;487
+MN;17;;0102;U.S. Senator;;0303;James Reibestein;;;R;29;29;30;6.16;487
+MN;17;;0102;U.S. Senator;;0304;Jason Lewis;;;R;29;29;341;70.02;487
+MN;17;;0102;U.S. Senator;;0305;John L. Berman;;;R;29;29;49;10.06;487
+MN;17;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;29;29;1;0.34;293
+MN;17;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;29;29;261;89.08;293
+MN;17;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;29;29;9;3.07;293
+MN;17;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;29;29;14;4.78;293
+MN;17;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;29;29;8;2.73;293
+MN;17;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;19;19;0;0.00;0
+MN;17;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;19;19;0;0.00;2
+MN;17;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;19;19;2;100.00;2
+MN;17;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;19;19;8;2.08;384
+MN;17;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;19;19;163;42.45;384
+MN;17;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;19;19;51;13.28;384
+MN;17;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;19;19;25;6.51;384
+MN;17;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;19;19;137;35.68;384
+MN;17;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;19;19;163;74.09;220
+MN;17;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;19;19;43;19.55;220
+MN;17;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;19;19;14;6.36;220
+MN;17;;0142;State Senator District 22;22;0201;Brian Abrahamson;;;GLC;29;29;3;100.00;3
+MN;17;;0142;State Senator District 22;22;0301;Bill Weber;;;R;29;29;470;100.00;470
+MN;17;;0142;State Senator District 22;22;0401;Shawna Marshall;;;DFL;29;29;213;76.07;280
+MN;17;;0142;State Senator District 22;22;0402;Roger L. Elgersma;;;DFL;29;29;67;23.93;280
+MN;18;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;62;62;43;100.00;43
+MN;18;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;62;62;33;100.00;33
+MN;18;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;62;62;355;6.92;5131
+MN;18;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;62;62;227;4.42;5131
+MN;18;;0102;U.S. Senator;;0303;James Reibestein;;;R;62;62;234;4.56;5131
+MN;18;;0102;U.S. Senator;;0304;Jason Lewis;;;R;62;62;3986;77.68;5131
+MN;18;;0102;U.S. Senator;;0305;John L. Berman;;;R;62;62;329;6.41;5131
+MN;18;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;62;62;22;0.57;3871
+MN;18;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;62;62;3527;91.11;3871
+MN;18;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;62;62;62;1.60;3871
+MN;18;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;62;62;137;3.54;3871
+MN;18;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;62;62;123;3.18;3871
+MN;18;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;62;62;36;100.00;36
+MN;18;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;62;62;4898;93.28;5251
+MN;18;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;62;62;353;6.72;5251
+MN;18;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;62;62;3709;100.00;3709
+MN;18;;0130;State Senator District 10;10;0301;Shaun Christian Hansen;;;R;62;62;947;18.08;5239
+MN;18;;0130;State Senator District 10;10;0302;Carrie Ruud;;;R;62;62;4292;81.92;5239
+MN;18;;0130;State Senator District 10;10;0401;Steve Samuelson;;;DFL;62;62;3622;100.00;3622
+MN;18;;0395;County Commissioner District 5;05;9001;Michael J Starry;;;NP;20;20;780;31.55;2472
+MN;18;;0395;County Commissioner District 5;05;9002;Doug Houge;;;NP;20;20;1154;46.68;2472
+MN;18;;0395;County Commissioner District 5;05;9003;Tom Nixon;;;NP;20;20;538;21.76;2472
+MN;19;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;141;141;643;100.00;643
+MN;19;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;141;141;340;100.00;340
+MN;19;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;141;141;610;3.89;15680
+MN;19;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;141;141;459;2.93;15680
+MN;19;;0102;U.S. Senator;;0303;James Reibestein;;;R;141;141;299;1.91;15680
+MN;19;;0102;U.S. Senator;;0304;Jason Lewis;;;R;141;141;13876;88.49;15680
+MN;19;;0102;U.S. Senator;;0305;John L. Berman;;;R;141;141;436;2.78;15680
+MN;19;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;141;141;384;1.02;37487
+MN;19;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;141;141;33181;88.51;37487
+MN;19;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;141;141;1108;2.96;37487
+MN;19;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;141;141;2067;5.51;37487
+MN;19;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;141;141;747;1.99;37487
+MN;19;;0176;State Senator District 56;56;0301;Dan Hall;;;R;15;15;1834;100.00;1834
+MN;19;;0176;State Senator District 56;56;0401;Lindsey Port;;;DFL;15;15;3144;68.17;4612
+MN;19;;0176;State Senator District 56;56;0402;Kevin Shea;;;DFL;15;15;1203;26.08;4612
+MN;19;;0176;State Senator District 56;56;0403;Richard Tucker;;;DFL;15;15;265;5.75;4612
+MN;19;;0288;State Representative District 51A;51A;0301;Patrick J. Zurick;;;R;11;11;1180;100.00;1180
+MN;19;;0288;State Representative District 51A;51A;0401;Justin Clark;;;DFL;11;11;703;18.27;3848
+MN;19;;0288;State Representative District 51A;51A;0402;Sandra Masin;;;DFL;11;11;3145;81.73;3848
+MN;19;;0289;State Representative District 51B;51B;0301;Fern A. Smith;;;R;13;13;1134;100.00;1134
+MN;19;;0289;State Representative District 51B;51B;0401;Mike Maguire;;;DFL;13;13;1821;36.46;4994
+MN;19;;0289;State Representative District 51B;51B;0402;Liz Reyer;;;DFL;13;13;3173;63.54;4994
+MN;19;;0298;State Representative District 56A;56A;0301;Pam Myhra;;;R;4;4;416;91.03;457
+MN;19;;0298;State Representative District 56A;56A;0302;Basil Martin;;;R;4;4;41;8.97;457
+MN;19;;0298;State Representative District 56A;56A;0401;Jessica Hanson;;;DFL;4;4;941;100.00;941
+MN;19;;0393;County Commissioner District 3;03;9001;Janine Hudson;;;NP;21;21;518;5.57;9300
+MN;19;;0393;County Commissioner District 3;03;9002;Seema Maddali;;;NP;21;21;1143;12.29;9300
+MN;19;;0393;County Commissioner District 3;03;9003;Gary Huusko;;;NP;21;21;719;7.73;9300
+MN;19;;0393;County Commissioner District 3;03;9004;Scott D. Johnson;;;NP;21;21;786;8.45;9300
+MN;19;;0393;County Commissioner District 3;03;9005;Laurie Halverson;;;NP;21;21;4400;47.31;9300
+MN;19;;0393;County Commissioner District 3;03;9006;Diane Anderson;;;NP;21;21;1734;18.65;9300
+MN;20;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;22;22;33;100.00;33
+MN;20;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;22;22;9;100.00;9
+MN;20;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;22;22;52;7.66;679
+MN;20;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;22;22;40;5.89;679
+MN;20;;0102;U.S. Senator;;0303;James Reibestein;;;R;22;22;38;5.60;679
+MN;20;;0102;U.S. Senator;;0304;Jason Lewis;;;R;22;22;478;70.40;679
+MN;20;;0102;U.S. Senator;;0305;John L. Berman;;;R;22;22;71;10.46;679
+MN;20;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;22;22;10;1.43;697
+MN;20;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;22;22;600;86.08;697
+MN;20;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;22;22;17;2.44;697
+MN;20;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;22;22;38;5.45;697
+MN;20;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;22;22;32;4.59;697
+MN;20;;0240;State Representative District 27A;27A;0301;Peggy Bennett;;;R;3;3;93;100.00;93
+MN;20;;0240;State Representative District 27A;27A;0401;Thomas Martinez;;;DFL;3;3;55;72.37;76
+MN;20;;0240;State Representative District 27A;27A;0402;Joe Pacovsky;;;DFL;3;3;21;27.63;76
+MN;21;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;37;37;55;100.00;55
+MN;21;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;37;37;20;100.00;20
+MN;21;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;37;37;252;7.39;3410
+MN;21;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;37;37;103;3.02;3410
+MN;21;;0102;U.S. Senator;;0303;James Reibestein;;;R;37;37;134;3.93;3410
+MN;21;;0102;U.S. Senator;;0304;Jason Lewis;;;R;37;37;2673;78.39;3410
+MN;21;;0102;U.S. Senator;;0305;John L. Berman;;;R;37;37;248;7.27;3410
+MN;21;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;37;37;28;1.04;2680
+MN;21;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;37;37;2374;88.58;2680
+MN;21;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;37;37;46;1.72;2680
+MN;21;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;37;37;113;4.22;2680
+MN;21;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;37;37;119;4.44;2680
+MN;21;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;37;37;43;100.00;43
+MN;21;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;37;37;12;60.00;20
+MN;21;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;37;37;8;40.00;20
+MN;21;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;37;37;57;1.61;3530
+MN;21;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;37;37;37;1.05;3530
+MN;21;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;37;37;531;15.04;3530
+MN;21;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;37;37;546;15.47;3530
+MN;21;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;37;37;2359;66.83;3530
+MN;21;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;37;37;1965;73.29;2681
+MN;21;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;37;37;479;17.87;2681
+MN;21;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;37;37;237;8.84;2681
+MN;22;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;33;33;15;100.00;15
+MN;22;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;33;33;10;100.00;10
+MN;22;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;33;33;140;11.26;1243
+MN;22;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;33;33;78;6.28;1243
+MN;22;;0102;U.S. Senator;;0303;James Reibestein;;;R;33;33;67;5.39;1243
+MN;22;;0102;U.S. Senator;;0304;Jason Lewis;;;R;33;33;845;67.98;1243
+MN;22;;0102;U.S. Senator;;0305;John L. Berman;;;R;33;33;113;9.09;1243
+MN;22;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;33;33;9;1.65;547
+MN;22;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;33;33;472;86.29;547
+MN;22;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;33;33;13;2.38;547
+MN;22;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;33;33;25;4.57;547
+MN;22;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;33;33;28;5.12;547
+MN;22;;0232;State Representative District 23A;23A;0301;Bjorn Olson;;;R;26;26;779;64.17;1214
+MN;22;;0232;State Representative District 23A;23A;0302;Michael Sukalski;;;R;26;26;435;35.83;1214
+MN;22;;0232;State Representative District 23A;23A;0401;Patricia Fahey Bacon;;;DFL;26;26;350;100.00;350
+MN;22;;0240;State Representative District 27A;27A;0301;Peggy Bennett;;;R;7;7;157;100.00;157
+MN;22;;0240;State Representative District 27A;27A;0401;Thomas Martinez;;;DFL;7;7;93;72.66;128
+MN;22;;0240;State Representative District 27A;27A;0402;Joe Pacovsky;;;DFL;7;7;35;27.34;128
+MN;22;;0395;County Commissioner District 5;05;9001;Dennis Koziolek;;;NP;10;10;150;39.37;381
+MN;22;;0395;County Commissioner District 5;05;9002;Bruce (Charlie) Anderson;;;NP;10;10;181;47.51;381
+MN;22;;0395;County Commissioner District 5;05;9003;Paul Bach;;;NP;10;10;50;13.12;381
+MN;23;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;37;37;47;100.00;47
+MN;23;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;37;37;12;100.00;12
+MN;23;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;37;37;92;12.12;759
+MN;23;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;37;37;67;8.83;759
+MN;23;;0102;U.S. Senator;;0303;James Reibestein;;;R;37;37;44;5.80;759
+MN;23;;0102;U.S. Senator;;0304;Jason Lewis;;;R;37;37;467;61.53;759
+MN;23;;0102;U.S. Senator;;0305;John L. Berman;;;R;37;37;89;11.73;759
+MN;23;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;37;37;11;0.98;1125
+MN;23;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;37;37;969;86.13;1125
+MN;23;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;37;37;13;1.16;1125
+MN;23;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;37;37;68;6.04;1125
+MN;23;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;37;37;64;5.69;1125
+MN;23;;0395;County Commissioner District 5;05;9001;Vance Haugen;;;NP;8;8;84;15.08;557
+MN;23;;0395;County Commissioner District 5;05;9002;Tony Webber;;;NP;8;8;236;42.37;557
+MN;23;;0395;County Commissioner District 5;05;9003;Marc Prestby;;;NP;8;8;237;42.55;557
+MN;24;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;41;41;38;100.00;38
+MN;24;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;41;41;14;100.00;14
+MN;24;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;41;41;205;12.85;1595
+MN;24;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;41;41;105;6.58;1595
+MN;24;;0102;U.S. Senator;;0303;James Reibestein;;;R;41;41;91;5.71;1595
+MN;24;;0102;U.S. Senator;;0304;Jason Lewis;;;R;41;41;1008;63.20;1595
+MN;24;;0102;U.S. Senator;;0305;John L. Berman;;;R;41;41;186;11.66;1595
+MN;24;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;41;41;27;1.23;2194
+MN;24;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;41;41;1888;86.05;2194
+MN;24;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;41;41;43;1.96;2194
+MN;24;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;41;41;110;5.01;2194
+MN;24;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;41;41;126;5.74;2194
+MN;24;;0240;State Representative District 27A;27A;0301;Peggy Bennett;;;R;39;39;1687;100.00;1687
+MN;24;;0240;State Representative District 27A;27A;0401;Thomas Martinez;;;DFL;39;39;1483;70.35;2108
+MN;24;;0240;State Representative District 27A;27A;0402;Joe Pacovsky;;;DFL;39;39;625;29.65;2108
+MN;24;;0395;County Commissioner District 5;05;9001;Ted Herman;;;NP;3;3;242;30.10;804
+MN;24;;0395;County Commissioner District 5;05;9002;Lynn C. Berven;;;NP;3;3;236;29.35;804
+MN;24;;0395;County Commissioner District 5;05;9003;Mike Lee;;;NP;3;3;326;40.55;804
+MN;25;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;40;40;125;100.00;125
+MN;25;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;40;40;51;100.00;51
+MN;25;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;40;40;105;4.03;2606
+MN;25;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;40;40;77;2.95;2606
+MN;25;;0102;U.S. Senator;;0303;James Reibestein;;;R;40;40;56;2.15;2606
+MN;25;;0102;U.S. Senator;;0304;Jason Lewis;;;R;40;40;2266;86.95;2606
+MN;25;;0102;U.S. Senator;;0305;John L. Berman;;;R;40;40;102;3.91;2606
+MN;25;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;40;40;30;0.84;3580
+MN;25;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;40;40;3175;88.69;3580
+MN;25;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;40;40;75;2.09;3580
+MN;25;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;40;40;165;4.61;3580
+MN;25;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;40;40;135;3.77;3580
+MN;25;;0393;County Commissioner District 3;03;9001;Phillip Charles Parrish;;;NP;11;11;69;5.84;1181
+MN;25;;0393;County Commissioner District 3;03;9002;Keith Allen;;;NP;11;11;386;32.68;1181
+MN;25;;0393;County Commissioner District 3;03;9003;Rod Steele;;;NP;11;11;215;18.20;1181
+MN;25;;0393;County Commissioner District 3;03;9004;Todd Greseth;;;NP;11;11;511;43.27;1181
+MN;26;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;23;23;15;100.00;15
+MN;26;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;23;23;3;100.00;3
+MN;26;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;23;23;46;8.80;523
+MN;26;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;23;23;17;3.25;523
+MN;26;;0102;U.S. Senator;;0303;James Reibestein;;;R;23;23;18;3.44;523
+MN;26;;0102;U.S. Senator;;0304;Jason Lewis;;;R;23;23;407;77.82;523
+MN;26;;0102;U.S. Senator;;0305;John L. Berman;;;R;23;23;35;6.69;523
+MN;26;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;23;23;1;0.19;525
+MN;26;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;23;23;459;87.43;525
+MN;26;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;23;23;4;0.76;525
+MN;26;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;23;23;19;3.62;525
+MN;26;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;23;23;42;8.00;525
+MN;26;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;23;23;11;100.00;11
+MN;26;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;23;23;2;66.67;3
+MN;26;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;23;23;1;33.33;3
+MN;26;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;23;23;11;2.07;532
+MN;26;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;23;23;20;3.76;532
+MN;26;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;23;23;83;15.60;532
+MN;26;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;23;23;126;23.68;532
+MN;26;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;23;23;292;54.89;532
+MN;26;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;23;23;440;79.85;551
+MN;26;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;23;23;69;12.52;551
+MN;26;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;23;23;42;7.62;551
+MN;27;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;425;425;1568;100.00;1568
+MN;27;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;425;425;436;100.00;436
+MN;27;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;425;425;2157;5.62;38374
+MN;27;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;425;425;1393;3.63;38374
+MN;27;;0102;U.S. Senator;;0303;James Reibestein;;;R;425;425;948;2.47;38374
+MN;27;;0102;U.S. Senator;;0304;Jason Lewis;;;R;425;425;32369;84.35;38374
+MN;27;;0102;U.S. Senator;;0305;John L. Berman;;;R;425;425;1507;3.93;38374
+MN;27;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;425;425;2730;1.18;232128
+MN;27;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;425;425;200887;86.54;232128
+MN;27;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;425;425;9927;4.28;232128
+MN;27;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;425;425;12496;5.38;232128
+MN;27;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;425;425;6088;2.62;232128
+MN;27;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;210;210;20672;77.38;26715
+MN;27;;0106;U.S. Representative District 3;3;0302;Leslie Davis;;;R;210;210;6043;22.62;26715
+MN;27;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;210;210;64254;91.12;70517
+MN;27;;0106;U.S. Representative District 3;3;0402;Cole Young;;;DFL;210;210;6263;8.88;70517
+MN;27;;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;213;213;858;100.00;858
+MN;27;;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;213;213;7941;77.00;10313
+MN;27;;0108;U.S. Representative District 5;5;0302;Danielle Stella;;;R;213;213;1870;18.13;10313
+MN;27;;0108;U.S. Representative District 5;5;0303;Dalia Al-Aqidi;;;R;213;213;502;4.87;10313
+MN;27;;0108;U.S. Representative District 5;5;0401;Daniel Patrick McCarthy;;;DFL;213;213;1630;0.97;168553
+MN;27;;0108;U.S. Representative District 5;5;0402;Les Lester;;;DFL;213;213;1148;0.68;168553
+MN;27;;0108;U.S. Representative District 5;5;0403;John Mason;;;DFL;213;213;2465;1.46;168553
+MN;27;;0108;U.S. Representative District 5;5;0404;Ilhan Omar;;;DFL;213;213;98820;58.63;168553
+MN;27;;0108;U.S. Representative District 5;5;0405;Antone Melton-Meaux;;;DFL;213;213;64490;38.26;168553
+MN;27;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;2;2;58;90.63;64
+MN;27;;0109;U.S. Representative District 6;6;0302;Patrick Munro;;;R;2;2;6;9.38;64
+MN;27;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;2;2;25;100.00;25
+MN;27;;0154;State Senator District 34;34;0301;Warren Limmer;;;R;30;30;3875;100.00;3875
+MN;27;;0154;State Senator District 34;34;0401;Bonnie Westlin;;;DFL;30;30;5810;71.81;8091
+MN;27;;0154;State Senator District 34;34;0402;Aarica L. Coleman;;;DFL;30;30;2281;28.19;8091
+MN;27;;0164;State Senator District 44;44;0301;Greg Pulles;;;R;30;30;3946;100.00;3946
+MN;27;;0164;State Senator District 44;44;0401;Zina Alston-Fizer;;;DFL;30;30;2956;23.41;12628
+MN;27;;0164;State Senator District 44;44;0402;Ann Johnson Stewart;;;DFL;30;30;9672;76.59;12628
+MN;27;;0169;State Senator District 49;49;0301;Julie Dupré;;;R;34;34;2581;62.78;4111
+MN;27;;0169;State Senator District 49;49;0302;Jenny Rhoades;;;R;34;34;1530;37.22;4111
+MN;27;;0169;State Senator District 49;49;0401;Melisa Lopez Franzen;;;DFL;34;34;14895;100.00;14895
+MN;27;;0179;State Senator District 59;59;0301;Paul Anderson;;;R;25;25;841;100.00;841
+MN;27;;0179;State Senator District 59;59;0401;Bobby Joe Champion;;;DFL;25;25;11639;77.07;15102
+MN;27;;0179;State Senator District 59;59;0402;Suleiman Isse;;;DFL;25;25;3463;22.93;15102
+MN;27;;0182;State Senator District 62;62;0301;Bruce Lundeen;;;R;25;25;443;100.00;443
+MN;27;;0182;State Senator District 62;62;0401;Jeff Hayden;;;DFL;25;25;9140;45.14;20249
+MN;27;;0182;State Senator District 62;62;0402;Omar Fateh;;;DFL;25;25;11109;54.86;20249
+MN;27;;0253;State Representative District 33B;33B;0301;Marianne Stebbins;;;R;17;17;621;27.28;2276
+MN;27;;0253;State Representative District 33B;33B;0302;Andrew Myers;;;R;17;17;1655;72.72;2276
+MN;27;;0253;State Representative District 33B;33B;0401;Kelly Morrison;;;DFL;17;17;3488;100.00;3488
+MN;27;;0276;State Representative District 45A;45A;0301;Jesse Pfliger;;;R;16;16;1181;100.00;1181
+MN;27;;0276;State Representative District 45A;45A;0401;Daonna Depoister;;;DFL;16;16;1679;31.23;5376
+MN;27;;0276;State Representative District 45A;45A;0402;Cedrick Rommel Frazier;;;DFL;16;16;3697;68.77;5376
+MN;27;;0305;State Representative District 59B;59B;0301;Alan Shilepsky;;;R;15;15;402;100.00;402
+MN;27;;0305;State Representative District 59B;59B;0401;Raymond Dehn;;;DFL;15;15;3836;41.65;9211
+MN;27;;0305;State Representative District 59B;59B;0402;Isaiah Whitmore;;;DFL;15;15;932;10.12;9211
+MN;27;;0305;State Representative District 59B;59B;0403;Esther Agbaje;;;DFL;15;15;4443;48.24;9211
+MN;27;;0312;State Representative District 63A;63A;0101;David Wiester;;;LMN;16;16;87;100.00;87
+MN;27;;0312;State Representative District 63A;63A;0301;Penny Arcos;;;R;16;16;475;100.00;475
+MN;27;;0312;State Representative District 63A;63A;0401;Jim Davnie;;;DFL;16;16;11563;79.61;14524
+MN;27;;0312;State Representative District 63A;63A;0402;April Kane;;;DFL;16;16;2961;20.39;14524
+MN;27;;0313;State Representative District 63B;63B;0101;Dennis Schuller;;;LMN;15;15;73;100.00;73
+MN;27;;0313;State Representative District 63B;63B;0301;Frank Pafko;;;R;15;15;775;100.00;775
+MN;27;;0313;State Representative District 63B;63B;0401;Husniyah Dent Bradley;;;DFL;15;15;1123;9.74;11535
+MN;27;;0313;State Representative District 63B;63B;0402;Emma Greenman;;;DFL;15;15;7380;63.98;11535
+MN;27;;0313;State Representative District 63B;63B;0403;Jerome T Evans;;;DFL;15;15;3032;26.29;11535
+MN;27;;0391;County Commissioner District 1;01;9001;Jeff Lunde;;;NP;55;55;9352;36.68;25499
+MN;27;;0391;County Commissioner District 1;01;9002;MaryJo Melsha;;;NP;55;55;4559;17.88;25499
+MN;27;;0391;County Commissioner District 1;01;9003;De'Vonna Pittman;;;NP;55;55;11588;45.44;25499
+MN;27;;0396;County Commissioner District 6;06;9001;Cheri Sudit;;;NP;76;76;4730;12.05;39257
+MN;27;;0396;County Commissioner District 6;06;9002;Kimberly Wilburn;;;NP;76;76;4950;12.61;39257
+MN;27;;0396;County Commissioner District 6;06;9003;Chris LaTondresse;;;NP;76;76;12592;32.08;39257
+MN;27;;0396;County Commissioner District 6;06;9004;Dario Anselmo;;;NP;76;76;8265;21.05;39257
+MN;27;;0396;County Commissioner District 6;06;9005;Brad Aho;;;NP;76;76;7000;17.83;39257
+MN;27;;0396;County Commissioner District 6;06;9006;Carmella Doby;;;NP;76;76;1720;4.38;39257
+MN;27;;0397;County Commissioner District 7;07;9001;Kevin Anderson;;;NP;63;63;11178;43.15;25904
+MN;27;;0397;County Commissioner District 7;07;9002;Kim Zellers;;;NP;63;63;7021;27.10;25904
+MN;27;;0397;County Commissioner District 7;07;9003;Danny Nadeau;;;NP;63;63;7705;29.74;25904
+MN;28;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;27;27;64;100.00;64
+MN;28;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;27;27;23;100.00;23
+MN;28;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;27;27;133;14.21;936
+MN;28;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;27;27;78;8.33;936
+MN;28;;0102;U.S. Senator;;0303;James Reibestein;;;R;27;27;46;4.91;936
+MN;28;;0102;U.S. Senator;;0304;Jason Lewis;;;R;27;27;583;62.29;936
+MN;28;;0102;U.S. Senator;;0305;John L. Berman;;;R;27;27;96;10.26;936
+MN;28;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;27;27;16;1.20;1335
+MN;28;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;27;27;1041;77.98;1335
+MN;28;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;27;27;38;2.85;1335
+MN;28;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;27;27;117;8.76;1335
+MN;28;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;27;27;123;9.21;1335
+MN;28;;0391;County Commissioner District 1;01;9001;Scott Yeiter;;;NP;2;2;181;25.75;703
+MN;28;;0391;County Commissioner District 1;01;9002;Jack Miller;;;NP;2;2;173;24.61;703
+MN;28;;0391;County Commissioner District 1;01;9003;Dewey Severson;;;NP;2;2;349;49.64;703
+MN;29;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;38;38;32;100.00;32
+MN;29;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;38;38;17;100.00;17
+MN;29;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;38;38;129;8.38;1540
+MN;29;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;38;38;59;3.83;1540
+MN;29;;0102;U.S. Senator;;0303;James Reibestein;;;R;38;38;74;4.81;1540
+MN;29;;0102;U.S. Senator;;0304;Jason Lewis;;;R;38;38;1169;75.91;1540
+MN;29;;0102;U.S. Senator;;0305;John L. Berman;;;R;38;38;109;7.08;1540
+MN;29;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;38;38;11;0.75;1469
+MN;29;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;38;38;1344;91.49;1469
+MN;29;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;38;38;19;1.29;1469
+MN;29;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;38;38;43;2.93;1469
+MN;29;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;38;38;52;3.54;1469
+MN;29;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;38;38;18;100.00;18
+MN;29;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;38;38;1440;94.80;1519
+MN;29;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;38;38;79;5.20;1519
+MN;29;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;38;38;1255;100.00;1255
+MN;30;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;19;19;44;100.00;44
+MN;30;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;19;19;19;100.00;19
+MN;30;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;19;19;114;6.10;1869
+MN;30;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;19;19;85;4.55;1869
+MN;30;;0102;U.S. Senator;;0303;James Reibestein;;;R;19;19;81;4.33;1869
+MN;30;;0102;U.S. Senator;;0304;Jason Lewis;;;R;19;19;1475;78.92;1869
+MN;30;;0102;U.S. Senator;;0305;John L. Berman;;;R;19;19;114;6.10;1869
+MN;30;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;19;19;20;1.27;1579
+MN;30;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;19;19;1401;88.73;1579
+MN;30;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;19;19;30;1.90;1579
+MN;30;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;19;19;85;5.38;1579
+MN;30;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;19;19;43;2.72;1579
+MN;30;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;19;19;21;100.00;21
+MN;30;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;19;19;1625;90.23;1801
+MN;30;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;19;19;176;9.77;1801
+MN;30;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;19;19;1334;100.00;1334
+MN;30;;0248;State Representative District 31A;31A;0301;Beau C. Hullermann;;;R;5;5;69;12.59;548
+MN;30;;0248;State Representative District 31A;31A;0302;Kurt Daudt;;;R;5;5;479;87.41;548
+MN;30;;0248;State Representative District 31A;31A;0401;Brad Brown;;;DFL;5;5;314;100.00;314
+MN;31;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;76;76;49;100.00;49
+MN;31;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;76;76;70;100.00;70
+MN;31;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;76;76;311;10.15;3064
+MN;31;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;76;76;189;6.17;3064
+MN;31;;0102;U.S. Senator;;0303;James Reibestein;;;R;76;76;169;5.52;3064
+MN;31;;0102;U.S. Senator;;0304;Jason Lewis;;;R;76;76;2077;67.79;3064
+MN;31;;0102;U.S. Senator;;0305;John L. Berman;;;R;76;76;318;10.38;3064
+MN;31;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;76;76;35;0.90;3885
+MN;31;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;76;76;3523;90.68;3885
+MN;31;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;76;76;41;1.06;3885
+MN;31;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;76;76;144;3.71;3885
+MN;31;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;76;76;142;3.66;3885
+MN;31;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;76;76;69;100.00;69
+MN;31;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;76;76;2983;94.49;3157
+MN;31;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;76;76;174;5.51;3157
+MN;31;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;76;76;3456;100.00;3456
+MN;31;;0126;State Senator District 6;6;0301;John J. Moren;;;R;22;22;678;100.00;678
+MN;31;;0126;State Senator District 6;6;0401;Christopher Horoshak;;;DFL;22;22;189;16.00;1181
+MN;31;;0126;State Senator District 6;6;0402;David J Tomassoni;;;DFL;22;22;992;84.00;1181
+MN;32;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;28;28;5;100.00;5
+MN;32;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;28;28;9;100.00;9
+MN;32;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;28;28;73;10.41;701
+MN;32;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;28;28;28;3.99;701
+MN;32;;0102;U.S. Senator;;0303;James Reibestein;;;R;28;28;28;3.99;701
+MN;32;;0102;U.S. Senator;;0304;Jason Lewis;;;R;28;28;510;72.75;701
+MN;32;;0102;U.S. Senator;;0305;John L. Berman;;;R;28;28;62;8.84;701
+MN;32;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;28;28;5;1.29;387
+MN;32;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;28;28;336;86.82;387
+MN;32;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;28;28;10;2.58;387
+MN;32;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;28;28;17;4.39;387
+MN;32;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;28;28;19;4.91;387
+MN;32;;0142;State Senator District 22;22;0201;Brian Abrahamson;;;GLC;15;15;3;100.00;3
+MN;32;;0142;State Senator District 22;22;0301;Bill Weber;;;R;15;15;288;100.00;288
+MN;32;;0142;State Senator District 22;22;0401;Shawna Marshall;;;DFL;15;15;122;73.94;165
+MN;32;;0142;State Senator District 22;22;0402;Roger L. Elgersma;;;DFL;15;15;43;26.06;165
+MN;32;;0232;State Representative District 23A;23A;0301;Bjorn Olson;;;R;13;13;330;73.33;450
+MN;32;;0232;State Representative District 23A;23A;0302;Michael Sukalski;;;R;13;13;120;26.67;450
+MN;32;;0232;State Representative District 23A;23A;0401;Patricia Fahey Bacon;;;DFL;13;13;187;100.00;187
+MN;33;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;20;20;20;100.00;20
+MN;33;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;20;20;17;100.00;17
+MN;33;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;20;20;43;4.63;929
+MN;33;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;20;20;42;4.52;929
+MN;33;;0102;U.S. Senator;;0303;James Reibestein;;;R;20;20;39;4.20;929
+MN;33;;0102;U.S. Senator;;0304;Jason Lewis;;;R;20;20;756;81.38;929
+MN;33;;0102;U.S. Senator;;0305;John L. Berman;;;R;20;20;49;5.27;929
+MN;33;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;20;20;11;1.51;730
+MN;33;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;20;20;637;87.26;730
+MN;33;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;20;20;9;1.23;730
+MN;33;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;20;20;40;5.48;730
+MN;33;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;20;20;33;4.52;730
+MN;33;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;20;20;18;100.00;18
+MN;33;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;20;20;873;95.10;918
+MN;33;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;20;20;45;4.90;918
+MN;33;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;20;20;550;100.00;550
+MN;33;;0394;County Commissioner District 4;04;9001;Kathi Ellis;;;NP;4;4;192;37.21;516
+MN;33;;0394;County Commissioner District 4;04;9002;Rickey Mattson;;;NP;4;4;306;59.30;516
+MN;33;;0394;County Commissioner District 4;04;9003;Grayling Wachsmuth;;;NP;4;4;18;3.49;516
+MN;34;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;48;48;38;100.00;38
+MN;34;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;48;48;18;100.00;18
+MN;34;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;48;48;130;6.16;2109
+MN;34;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;48;48;88;4.17;2109
+MN;34;;0102;U.S. Senator;;0303;James Reibestein;;;R;48;48;102;4.84;2109
+MN;34;;0102;U.S. Senator;;0304;Jason Lewis;;;R;48;48;1566;74.25;2109
+MN;34;;0102;U.S. Senator;;0305;John L. Berman;;;R;48;48;223;10.57;2109
+MN;34;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;48;48;19;0.95;2008
+MN;34;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;48;48;1768;88.05;2008
+MN;34;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;48;48;58;2.89;2008
+MN;34;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;48;48;67;3.34;2008
+MN;34;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;48;48;96;4.78;2008
+MN;34;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;48;48;34;100.00;34
+MN;34;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;48;48;11;78.57;14
+MN;34;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;48;48;3;21.43;14
+MN;34;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;48;48;31;1.41;2201
+MN;34;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;48;48;36;1.64;2201
+MN;34;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;48;48;259;11.77;2201
+MN;34;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;48;48;428;19.45;2201
+MN;34;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;48;48;1447;65.74;2201
+MN;34;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;48;48;1544;77.24;1999
+MN;34;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;48;48;296;14.81;1999
+MN;34;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;48;48;159;7.95;1999
+MN;34;;0220;State Representative District 17A;17A;0101;Ed Engelmann;;;LMN;8;8;1;100.00;1
+MN;34;;0220;State Representative District 17A;17A;0301;Tim Miller;;;R;8;8;231;100.00;231
+MN;34;;0220;State Representative District 17A;17A;0401;Ben Dolan;;;DFL;8;8;73;78.49;93
+MN;34;;0220;State Representative District 17A;17A;0402;Robert M Wright;;;DFL;8;8;20;21.51;93
+MN;34;;0395;County Commissioner District 5;05;9001;Harlan Madsen;;;NP;18;18;110;11.03;997
+MN;34;;0395;County Commissioner District 5;05;9002;Duane Anderson;;;NP;18;18;472;47.34;997
+MN;34;;0395;County Commissioner District 5;05;9003;John O Cunningham;;;NP;18;18;415;41.62;997
+MN;35;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;39;39;5;100.00;5
+MN;35;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;39;39;2;100.00;2
+MN;35;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;39;39;45;10.71;420
+MN;35;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;39;39;22;5.24;420
+MN;35;;0102;U.S. Senator;;0303;James Reibestein;;;R;39;39;15;3.57;420
+MN;35;;0102;U.S. Senator;;0304;Jason Lewis;;;R;39;39;271;64.52;420
+MN;35;;0102;U.S. Senator;;0305;John L. Berman;;;R;39;39;67;15.95;420
+MN;35;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;39;39;11;2.31;477
+MN;35;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;39;39;413;86.58;477
+MN;35;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;39;39;8;1.68;477
+MN;35;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;39;39;20;4.19;477
+MN;35;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;39;39;25;5.24;477
+MN;35;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;39;39;5;100.00;5
+MN;35;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;39;39;1;50.00;2
+MN;35;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;39;39;1;50.00;2
+MN;35;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;39;39;8;1.83;436
+MN;35;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;39;39;4;0.92;436
+MN;35;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;39;39;55;12.61;436
+MN;35;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;39;39;210;48.17;436
+MN;35;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;39;39;159;36.47;436
+MN;35;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;39;39;437;87.93;497
+MN;35;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;39;39;36;7.24;497
+MN;35;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;39;39;24;4.83;497
+MN;35;;0188;State Representative District 1A;1A;0301;John Burkel;;;R;39;39;388;89.40;434
+MN;35;;0188;State Representative District 1A;1A;0302;David Lion;;;R;39;39;27;6.22;434
+MN;35;;0188;State Representative District 1A;1A;0303;Brian Meehan;;;R;39;39;19;4.38;434
+MN;35;;0188;State Representative District 1A;1A;0401;Connie Lindstrom;;;DFL;39;39;428;100.00;428
+MN;35;;0391;County Commissioner District 1;01;9001;Nathan A. Kraulik;;;NP;3;3;88;47.06;187
+MN;35;;0391;County Commissioner District 1;01;9002;Corey Wikstrom;;;NP;3;3;79;42.25;187
+MN;35;;0391;County Commissioner District 1;01;9003;Brian Anderson;;;NP;3;3;20;10.70;187
+MN;36;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;22;22;14;100.00;14
+MN;36;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;22;22;8;100.00;8
+MN;36;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;22;22;93;12.09;769
+MN;36;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;22;22;56;7.28;769
+MN;36;;0102;U.S. Senator;;0303;James Reibestein;;;R;22;22;40;5.20;769
+MN;36;;0102;U.S. Senator;;0304;Jason Lewis;;;R;22;22;501;65.15;769
+MN;36;;0102;U.S. Senator;;0305;John L. Berman;;;R;22;22;79;10.27;769
+MN;36;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;22;22;8;0.94;848
+MN;36;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;22;22;783;92.33;848
+MN;36;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;22;22;9;1.06;848
+MN;36;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;22;22;22;2.59;848
+MN;36;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;22;22;26;3.07;848
+MN;36;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;22;22;7;100.00;7
+MN;36;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;22;22;770;94.36;816
+MN;36;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;22;22;46;5.64;816
+MN;36;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;22;22;680;100.00;680
+MN;37;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;29;29;1;100.00;1
+MN;37;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;29;29;0;0.00;0
+MN;37;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;29;29;41;8.02;511
+MN;37;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;29;29;20;3.91;511
+MN;37;;0102;U.S. Senator;;0303;James Reibestein;;;R;29;29;18;3.52;511
+MN;37;;0102;U.S. Senator;;0304;Jason Lewis;;;R;29;29;396;77.50;511
+MN;37;;0102;U.S. Senator;;0305;John L. Berman;;;R;29;29;36;7.05;511
+MN;37;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;29;29;5;0.97;517
+MN;37;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;29;29;448;86.65;517
+MN;37;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;29;29;12;2.32;517
+MN;37;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;29;29;20;3.87;517
+MN;37;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;29;29;32;6.19;517
+MN;37;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;29;29;1;100.00;1
+MN;37;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;29;29;0;0.00;0
+MN;37;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;29;29;0;0.00;0
+MN;37;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;29;29;20;3.80;526
+MN;37;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;29;29;6;1.14;526
+MN;37;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;29;29;59;11.22;526
+MN;37;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;29;29;129;24.52;526
+MN;37;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;29;29;312;59.32;526
+MN;37;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;29;29;411;78.14;526
+MN;37;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;29;29;82;15.59;526
+MN;37;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;29;29;33;6.27;526
+MN;38;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;19;19;16;100.00;16
+MN;38;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;19;19;14;100.00;14
+MN;38;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;19;19;67;11.59;578
+MN;38;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;19;19;42;7.27;578
+MN;38;;0102;U.S. Senator;;0303;James Reibestein;;;R;19;19;54;9.34;578
+MN;38;;0102;U.S. Senator;;0304;Jason Lewis;;;R;19;19;366;63.32;578
+MN;38;;0102;U.S. Senator;;0305;John L. Berman;;;R;19;19;49;8.48;578
+MN;38;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;19;19;9;0.74;1223
+MN;38;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;19;19;1096;89.62;1223
+MN;38;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;19;19;15;1.23;1223
+MN;38;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;19;19;68;5.56;1223
+MN;38;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;19;19;35;2.86;1223
+MN;38;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;19;19;13;100.00;13
+MN;38;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;19;19;592;95.33;621
+MN;38;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;19;19;29;4.67;621
+MN;38;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;19;19;1117;100.00;1117
+MN;39;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;17;17;11;100.00;11
+MN;39;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;17;17;5;100.00;5
+MN;39;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;17;17;67;12.41;540
+MN;39;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;17;17;31;5.74;540
+MN;39;;0102;U.S. Senator;;0303;James Reibestein;;;R;17;17;20;3.70;540
+MN;39;;0102;U.S. Senator;;0304;Jason Lewis;;;R;17;17;357;66.11;540
+MN;39;;0102;U.S. Senator;;0305;John L. Berman;;;R;17;17;65;12.04;540
+MN;39;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;17;17;6;1.86;322
+MN;39;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;17;17;259;80.43;322
+MN;39;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;17;17;1;0.31;322
+MN;39;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;17;17;21;6.52;322
+MN;39;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;17;17;35;10.87;322
+MN;39;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;17;17;10;100.00;10
+MN;39;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;17;17;3;60.00;5
+MN;39;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;17;17;2;40.00;5
+MN;39;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;17;17;5;0.90;557
+MN;39;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;17;17;9;1.62;557
+MN;39;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;17;17;82;14.72;557
+MN;39;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;17;17;139;24.96;557
+MN;39;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;17;17;322;57.81;557
+MN;39;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;17;17;264;79.76;331
+MN;39;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;17;17;37;11.18;331
+MN;39;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;17;17;30;9.06;331
+MN;40;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;26;26;57;100.00;57
+MN;40;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;26;26;18;100.00;18
+MN;40;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;26;26;89;6.22;1432
+MN;40;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;26;26;48;3.35;1432
+MN;40;;0102;U.S. Senator;;0303;James Reibestein;;;R;26;26;27;1.89;1432
+MN;40;;0102;U.S. Senator;;0304;Jason Lewis;;;R;26;26;1197;83.59;1432
+MN;40;;0102;U.S. Senator;;0305;John L. Berman;;;R;26;26;71;4.96;1432
+MN;40;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;26;26;9;0.67;1353
+MN;40;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;26;26;1215;89.80;1353
+MN;40;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;26;26;22;1.63;1353
+MN;40;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;26;26;66;4.88;1353
+MN;40;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;26;26;41;3.03;1353
+MN;40;;0233;State Representative District 23B;23B;0301;Jeremy Munson;;;R;4;4;228;89.76;254
+MN;40;;0233;State Representative District 23B;23B;0302;Yvonne Simon;;;R;4;4;26;10.24;254
+MN;40;;0233;State Representative District 23B;23B;0401;Leroy McClelland;;;DFL;4;4;156;100.00;156
+MN;41;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;20;20;7;100.00;7
+MN;41;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;20;20;4;100.00;4
+MN;41;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;20;20;30;9.74;308
+MN;41;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;20;20;21;6.82;308
+MN;41;;0102;U.S. Senator;;0303;James Reibestein;;;R;20;20;25;8.12;308
+MN;41;;0102;U.S. Senator;;0304;Jason Lewis;;;R;20;20;180;58.44;308
+MN;41;;0102;U.S. Senator;;0305;John L. Berman;;;R;20;20;52;16.88;308
+MN;41;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;20;20;5;2.59;193
+MN;41;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;20;20;149;77.20;193
+MN;41;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;20;20;3;1.55;193
+MN;41;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;20;20;14;7.25;193
+MN;41;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;20;20;22;11.40;193
+MN;41;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;20;20;7;100.00;7
+MN;41;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;20;20;1;25.00;4
+MN;41;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;20;20;3;75.00;4
+MN;41;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;20;20;26;8.05;323
+MN;41;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;20;20;7;2.17;323
+MN;41;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;20;20;42;13.00;323
+MN;41;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;20;20;59;18.27;323
+MN;41;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;20;20;189;58.51;323
+MN;41;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;20;20;138;71.13;194
+MN;41;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;20;20;36;18.56;194
+MN;41;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;20;20;20;10.31;194
+MN;41;;0142;State Senator District 22;22;0201;Brian Abrahamson;;;GLC;20;20;4;100.00;4
+MN;41;;0142;State Senator District 22;22;0301;Bill Weber;;;R;20;20;294;100.00;294
+MN;41;;0142;State Senator District 22;22;0401;Shawna Marshall;;;DFL;20;20;139;74.33;187
+MN;41;;0142;State Senator District 22;22;0402;Roger L. Elgersma;;;DFL;20;20;48;25.67;187
+MN;41;;0395;County Commissioner District 5;05;9001;Steve Hauswedell;;;NP;7;7;104;72.22;144
+MN;41;;0395;County Commissioner District 5;05;9002;Richard E. Rolling;;;NP;7;7;15;10.42;144
+MN;41;;0395;County Commissioner District 5;05;9003;Jack Vizecky;;;NP;7;7;25;17.36;144
+MN;42;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;33;33;20;100.00;20
+MN;42;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;33;33;9;100.00;9
+MN;42;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;33;33;98;7.10;1380
+MN;42;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;33;33;46;3.33;1380
+MN;42;;0102;U.S. Senator;;0303;James Reibestein;;;R;33;33;71;5.14;1380
+MN;42;;0102;U.S. Senator;;0304;Jason Lewis;;;R;33;33;1037;75.14;1380
+MN;42;;0102;U.S. Senator;;0305;John L. Berman;;;R;33;33;128;9.28;1380
+MN;42;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;33;33;16;1.43;1116
+MN;42;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;33;33;968;86.74;1116
+MN;42;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;33;33;31;2.78;1116
+MN;42;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;33;33;46;4.12;1116
+MN;42;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;33;33;55;4.93;1116
+MN;42;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;33;33;17;100.00;17
+MN;42;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;33;33;8;100.00;8
+MN;42;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;33;33;0;0.00;8
+MN;42;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;33;33;172;12.15;1416
+MN;42;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;33;33;20;1.41;1416
+MN;42;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;33;33;126;8.90;1416
+MN;42;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;33;33;196;13.84;1416
+MN;42;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;33;33;902;63.70;1416
+MN;42;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;33;33;841;75.63;1112
+MN;42;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;33;33;178;16.01;1112
+MN;42;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;33;33;93;8.36;1112
+MN;42;;0142;State Senator District 22;22;0201;Brian Abrahamson;;;GLC;13;13;1;100.00;1
+MN;42;;0142;State Senator District 22;22;0301;Bill Weber;;;R;13;13;358;100.00;358
+MN;42;;0142;State Senator District 22;22;0401;Shawna Marshall;;;DFL;13;13;178;75.42;236
+MN;42;;0142;State Senator District 22;22;0402;Roger L. Elgersma;;;DFL;13;13;58;24.58;236
+MN;43;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;28;28;41;100.00;41
+MN;43;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;28;28;25;100.00;25
+MN;43;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;28;28;162;5.77;2808
+MN;43;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;28;28;104;3.70;2808
+MN;43;;0102;U.S. Senator;;0303;James Reibestein;;;R;28;28;92;3.28;2808
+MN;43;;0102;U.S. Senator;;0304;Jason Lewis;;;R;28;28;2255;80.31;2808
+MN;43;;0102;U.S. Senator;;0305;John L. Berman;;;R;28;28;195;6.94;2808
+MN;43;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;28;28;18;1.11;1624
+MN;43;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;28;28;1364;83.99;1624
+MN;43;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;28;28;54;3.33;1624
+MN;43;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;28;28;90;5.54;1624
+MN;43;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;28;28;98;6.03;1624
+MN;43;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;28;28;29;100.00;29
+MN;43;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;28;28;16;64.00;25
+MN;43;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;28;28;9;36.00;25
+MN;43;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;28;28;50;1.77;2832
+MN;43;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;28;28;40;1.41;2832
+MN;43;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;28;28;496;17.51;2832
+MN;43;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;28;28;489;17.27;2832
+MN;43;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;28;28;1757;62.04;2832
+MN;43;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;28;28;1114;68.94;1616
+MN;43;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;28;28;338;20.92;1616
+MN;43;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;28;28;164;10.15;1616
+MN;43;;0391;County Commissioner District 1;01;9001;Nathan Schmalz;;;NP;6;6;432;38.33;1127
+MN;43;;0391;County Commissioner District 1;01;9002;Anthony Kadlec;;;NP;6;6;324;28.75;1127
+MN;43;;0391;County Commissioner District 1;01;9003;José Luciano;;;NP;6;6;371;32.92;1127
+MN;44;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;19;19;2;100.00;2
+MN;44;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;19;19;3;100.00;3
+MN;44;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;19;19;23;10.36;222
+MN;44;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;19;19;10;4.50;222
+MN;44;;0102;U.S. Senator;;0303;James Reibestein;;;R;19;19;18;8.11;222
+MN;44;;0102;U.S. Senator;;0304;Jason Lewis;;;R;19;19;128;57.66;222
+MN;44;;0102;U.S. Senator;;0305;John L. Berman;;;R;19;19;43;19.37;222
+MN;44;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;19;19;5;1.66;302
+MN;44;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;19;19;252;83.44;302
+MN;44;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;19;19;3;0.99;302
+MN;44;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;19;19;13;4.30;302
+MN;44;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;19;19;29;9.60;302
+MN;44;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;19;19;2;100.00;2
+MN;44;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;19;19;1;33.33;3
+MN;44;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;19;19;2;66.67;3
+MN;44;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;19;19;4;1.74;230
+MN;44;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;19;19;6;2.61;230
+MN;44;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;19;19;42;18.26;230
+MN;44;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;19;19;37;16.09;230
+MN;44;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;19;19;141;61.30;230
+MN;44;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;19;19;238;79.33;300
+MN;44;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;19;19;38;12.67;300
+MN;44;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;19;19;24;8.00;300
+MN;45;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;60;60;9;100.00;9
+MN;45;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;60;60;0;0.00;0
+MN;45;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;60;60;93;9.20;1011
+MN;45;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;60;60;30;2.97;1011
+MN;45;;0102;U.S. Senator;;0303;James Reibestein;;;R;60;60;34;3.36;1011
+MN;45;;0102;U.S. Senator;;0304;Jason Lewis;;;R;60;60;682;67.46;1011
+MN;45;;0102;U.S. Senator;;0305;John L. Berman;;;R;60;60;172;17.01;1011
+MN;45;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;60;60;5;0.85;590
+MN;45;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;60;60;494;83.73;590
+MN;45;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;60;60;5;0.85;590
+MN;45;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;60;60;38;6.44;590
+MN;45;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;60;60;48;8.14;590
+MN;45;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;60;60;7;100.00;7
+MN;45;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;60;60;0;0.00;0
+MN;45;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;60;60;0;0.00;0
+MN;45;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;60;60;6;0.56;1064
+MN;45;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;60;60;12;1.13;1064
+MN;45;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;60;60;133;12.50;1064
+MN;45;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;60;60;461;43.33;1064
+MN;45;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;60;60;452;42.48;1064
+MN;45;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;60;60;520;82.54;630
+MN;45;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;60;60;70;11.11;630
+MN;45;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;60;60;40;6.35;630
+MN;45;;0188;State Representative District 1A;1A;0301;John Burkel;;;R;60;60;931;89.09;1045
+MN;45;;0188;State Representative District 1A;1A;0302;David Lion;;;R;60;60;66;6.32;1045
+MN;45;;0188;State Representative District 1A;1A;0303;Brian Meehan;;;R;60;60;48;4.59;1045
+MN;45;;0188;State Representative District 1A;1A;0401;Connie Lindstrom;;;DFL;60;60;539;100.00;539
+MN;46;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;37;37;17;100.00;17
+MN;46;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;37;37;3;100.00;3
+MN;46;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;37;37;213;10.54;2020
+MN;46;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;37;37;127;6.29;2020
+MN;46;;0102;U.S. Senator;;0303;James Reibestein;;;R;37;37;98;4.85;2020
+MN;46;;0102;U.S. Senator;;0304;Jason Lewis;;;R;37;37;1391;68.86;2020
+MN;46;;0102;U.S. Senator;;0305;John L. Berman;;;R;37;37;191;9.46;2020
+MN;46;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;37;37;7;0.94;743
+MN;46;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;37;37;657;88.43;743
+MN;46;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;37;37;18;2.42;743
+MN;46;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;37;37;28;3.77;743
+MN;46;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;37;37;33;4.44;743
+MN;46;;0232;State Representative District 23A;23A;0301;Bjorn Olson;;;R;37;37;1161;50.19;2313
+MN;46;;0232;State Representative District 23A;23A;0302;Michael Sukalski;;;R;37;37;1152;49.81;2313
+MN;46;;0232;State Representative District 23A;23A;0401;Patricia Fahey Bacon;;;DFL;37;37;736;100.00;736
+MN;47;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;30;30;25;100.00;25
+MN;47;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;30;30;12;100.00;12
+MN;47;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;30;30;118;7.02;1682
+MN;47;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;30;30;52;3.09;1682
+MN;47;;0102;U.S. Senator;;0303;James Reibestein;;;R;30;30;58;3.45;1682
+MN;47;;0102;U.S. Senator;;0304;Jason Lewis;;;R;30;30;1301;77.35;1682
+MN;47;;0102;U.S. Senator;;0305;John L. Berman;;;R;30;30;153;9.10;1682
+MN;47;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;30;30;10;0.91;1103
+MN;47;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;30;30;947;85.86;1103
+MN;47;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;30;30;23;2.09;1103
+MN;47;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;30;30;41;3.72;1103
+MN;47;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;30;30;82;7.43;1103
+MN;47;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;30;30;25;100.00;25
+MN;47;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;30;30;13;92.86;14
+MN;47;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;30;30;1;7.14;14
+MN;47;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;30;30;27;1.56;1727
+MN;47;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;30;30;18;1.04;1727
+MN;47;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;30;30;282;16.33;1727
+MN;47;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;30;30;347;20.09;1727
+MN;47;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;30;30;1053;60.97;1727
+MN;47;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;30;30;778;71.44;1089
+MN;47;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;30;30;215;19.74;1089
+MN;47;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;30;30;96;8.82;1089
+MN;47;;0392;County Commissioner District 2;02;9001;Julie Bredeson;;;NP;5;5;260;38.46;676
+MN;47;;0392;County Commissioner District 2;02;9002;Joe Tacheny;;;NP;5;5;203;30.03;676
+MN;47;;0392;County Commissioner District 2;02;9003;Greg Gilbertson;;;NP;5;5;213;31.51;676
+MN;47;;0393;County Commissioner District 3;03;9001;John L. Smith;;;NP;9;9;282;32.94;856
+MN;47;;0393;County Commissioner District 3;03;9002;Paul M Johnson;;;NP;9;9;300;35.05;856
+MN;47;;0393;County Commissioner District 3;03;9003;Tim Benoit;;;NP;9;9;274;32.01;856
+MN;48;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;25;25;25;100.00;25
+MN;48;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;25;25;16;100.00;16
+MN;48;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;25;25;77;6.78;1136
+MN;48;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;25;25;52;4.58;1136
+MN;48;;0102;U.S. Senator;;0303;James Reibestein;;;R;25;25;63;5.55;1136
+MN;48;;0102;U.S. Senator;;0304;Jason Lewis;;;R;25;25;882;77.64;1136
+MN;48;;0102;U.S. Senator;;0305;John L. Berman;;;R;25;25;62;5.46;1136
+MN;48;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;25;25;13;1.55;837
+MN;48;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;25;25;710;84.83;837
+MN;48;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;25;25;23;2.75;837
+MN;48;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;25;25;40;4.78;837
+MN;48;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;25;25;51;6.09;837
+MN;48;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;25;25;14;100.00;14
+MN;48;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;25;25;1003;91.68;1094
+MN;48;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;25;25;91;8.32;1094
+MN;48;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;25;25;654;100.00;654
+MN;49;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;48;48;28;100.00;28
+MN;49;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;48;48;20;100.00;20
+MN;49;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;48;48;269;8.36;3216
+MN;49;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;48;48;131;4.07;3216
+MN;49;;0102;U.S. Senator;;0303;James Reibestein;;;R;48;48;174;5.41;3216
+MN;49;;0102;U.S. Senator;;0304;Jason Lewis;;;R;48;48;2404;74.75;3216
+MN;49;;0102;U.S. Senator;;0305;John L. Berman;;;R;48;48;238;7.40;3216
+MN;49;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;48;48;15;1.16;1295
+MN;49;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;48;48;1117;86.25;1295
+MN;49;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;48;48;35;2.70;1295
+MN;49;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;48;48;64;4.94;1295
+MN;49;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;48;48;64;4.94;1295
+MN;49;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;48;48;19;100.00;19
+MN;49;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;48;48;3058;93.32;3277
+MN;49;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;48;48;219;6.68;3277
+MN;49;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;48;48;1175;100.00;1175
+MN;49;;0129;State Senator District 9;9;0301;Paul Gazelka;;;R;46;46;2823;86.67;3257
+MN;49;;0129;State Senator District 9;9;0302;Richard Dahl;;;R;46;46;434;13.33;3257
+MN;49;;0129;State Senator District 9;9;0401;A. John Peters;;;DFL;46;46;1155;100.00;1155
+MN;49;;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;2;2;28;32.56;86
+MN;49;;0217;State Representative District 15B;15B;0302;John Ulrick;;;R;2;2;58;67.44;86
+MN;49;;0217;State Representative District 15B;15B;0401;Ron Thiessen;;;DFL;2;2;17;100.00;17
+MN;49;;0393;County Commissioner District 3;03;9001;Brian Lindquist;;;NP;4;4;179;21.78;822
+MN;49;;0393;County Commissioner District 3;03;9002;Al Doty;;;NP;4;4;265;32.24;822
+MN;49;;0393;County Commissioner District 3;03;9003;Randy H. Winscher;;;NP;4;4;378;45.99;822
+MN;50;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;40;40;87;100.00;87
+MN;50;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;40;40;37;100.00;37
+MN;50;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;40;40;156;11.48;1359
+MN;50;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;40;40;104;7.65;1359
+MN;50;;0102;U.S. Senator;;0303;James Reibestein;;;R;40;40;70;5.15;1359
+MN;50;;0102;U.S. Senator;;0304;Jason Lewis;;;R;40;40;878;64.61;1359
+MN;50;;0102;U.S. Senator;;0305;John L. Berman;;;R;40;40;151;11.11;1359
+MN;50;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;40;40;20;0.88;2278
+MN;50;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;40;40;1963;86.17;2278
+MN;50;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;40;40;50;2.19;2278
+MN;50;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;40;40;110;4.83;2278
+MN;50;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;40;40;135;5.93;2278
+MN;50;;0240;State Representative District 27A;27A;0301;Peggy Bennett;;;R;1;1;31;100.00;31
+MN;50;;0240;State Representative District 27A;27A;0401;Thomas Martinez;;;DFL;1;1;20;52.63;38
+MN;50;;0240;State Representative District 27A;27A;0402;Joe Pacovsky;;;DFL;1;1;18;47.37;38
+MN;51;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;29;29;8;100.00;8
+MN;51;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;29;29;7;100.00;7
+MN;51;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;29;29;78;10.09;773
+MN;51;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;29;29;39;5.05;773
+MN;51;;0102;U.S. Senator;;0303;James Reibestein;;;R;29;29;44;5.69;773
+MN;51;;0102;U.S. Senator;;0304;Jason Lewis;;;R;29;29;529;68.43;773
+MN;51;;0102;U.S. Senator;;0305;John L. Berman;;;R;29;29;83;10.74;773
+MN;51;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;29;29;6;1.23;487
+MN;51;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;29;29;396;81.31;487
+MN;51;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;29;29;6;1.23;487
+MN;51;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;29;29;34;6.98;487
+MN;51;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;29;29;45;9.24;487
+MN;51;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;29;29;6;100.00;6
+MN;51;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;29;29;6;85.71;7
+MN;51;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;29;29;1;14.29;7
+MN;51;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;29;29;48;5.94;808
+MN;51;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;29;29;24;2.97;808
+MN;51;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;29;29;87;10.77;808
+MN;51;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;29;29;96;11.88;808
+MN;51;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;29;29;553;68.44;808
+MN;51;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;29;29;382;78.76;485
+MN;51;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;29;29;83;17.11;485
+MN;51;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;29;29;20;4.12;485
+MN;51;;0142;State Senator District 22;22;0201;Brian Abrahamson;;;GLC;29;29;7;100.00;7
+MN;51;;0142;State Senator District 22;22;0301;Bill Weber;;;R;29;29;755;100.00;755
+MN;51;;0142;State Senator District 22;22;0401;Shawna Marshall;;;DFL;29;29;345;74.51;463
+MN;51;;0142;State Senator District 22;22;0402;Roger L. Elgersma;;;DFL;29;29;118;25.49;463
+MN;52;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;28;28;73;100.00;73
+MN;52;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;28;28;23;100.00;23
+MN;52;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;28;28;112;8.21;1364
+MN;52;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;28;28;71;5.21;1364
+MN;52;;0102;U.S. Senator;;0303;James Reibestein;;;R;28;28;65;4.77;1364
+MN;52;;0102;U.S. Senator;;0304;Jason Lewis;;;R;28;28;1016;74.49;1364
+MN;52;;0102;U.S. Senator;;0305;John L. Berman;;;R;28;28;100;7.33;1364
+MN;52;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;28;28;17;0.62;2722
+MN;52;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;28;28;2463;90.48;2722
+MN;52;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;28;28;81;2.98;2722
+MN;52;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;28;28;92;3.38;2722
+MN;52;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;28;28;69;2.53;2722
+MN;53;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;40;40;17;100.00;17
+MN;53;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;40;40;12;100.00;12
+MN;53;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;40;40;91;11.11;819
+MN;53;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;40;40;47;5.74;819
+MN;53;;0102;U.S. Senator;;0303;James Reibestein;;;R;40;40;41;5.01;819
+MN;53;;0102;U.S. Senator;;0304;Jason Lewis;;;R;40;40;545;66.54;819
+MN;53;;0102;U.S. Senator;;0305;John L. Berman;;;R;40;40;95;11.60;819
+MN;53;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;40;40;7;1.41;497
+MN;53;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;40;40;406;81.69;497
+MN;53;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;40;40;15;3.02;497
+MN;53;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;40;40;33;6.64;497
+MN;53;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;40;40;36;7.24;497
+MN;53;;0142;State Senator District 22;22;0201;Brian Abrahamson;;;GLC;40;40;12;100.00;12
+MN;53;;0142;State Senator District 22;22;0301;Bill Weber;;;R;40;40;860;100.00;860
+MN;53;;0142;State Senator District 22;22;0401;Shawna Marshall;;;DFL;40;40;348;74.68;466
+MN;53;;0142;State Senator District 22;22;0402;Roger L. Elgersma;;;DFL;40;40;118;25.32;466
+MN;54;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;33;33;7;100.00;7
+MN;54;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;33;33;4;100.00;4
+MN;54;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;33;33;28;8.28;338
+MN;54;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;33;33;16;4.73;338
+MN;54;;0102;U.S. Senator;;0303;James Reibestein;;;R;33;33;22;6.51;338
+MN;54;;0102;U.S. Senator;;0304;Jason Lewis;;;R;33;33;235;69.53;338
+MN;54;;0102;U.S. Senator;;0305;John L. Berman;;;R;33;33;37;10.95;338
+MN;54;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;33;33;3;0.59;507
+MN;54;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;33;33;413;81.46;507
+MN;54;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;33;33;2;0.39;507
+MN;54;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;33;33;45;8.88;507
+MN;54;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;33;33;44;8.68;507
+MN;54;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;33;33;7;100.00;7
+MN;54;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;33;33;2;66.67;3
+MN;54;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;33;33;1;33.33;3
+MN;54;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;33;33;2;0.57;353
+MN;54;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;33;33;2;0.57;353
+MN;54;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;33;33;79;22.38;353
+MN;54;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;33;33;73;20.68;353
+MN;54;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;33;33;197;55.81;353
+MN;54;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;33;33;469;88.32;531
+MN;54;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;33;33;46;8.66;531
+MN;54;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;33;33;16;3.01;531
+MN;55;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;84;84;267;100.00;267
+MN;55;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;84;84;105;100.00;105
+MN;55;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;84;84;566;8.86;6391
+MN;55;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;84;84;366;5.73;6391
+MN;55;;0102;U.S. Senator;;0303;James Reibestein;;;R;84;84;269;4.21;6391
+MN;55;;0102;U.S. Senator;;0304;Jason Lewis;;;R;84;84;4663;72.96;6391
+MN;55;;0102;U.S. Senator;;0305;John L. Berman;;;R;84;84;527;8.25;6391
+MN;55;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;84;84;101;0.68;14745
+MN;55;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;84;84;13116;88.95;14745
+MN;55;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;84;84;352;2.39;14745
+MN;55;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;84;84;833;5.65;14745
+MN;55;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;84;84;343;2.33;14745
+MN;55;;0395;County Commissioner District 5;05;9001;Jim Bier;;;NP;11;11;1470;44.50;3303
+MN;55;;0395;County Commissioner District 5;05;9002;Regina Mustafa;;;NP;11;11;957;28.97;3303
+MN;55;;0395;County Commissioner District 5;05;9003;Brian Morgan;;;NP;11;11;876;26.52;3303
+MN;56;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;92;92;52;100.00;52
+MN;56;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;92;92;31;100.00;31
+MN;56;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;92;92;503;11.43;4400
+MN;56;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;92;92;306;6.95;4400
+MN;56;;0102;U.S. Senator;;0303;James Reibestein;;;R;92;92;349;7.93;4400
+MN;56;;0102;U.S. Senator;;0304;Jason Lewis;;;R;92;92;2564;58.27;4400
+MN;56;;0102;U.S. Senator;;0305;John L. Berman;;;R;92;92;678;15.41;4400
+MN;56;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;92;92;37;1.21;3046
+MN;56;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;92;92;2570;84.37;3046
+MN;56;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;92;92;68;2.23;3046
+MN;56;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;92;92;168;5.52;3046
+MN;56;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;92;92;203;6.66;3046
+MN;56;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;92;92;47;100.00;47
+MN;56;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;92;92;18;64.29;28
+MN;56;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;92;92;10;35.71;28
+MN;56;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;92;92;51;1.09;4696
+MN;56;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;92;92;57;1.21;4696
+MN;56;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;92;92;914;19.46;4696
+MN;56;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;92;92;1225;26.09;4696
+MN;56;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;92;92;2449;52.15;4696
+MN;56;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;92;92;2220;72.34;3069
+MN;56;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;92;92;590;19.22;3069
+MN;56;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;92;92;259;8.44;3069
+MN;56;;0391;County Commissioner District 1;01;9001;Andrew Klinnert;;;NP;17;17;287;12.45;2306
+MN;56;;0391;County Commissioner District 1;01;9002;Rick Snelgrove;;;NP;17;17;202;8.76;2306
+MN;56;;0391;County Commissioner District 1;01;9003;Vance Bachmann;;;NP;17;17;387;16.78;2306
+MN;56;;0391;County Commissioner District 1;01;9004;Marcia Huddleston;;;NP;17;17;426;18.47;2306
+MN;56;;0391;County Commissioner District 1;01;9005;Betsy Roder;;;NP;17;17;545;23.63;2306
+MN;56;;0391;County Commissioner District 1;01;9006;Dan Bucholz;;;NP;17;17;459;19.90;2306
+MN;56;;0393;County Commissioner District 3;03;9001;Rick Chodek;;;NP;23;23;68;3.97;1713
+MN;56;;0393;County Commissioner District 3;03;9002;Christine "Tina" Tungseth;;;NP;23;23;408;23.82;1713
+MN;56;;0393;County Commissioner District 3;03;9003;Kurt A. Mortenson;;;NP;23;23;819;47.81;1713
+MN;56;;0393;County Commissioner District 3;03;9004;Roger Walvatne;;;NP;23;23;264;15.41;1713
+MN;56;;0393;County Commissioner District 3;03;9005;Gene Kelm;;;NP;23;23;154;8.99;1713
+MN;57;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;31;31;10;100.00;10
+MN;57;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;31;31;8;100.00;8
+MN;57;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;31;31;60;10.42;576
+MN;57;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;31;31;23;3.99;576
+MN;57;;0102;U.S. Senator;;0303;James Reibestein;;;R;31;31;38;6.60;576
+MN;57;;0102;U.S. Senator;;0304;Jason Lewis;;;R;31;31;335;58.16;576
+MN;57;;0102;U.S. Senator;;0305;John L. Berman;;;R;31;31;120;20.83;576
+MN;57;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;31;31;8;1.52;525
+MN;57;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;31;31;440;83.81;525
+MN;57;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;31;31;9;1.71;525
+MN;57;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;31;31;38;7.24;525
+MN;57;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;31;31;30;5.71;525
+MN;57;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;31;31;10;100.00;10
+MN;57;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;31;31;6;75.00;8
+MN;57;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;31;31;2;25.00;8
+MN;57;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;31;31;2;0.33;614
+MN;57;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;31;31;4;0.65;614
+MN;57;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;31;31;81;13.19;614
+MN;57;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;31;31;283;46.09;614
+MN;57;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;31;31;244;39.74;614
+MN;57;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;31;31;409;77.46;528
+MN;57;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;31;31;77;14.58;528
+MN;57;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;31;31;42;7.95;528
+MN;57;;0188;State Representative District 1A;1A;0301;John Burkel;;;R;11;11;277;78.47;353
+MN;57;;0188;State Representative District 1A;1A;0302;David Lion;;;R;11;11;44;12.46;353
+MN;57;;0188;State Representative District 1A;1A;0303;Brian Meehan;;;R;11;11;32;9.07;353
+MN;57;;0188;State Representative District 1A;1A;0401;Connie Lindstrom;;;DFL;11;11;285;100.00;285
+MN;57;;0392;County Commissioner District 2;02;9001;Julie Bolduc;;;NP;2;2;56;35.22;159
+MN;57;;0392;County Commissioner District 2;02;9002;Dave Sorenson;;;NP;2;2;55;34.59;159
+MN;57;;0392;County Commissioner District 2;02;9003;Don Sollom;;;NP;2;2;48;30.19;159
+MN;58;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;48;48;36;100.00;36
+MN;58;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;48;48;27;100.00;27
+MN;58;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;48;48;94;5.78;1627
+MN;58;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;48;48;49;3.01;1627
+MN;58;;0102;U.S. Senator;;0303;James Reibestein;;;R;48;48;66;4.06;1627
+MN;58;;0102;U.S. Senator;;0304;Jason Lewis;;;R;48;48;1347;82.79;1627
+MN;58;;0102;U.S. Senator;;0305;John L. Berman;;;R;48;48;71;4.36;1627
+MN;58;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;48;48;17;1.15;1482
+MN;58;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;48;48;1291;87.11;1482
+MN;58;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;48;48;26;1.75;1482
+MN;58;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;48;48;78;5.26;1482
+MN;58;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;48;48;70;4.72;1482
+MN;58;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;48;48;27;100.00;27
+MN;58;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;48;48;1529;93.69;1632
+MN;58;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;48;48;103;6.31;1632
+MN;58;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;48;48;1206;100.00;1206
+MN;59;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;22;22;9;100.00;9
+MN;59;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;22;22;8;100.00;8
+MN;59;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;22;22;59;8.49;695
+MN;59;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;22;22;28;4.03;695
+MN;59;;0102;U.S. Senator;;0303;James Reibestein;;;R;22;22;50;7.19;695
+MN;59;;0102;U.S. Senator;;0304;Jason Lewis;;;R;22;22;458;65.90;695
+MN;59;;0102;U.S. Senator;;0305;John L. Berman;;;R;22;22;100;14.39;695
+MN;59;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;22;22;5;1.71;293
+MN;59;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;22;22;231;78.84;293
+MN;59;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;22;22;5;1.71;293
+MN;59;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;22;22;16;5.46;293
+MN;59;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;22;22;36;12.29;293
+MN;59;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;22;22;8;100.00;8
+MN;59;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;22;22;7;100.00;7
+MN;59;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;22;22;0;0.00;7
+MN;59;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;22;22;26;3.55;733
+MN;59;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;22;22;7;0.95;733
+MN;59;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;22;22;91;12.41;733
+MN;59;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;22;22;98;13.37;733
+MN;59;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;22;22;511;69.71;733
+MN;59;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;22;22;217;75.35;288
+MN;59;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;22;22;43;14.93;288
+MN;59;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;22;22;28;9.72;288
+MN;59;;0142;State Senator District 22;22;0201;Brian Abrahamson;;;GLC;22;22;8;100.00;8
+MN;59;;0142;State Senator District 22;22;0301;Bill Weber;;;R;22;22;712;100.00;712
+MN;59;;0142;State Senator District 22;22;0401;Shawna Marshall;;;DFL;22;22;197;70.86;278
+MN;59;;0142;State Senator District 22;22;0402;Roger L. Elgersma;;;DFL;22;22;81;29.14;278
+MN;60;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;82;82;37;100.00;37
+MN;60;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;82;82;20;100.00;20
+MN;60;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;82;82;205;10.43;1966
+MN;60;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;82;82;100;5.09;1966
+MN;60;;0102;U.S. Senator;;0303;James Reibestein;;;R;82;82;82;4.17;1966
+MN;60;;0102;U.S. Senator;;0304;Jason Lewis;;;R;82;82;1298;66.02;1966
+MN;60;;0102;U.S. Senator;;0305;John L. Berman;;;R;82;82;281;14.29;1966
+MN;60;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;82;82;22;1.08;2039
+MN;60;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;82;82;1672;82.00;2039
+MN;60;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;82;82;38;1.86;2039
+MN;60;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;82;82;119;5.84;2039
+MN;60;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;82;82;188;9.22;2039
+MN;60;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;82;82;33;100.00;33
+MN;60;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;82;82;16;80.00;20
+MN;60;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;82;82;4;20.00;20
+MN;60;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;82;82;23;1.12;2047
+MN;60;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;82;82;33;1.61;2047
+MN;60;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;82;82;336;16.41;2047
+MN;60;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;82;82;620;30.29;2047
+MN;60;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;82;82;1035;50.56;2047
+MN;60;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;82;82;1727;81.69;2114
+MN;60;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;82;82;234;11.07;2114
+MN;60;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;82;82;153;7.24;2114
+MN;61;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;31;31;10;100.00;10
+MN;61;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;31;31;3;100.00;3
+MN;61;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;31;31;51;7.08;720
+MN;61;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;31;31;17;2.36;720
+MN;61;;0102;U.S. Senator;;0303;James Reibestein;;;R;31;31;36;5.00;720
+MN;61;;0102;U.S. Senator;;0304;Jason Lewis;;;R;31;31;552;76.67;720
+MN;61;;0102;U.S. Senator;;0305;John L. Berman;;;R;31;31;64;8.89;720
+MN;61;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;31;31;8;1.19;674
+MN;61;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;31;31;594;88.13;674
+MN;61;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;31;31;17;2.52;674
+MN;61;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;31;31;24;3.56;674
+MN;61;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;31;31;31;4.60;674
+MN;61;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;31;31;6;100.00;6
+MN;61;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;31;31;0;0.00;2
+MN;61;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;31;31;2;100.00;2
+MN;61;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;31;31;13;1.74;748
+MN;61;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;31;31;6;0.80;748
+MN;61;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;31;31;93;12.43;748
+MN;61;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;31;31;167;22.33;748
+MN;61;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;31;31;469;62.70;748
+MN;61;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;31;31;486;73.52;661
+MN;61;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;31;31;117;17.70;661
+MN;61;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;31;31;58;8.77;661
+MN;62;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;169;169;643;100.00;643
+MN;62;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;169;169;525;100.00;525
+MN;62;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;169;169;841;6.38;13191
+MN;62;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;169;169;670;5.08;13191
+MN;62;;0102;U.S. Senator;;0303;James Reibestein;;;R;169;169;442;3.35;13191
+MN;62;;0102;U.S. Senator;;0304;Jason Lewis;;;R;169;169;10632;80.60;13191
+MN;62;;0102;U.S. Senator;;0305;John L. Berman;;;R;169;169;606;4.59;13191
+MN;62;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;169;169;1048;1.35;77711
+MN;62;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;169;169;68252;87.83;77711
+MN;62;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;169;169;2610;3.36;77711
+MN;62;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;169;169;4517;5.81;77711
+MN;62;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;169;169;1284;1.65;77711
+MN;62;;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;168;168;512;100.00;512
+MN;62;;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;168;168;6123;49.70;12319
+MN;62;;0107;U.S. Representative District 4;4;0302;Sia Lo;;;R;168;168;6196;50.30;12319
+MN;62;;0107;U.S. Representative District 4;4;0401;Alberder Gillespie;;;DFL;168;168;4977;6.53;76266
+MN;62;;0107;U.S. Representative District 4;4;0402;Reid Rossell;;;DFL;168;168;943;1.24;76266
+MN;62;;0107;U.S. Representative District 4;4;0403;David Sandbeck;;;DFL;168;168;2769;3.63;76266
+MN;62;;0107;U.S. Representative District 4;4;0404;Tiffini Flynn Forslund;;;DFL;168;168;3529;4.63;76266
+MN;62;;0107;U.S. Representative District 4;4;0405;Betty McCollum;;;DFL;168;168;64048;83.98;76266
+MN;62;;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;7;100.00;7
+MN;62;;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;49;75.38;65
+MN;62;;0108;U.S. Representative District 5;5;0302;Danielle Stella;;;R;1;1;14;21.54;65
+MN;62;;0108;U.S. Representative District 5;5;0303;Dalia Al-Aqidi;;;R;1;1;2;3.08;65
+MN;62;;0108;U.S. Representative District 5;5;0401;Daniel Patrick McCarthy;;;DFL;1;1;27;3.94;686
+MN;62;;0108;U.S. Representative District 5;5;0402;Les Lester;;;DFL;1;1;5;0.73;686
+MN;62;;0108;U.S. Representative District 5;5;0403;John Mason;;;DFL;1;1;22;3.21;686
+MN;62;;0108;U.S. Representative District 5;5;0404;Ilhan Omar;;;DFL;1;1;332;48.40;686
+MN;62;;0108;U.S. Representative District 5;5;0405;Antone Melton-Meaux;;;DFL;1;1;300;43.73;686
+MN;62;;0163;State Senator District 43;43;0201;Doug Daubenspeck;;;GLC;16;16;47;100.00;47
+MN;62;;0163;State Senator District 43;43;0301;Bob Zick;;;R;16;16;1495;100.00;1495
+MN;62;;0163;State Senator District 43;43;0401;Natasha Lapcinski;;;DFL;16;16;1617;29.94;5400
+MN;62;;0163;State Senator District 43;43;0402;Charles "Chuck" Wiger;;;DFL;16;16;3783;70.06;5400
+MN;62;;0173;State Senator District 53;53;0301;Mary Giuliani Stephens;;;R;4;4;402;100.00;402
+MN;62;;0173;State Senator District 53;53;0401;Marquita Stephens;;;DFL;4;4;432;30.57;1413
+MN;62;;0173;State Senator District 53;53;0402;Susan Kent;;;DFL;4;4;981;69.43;1413
+MN;62;;0185;State Senator District 65;65;0301;Paul Holmgren;;;R;26;26;902;100.00;902
+MN;62;;0185;State Senator District 65;65;0401;Laverne McCartney Knighton;;;DFL;26;26;4270;36.33;11754
+MN;62;;0185;State Senator District 65;65;0402;Sandy Pappas;;;DFL;26;26;7484;63.67;11754
+MN;62;;0319;State Representative District 66B;66B;0301;Mikki Murray;;;R;11;11;470;100.00;470
+MN;62;;0319;State Representative District 66B;66B;0401;John Lesch;;;DFL;11;11;1923;39.27;4897
+MN;62;;0319;State Representative District 66B;66B;0402;Athena Hollins;;;DFL;11;11;2974;60.73;4897
+MN;62;;0320;State Representative District 67A;67A;0301;John Stromenger;;;R;11;11;416;100.00;416
+MN;62;;0320;State Representative District 67A;67A;0401;John Thompson;;;DFL;11;11;1603;59.33;2702
+MN;62;;0320;State Representative District 67A;67A;0402;Hoang Murphy;;;DFL;11;11;1099;40.67;2702
+MN;62;;0392;County Commissioner District 2;02;9001;Dan McGrath;;;NP;24;24;1753;12.48;14050
+MN;62;;0392;County Commissioner District 2;02;9002;Mary Jo McGuire;;;NP;24;24;10792;76.81;14050
+MN;62;;0392;County Commissioner District 2;02;9003;Greg Ryan;;;NP;24;24;1505;10.71;14050
+MN;63;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;21;21;6;100.00;6
+MN;63;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;21;21;2;100.00;2
+MN;63;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;21;21;20;8.00;250
+MN;63;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;21;21;9;3.60;250
+MN;63;;0102;U.S. Senator;;0303;James Reibestein;;;R;21;21;23;9.20;250
+MN;63;;0102;U.S. Senator;;0304;Jason Lewis;;;R;21;21;158;63.20;250
+MN;63;;0102;U.S. Senator;;0305;John L. Berman;;;R;21;21;40;16.00;250
+MN;63;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;21;21;1;0.39;254
+MN;63;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;21;21;213;83.86;254
+MN;63;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;21;21;3;1.18;254
+MN;63;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;21;21;16;6.30;254
+MN;63;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;21;21;21;8.27;254
+MN;63;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;21;21;6;100.00;6
+MN;63;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;21;21;1;50.00;2
+MN;63;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;21;21;1;50.00;2
+MN;63;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;21;21;2;0.72;276
+MN;63;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;21;21;7;2.54;276
+MN;63;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;21;21;50;18.12;276
+MN;63;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;21;21;81;29.35;276
+MN;63;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;21;21;136;49.28;276
+MN;63;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;21;21;227;82.25;276
+MN;63;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;21;21;33;11.96;276
+MN;63;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;21;21;16;5.80;276
+MN;64;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;43;43;12;100.00;12
+MN;64;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;43;43;5;100.00;5
+MN;64;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;43;43;77;8.43;913
+MN;64;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;43;43;23;2.52;913
+MN;64;;0102;U.S. Senator;;0303;James Reibestein;;;R;43;43;56;6.13;913
+MN;64;;0102;U.S. Senator;;0304;Jason Lewis;;;R;43;43;653;71.52;913
+MN;64;;0102;U.S. Senator;;0305;John L. Berman;;;R;43;43;104;11.39;913
+MN;64;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;43;43;3;0.72;416
+MN;64;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;43;43;351;84.38;416
+MN;64;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;43;43;11;2.64;416
+MN;64;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;43;43;28;6.73;416
+MN;64;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;43;43;23;5.53;416
+MN;64;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;43;43;9;100.00;9
+MN;64;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;43;43;3;75.00;4
+MN;64;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;43;43;1;25.00;4
+MN;64;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;43;43;46;4.78;962
+MN;64;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;43;43;9;0.94;962
+MN;64;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;43;43;126;13.10;962
+MN;64;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;43;43;145;15.07;962
+MN;64;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;43;43;636;66.11;962
+MN;64;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;43;43;268;65.37;410
+MN;64;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;43;43;86;20.98;410
+MN;64;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;43;43;56;13.66;410
+MN;64;;0142;State Senator District 22;22;0201;Brian Abrahamson;;;GLC;6;6;0;0.00;0
+MN;64;;0142;State Senator District 22;22;0301;Bill Weber;;;R;6;6;90;100.00;90
+MN;64;;0142;State Senator District 22;22;0401;Shawna Marshall;;;DFL;6;6;51;82.26;62
+MN;64;;0142;State Senator District 22;22;0402;Roger L. Elgersma;;;DFL;6;6;11;17.74;62
+MN;64;;0219;State Representative District 16B;16B;0301;Paul Torkelson;;;R;31;31;428;55.95;765
+MN;64;;0219;State Representative District 16B;16B;0302;Tamara A. Houle;;;R;31;31;337;44.05;765
+MN;64;;0219;State Representative District 16B;16B;0401;Marinda "Mindy" Kimmel;;;DFL;31;31;296;100.00;296
+MN;65;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;38;38;31;100.00;31
+MN;65;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;38;38;2;100.00;2
+MN;65;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;38;38;99;9.31;1063
+MN;65;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;38;38;66;6.21;1063
+MN;65;;0102;U.S. Senator;;0303;James Reibestein;;;R;38;38;79;7.43;1063
+MN;65;;0102;U.S. Senator;;0304;Jason Lewis;;;R;38;38;706;66.42;1063
+MN;65;;0102;U.S. Senator;;0305;John L. Berman;;;R;38;38;113;10.63;1063
+MN;65;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;38;38;8;1.20;667
+MN;65;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;38;38;542;81.26;667
+MN;65;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;38;38;11;1.65;667
+MN;65;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;38;38;35;5.25;667
+MN;65;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;38;38;71;10.64;667
+MN;65;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;38;38;21;100.00;21
+MN;65;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;38;38;1;100.00;1
+MN;65;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;38;38;0;0.00;1
+MN;65;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;38;38;45;4.13;1089
+MN;65;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;38;38;8;0.73;1089
+MN;65;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;38;38;145;13.31;1089
+MN;65;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;38;38;225;20.66;1089
+MN;65;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;38;38;666;61.16;1089
+MN;65;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;38;38;504;75.45;668
+MN;65;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;38;38;106;15.87;668
+MN;65;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;38;38;58;8.68;668
+MN;65;;0219;State Representative District 16B;16B;0301;Paul Torkelson;;;R;5;5;46;66.67;69
+MN;65;;0219;State Representative District 16B;16B;0302;Tamara A. Houle;;;R;5;5;23;33.33;69
+MN;65;;0219;State Representative District 16B;16B;0401;Marinda "Mindy" Kimmel;;;DFL;5;5;43;100.00;43
+MN;65;;0220;State Representative District 17A;17A;0101;Ed Engelmann;;;LMN;33;33;22;100.00;22
+MN;65;;0220;State Representative District 17A;17A;0301;Tim Miller;;;R;33;33;937;100.00;937
+MN;65;;0220;State Representative District 17A;17A;0401;Ben Dolan;;;DFL;33;33;407;73.07;557
+MN;65;;0220;State Representative District 17A;17A;0402;Robert M Wright;;;DFL;33;33;150;26.93;557
+MN;65;;0395;County Commissioner District 5;05;9001;Rick Jansen;;;NP;8;8;129;29.32;440
+MN;65;;0395;County Commissioner District 5;05;9002;Steve (Smorgie) Enestvedt;;;NP;8;8;110;25.00;440
+MN;65;;0395;County Commissioner District 5;05;9003;David Hamre;;;NP;8;8;201;45.68;440
+MN;66;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;31;31;119;100.00;119
+MN;66;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;31;31;39;100.00;39
+MN;66;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;31;31;127;5.26;2413
+MN;66;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;31;31;95;3.94;2413
+MN;66;;0102;U.S. Senator;;0303;James Reibestein;;;R;31;31;93;3.85;2413
+MN;66;;0102;U.S. Senator;;0304;Jason Lewis;;;R;31;31;1983;82.18;2413
+MN;66;;0102;U.S. Senator;;0305;John L. Berman;;;R;31;31;115;4.77;2413
+MN;66;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;31;31;22;0.43;5144
+MN;66;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;31;31;4689;91.15;5144
+MN;66;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;31;31;87;1.69;5144
+MN;66;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;31;31;225;4.37;5144
+MN;66;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;31;31;121;2.35;5144
+MN;66;;0391;County Commissioner District 1;01;9001;Jacob (Jake) Gillen;;;NP;11;11;398;23.13;1721
+MN;66;;0391;County Commissioner District 1;01;9002;Bill McDonald;;;NP;11;11;278;16.15;1721
+MN;66;;0391;County Commissioner District 1;01;9003;Jim Purfeerst;;;NP;11;11;836;48.58;1721
+MN;66;;0391;County Commissioner District 1;01;9004;Joe (Joseph) Adamek;;;NP;11;11;209;12.14;1721
+MN;66;;0395;County Commissioner District 5;05;9001;Jeff Docken;;;NP;10;10;847;63.07;1343
+MN;66;;0395;County Commissioner District 5;05;9002;Kim Halvorson;;;NP;10;10;290;21.59;1343
+MN;66;;0395;County Commissioner District 5;05;9003;Kurt Wolf;;;NP;10;10;206;15.34;1343
+MN;67;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;24;24;6;100.00;6
+MN;67;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;24;24;7;100.00;7
+MN;67;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;24;24;47;8.62;545
+MN;67;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;24;24;24;4.40;545
+MN;67;;0102;U.S. Senator;;0303;James Reibestein;;;R;24;24;35;6.42;545
+MN;67;;0102;U.S. Senator;;0304;Jason Lewis;;;R;24;24;380;69.72;545
+MN;67;;0102;U.S. Senator;;0305;John L. Berman;;;R;24;24;59;10.83;545
+MN;67;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;24;24;4;1.09;368
+MN;67;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;24;24;312;84.78;368
+MN;67;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;24;24;4;1.09;368
+MN;67;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;24;24;24;6.52;368
+MN;67;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;24;24;24;6.52;368
+MN;67;;0142;State Senator District 22;22;0201;Brian Abrahamson;;;GLC;24;24;6;100.00;6
+MN;67;;0142;State Senator District 22;22;0301;Bill Weber;;;R;24;24;579;100.00;579
+MN;67;;0142;State Senator District 22;22;0401;Shawna Marshall;;;DFL;24;24;304;85.15;357
+MN;67;;0142;State Senator District 22;22;0402;Roger L. Elgersma;;;DFL;24;24;53;14.85;357
+MN;68;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;44;44;10;100.00;10
+MN;68;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;44;44;5;100.00;5
+MN;68;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;44;44;143;9.30;1537
+MN;68;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;44;44;85;5.53;1537
+MN;68;;0102;U.S. Senator;;0303;James Reibestein;;;R;44;44;67;4.36;1537
+MN;68;;0102;U.S. Senator;;0304;Jason Lewis;;;R;44;44;1050;68.31;1537
+MN;68;;0102;U.S. Senator;;0305;John L. Berman;;;R;44;44;192;12.49;1537
+MN;68;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;44;44;6;1.00;600
+MN;68;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;44;44;489;81.50;600
+MN;68;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;44;44;9;1.50;600
+MN;68;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;44;44;36;6.00;600
+MN;68;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;44;44;60;10.00;600
+MN;68;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;44;44;8;100.00;8
+MN;68;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;44;44;3;60.00;5
+MN;68;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;44;44;2;40.00;5
+MN;68;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;44;44;13;0.80;1631
+MN;68;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;44;44;22;1.35;1631
+MN;68;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;44;44;243;14.90;1631
+MN;68;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;44;44;661;40.53;1631
+MN;68;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;44;44;692;42.43;1631
+MN;68;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;44;44;471;77.21;610
+MN;68;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;44;44;89;14.59;610
+MN;68;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;44;44;50;8.20;610
+MN;68;;0188;State Representative District 1A;1A;0301;John Burkel;;;R;44;44;1571;94.98;1654
+MN;68;;0188;State Representative District 1A;1A;0302;David Lion;;;R;44;44;56;3.39;1654
+MN;68;;0188;State Representative District 1A;1A;0303;Brian Meehan;;;R;44;44;27;1.63;1654
+MN;68;;0188;State Representative District 1A;1A;0401;Connie Lindstrom;;;DFL;44;44;569;100.00;569
+MN;69;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;172;172;153;100.00;153
+MN;69;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;172;172;149;100.00;149
+MN;69;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;172;172;895;10.57;8464
+MN;69;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;172;172;569;6.72;8464
+MN;69;;0102;U.S. Senator;;0303;James Reibestein;;;R;172;172;580;6.85;8464
+MN;69;;0102;U.S. Senator;;0304;Jason Lewis;;;R;172;172;5516;65.17;8464
+MN;69;;0102;U.S. Senator;;0305;John L. Berman;;;R;172;172;904;10.68;8464
+MN;69;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;172;172;186;0.81;23026
+MN;69;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;172;172;20569;89.33;23026
+MN;69;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;172;172;414;1.80;23026
+MN;69;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;172;172;1214;5.27;23026
+MN;69;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;172;172;643;2.79;23026
+MN;69;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;172;172;137;100.00;137
+MN;69;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;172;172;8975;94.46;9501
+MN;69;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;172;172;526;5.54;9501
+MN;69;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;172;172;20253;100.00;20253
+MN;69;;0126;State Senator District 6;6;0301;John J. Moren;;;R;86;86;2891;100.00;2891
+MN;69;;0126;State Senator District 6;6;0401;Christopher Horoshak;;;DFL;86;86;836;13.14;6363
+MN;69;;0126;State Senator District 6;6;0402;David J Tomassoni;;;DFL;86;86;5527;86.86;6363
+MN;69;;0127;State Senator District 7;7;0301;Donna Bergstrom;;;R;32;32;2129;100.00;2129
+MN;69;;0127;State Senator District 7;7;0401;Erik Simonson;;;DFL;32;32;3095;26.46;11698
+MN;69;;0127;State Senator District 7;7;0402;Jen McEwen;;;DFL;32;32;8603;73.54;11698
+MN;69;;0393;County Commissioner District 3;03;9001;Ashley Grimm;;;NP;12;12;2714;51.71;5248
+MN;69;;0393;County Commissioner District 3;03;9002;Joe Macor;;;NP;12;12;1584;30.18;5248
+MN;69;;0393;County Commissioner District 3;03;9003;Eric Erkkila;;;NP;12;12;950;18.10;5248
+MN;70;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;47;47;180;100.00;180
+MN;70;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;47;47;61;100.00;61
+MN;70;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;47;47;352;5.02;7011
+MN;70;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;47;47;228;3.25;7011
+MN;70;;0102;U.S. Senator;;0303;James Reibestein;;;R;47;47;114;1.63;7011
+MN;70;;0102;U.S. Senator;;0304;Jason Lewis;;;R;47;47;6081;86.74;7011
+MN;70;;0102;U.S. Senator;;0305;John L. Berman;;;R;47;47;236;3.37;7011
+MN;70;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;47;47;116;1.47;7876
+MN;70;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;47;47;6875;87.29;7876
+MN;70;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;47;47;279;3.54;7876
+MN;70;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;47;47;428;5.43;7876
+MN;70;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;47;47;178;2.26;7876
+MN;70;;0176;State Senator District 56;56;0301;Dan Hall;;;R;9;9;1256;100.00;1256
+MN;70;;0176;State Senator District 56;56;0401;Lindsey Port;;;DFL;9;9;1525;63.86;2388
+MN;70;;0176;State Senator District 56;56;0402;Kevin Shea;;;DFL;9;9;722;30.23;2388
+MN;70;;0176;State Senator District 56;56;0403;Richard Tucker;;;DFL;9;9;141;5.90;2388
+MN;70;;0296;State Representative District 55A;55A;0101;Ryan Martin;;;LMN;14;14;40;100.00;40
+MN;70;;0296;State Representative District 55A;55A;0301;Bob Loonan;;;R;14;14;1369;45.00;3042
+MN;70;;0296;State Representative District 55A;55A;0302;Erik Mortensen;;;R;14;14;1673;55.00;3042
+MN;70;;0296;State Representative District 55A;55A;0401;Brad Tabke;;;DFL;14;14;2056;100.00;2056
+MN;70;;0298;State Representative District 56A;56A;0301;Pam Myhra;;;R;9;9;1206;92.27;1307
+MN;70;;0298;State Representative District 56A;56A;0302;Basil Martin;;;R;9;9;101;7.73;1307
+MN;70;;0298;State Representative District 56A;56A;0401;Jessica Hanson;;;DFL;9;9;2208;100.00;2208
+MN;71;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;35;35;88;100.00;88
+MN;71;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;35;35;31;100.00;31
+MN;71;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;35;35;277;6.56;4224
+MN;71;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;35;35;162;3.84;4224
+MN;71;;0102;U.S. Senator;;0303;James Reibestein;;;R;35;35;143;3.39;4224
+MN;71;;0102;U.S. Senator;;0304;Jason Lewis;;;R;35;35;3413;80.80;4224
+MN;71;;0102;U.S. Senator;;0305;John L. Berman;;;R;35;35;229;5.42;4224
+MN;71;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;35;35;38;1.19;3185
+MN;71;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;35;35;2673;83.92;3185
+MN;71;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;35;35;190;5.97;3185
+MN;71;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;35;35;184;5.78;3185
+MN;71;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;35;35;100;3.14;3185
+MN;71;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;35;35;3665;86.81;4222
+MN;71;;0109;U.S. Representative District 6;6;0302;Patrick Munro;;;R;35;35;557;13.19;4222
+MN;71;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;35;35;2583;100.00;2583
+MN;71;;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;8;8;907;82.60;1098
+MN;71;;0217;State Representative District 15B;15B;0302;John Ulrick;;;R;8;8;191;17.40;1098
+MN;71;;0217;State Representative District 15B;15B;0401;Ron Thiessen;;;DFL;8;8;520;100.00;520
+MN;71;;0248;State Representative District 31A;31A;0301;Beau C. Hullermann;;;R;5;5;85;15.83;537
+MN;71;;0248;State Representative District 31A;31A;0302;Kurt Daudt;;;R;5;5;452;84.17;537
+MN;71;;0248;State Representative District 31A;31A;0401;Brad Brown;;;DFL;5;5;260;100.00;260
+MN;72;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;25;25;37;100.00;37
+MN;72;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;25;25;15;100.00;15
+MN;72;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;25;25;114;7.03;1622
+MN;72;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;25;25;37;2.28;1622
+MN;72;;0102;U.S. Senator;;0303;James Reibestein;;;R;25;25;76;4.69;1622
+MN;72;;0102;U.S. Senator;;0304;Jason Lewis;;;R;25;25;1276;78.67;1622
+MN;72;;0102;U.S. Senator;;0305;John L. Berman;;;R;25;25;119;7.34;1622
+MN;72;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;25;25;12;1.27;947
+MN;72;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;25;25;777;82.05;947
+MN;72;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;25;25;22;2.32;947
+MN;72;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;25;25;45;4.75;947
+MN;72;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;25;25;91;9.61;947
+MN;72;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;25;25;26;100.00;26
+MN;72;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;25;25;15;83.33;18
+MN;72;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;25;25;3;16.67;18
+MN;72;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;25;25;80;4.92;1626
+MN;72;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;25;25;12;0.74;1626
+MN;72;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;25;25;260;15.99;1626
+MN;72;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;25;25;348;21.40;1626
+MN;72;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;25;25;926;56.95;1626
+MN;72;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;25;25;668;70.99;941
+MN;72;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;25;25;190;20.19;941
+MN;72;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;25;25;83;8.82;941
+MN;72;;0393;County Commissioner District 3;03;9001;Mark D. Brandt;;;NP;3;3;127;21.90;580
+MN;72;;0393;County Commissioner District 3;03;9002;Donelly Boeder;;;NP;3;3;36;6.21;580
+MN;72;;0393;County Commissioner District 3;03;9003;James Carnahan;;;NP;3;3;16;2.76;580
+MN;72;;0393;County Commissioner District 3;03;9004;Fred Latzke JR;;;NP;3;3;143;24.66;580
+MN;72;;0393;County Commissioner District 3;03;9005;Ronald Otto;;;NP;3;3;49;8.45;580
+MN;72;;0393;County Commissioner District 3;03;9006;Peter Koch;;;NP;3;3;128;22.07;580
+MN;72;;0393;County Commissioner District 3;03;9007;Larry M. Friederichs;;;NP;3;3;50;8.62;580
+MN;72;;0393;County Commissioner District 3;03;9008;Edward Pioske;;;NP;3;3;31;5.34;580
+MN;73;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;98;98;168;100.00;168
+MN;73;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;98;98;61;100.00;61
+MN;73;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;98;98;561;7.25;7736
+MN;73;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;98;98;279;3.61;7736
+MN;73;;0102;U.S. Senator;;0303;James Reibestein;;;R;98;98;294;3.80;7736
+MN;73;;0102;U.S. Senator;;0304;Jason Lewis;;;R;98;98;6036;78.02;7736
+MN;73;;0102;U.S. Senator;;0305;John L. Berman;;;R;98;98;566;7.32;7736
+MN;73;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;98;98;80;0.98;8172
+MN;73;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;98;98;6696;81.94;8172
+MN;73;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;98;98;736;9.01;8172
+MN;73;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;98;98;386;4.72;8172
+MN;73;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;98;98;274;3.35;8172
+MN;73;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;59;59;4723;84.23;5607
+MN;73;;0109;U.S. Representative District 6;6;0302;Patrick Munro;;;R;59;59;884;15.77;5607
+MN;73;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;59;59;5391;100.00;5391
+MN;73;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;39;39;16;100.00;16
+MN;73;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;39;39;6;66.67;9
+MN;73;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;39;39;3;33.33;9
+MN;73;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;39;39;20;0.87;2289
+MN;73;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;39;39;21;0.92;2289
+MN;73;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;39;39;332;14.50;2289
+MN;73;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;39;39;236;10.31;2289
+MN;73;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;39;39;1680;73.39;2289
+MN;73;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;39;39;787;73.41;1072
+MN;73;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;39;39;182;16.98;1072
+MN;73;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;39;39;103;9.61;1072
+MN;73;;0394;County Commissioner District 4;04;9001;Jeff Johnson;;;NP;14;14;1383;38.53;3589
+MN;73;;0394;County Commissioner District 4;04;9002;Darrell Bruestle;;;NP;14;14;391;10.89;3589
+MN;73;;0394;County Commissioner District 4;04;9003;Leigh Lenzmeier;;;NP;14;14;1815;50.57;3589
+MN;74;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;26;26;71;100.00;71
+MN;74;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;26;26;26;100.00;26
+MN;74;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;26;26;92;7.74;1188
+MN;74;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;26;26;36;3.03;1188
+MN;74;;0102;U.S. Senator;;0303;James Reibestein;;;R;26;26;58;4.88;1188
+MN;74;;0102;U.S. Senator;;0304;Jason Lewis;;;R;26;26;927;78.03;1188
+MN;74;;0102;U.S. Senator;;0305;John L. Berman;;;R;26;26;75;6.31;1188
+MN;74;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;26;26;12;0.90;1334
+MN;74;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;26;26;1157;86.73;1334
+MN;74;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;26;26;39;2.92;1334
+MN;74;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;26;26;77;5.77;1334
+MN;74;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;26;26;49;3.67;1334
+MN;74;;0240;State Representative District 27A;27A;0301;Peggy Bennett;;;R;1;1;50;100.00;50
+MN;74;;0240;State Representative District 27A;27A;0401;Thomas Martinez;;;DFL;1;1;54;77.14;70
+MN;74;;0240;State Representative District 27A;27A;0402;Joe Pacovsky;;;DFL;1;1;16;22.86;70
+MN;75;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;26;26;16;100.00;16
+MN;75;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;26;26;5;100.00;5
+MN;75;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;26;26;23;3.80;605
+MN;75;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;26;26;9;1.49;605
+MN;75;;0102;U.S. Senator;;0303;James Reibestein;;;R;26;26;16;2.64;605
+MN;75;;0102;U.S. Senator;;0304;Jason Lewis;;;R;26;26;526;86.94;605
+MN;75;;0102;U.S. Senator;;0305;John L. Berman;;;R;26;26;31;5.12;605
+MN;75;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;26;26;9;1.31;686
+MN;75;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;26;26;612;89.21;686
+MN;75;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;26;26;5;0.73;686
+MN;75;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;26;26;38;5.54;686
+MN;75;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;26;26;22;3.21;686
+MN;75;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;26;26;15;100.00;15
+MN;75;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;26;26;4;80.00;5
+MN;75;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;26;26;1;20.00;5
+MN;75;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;26;26;6;0.96;628
+MN;75;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;26;26;7;1.11;628
+MN;75;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;26;26;45;7.17;628
+MN;75;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;26;26;117;18.63;628
+MN;75;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;26;26;453;72.13;628
+MN;75;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;26;26;538;78.54;685
+MN;75;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;26;26;104;15.18;685
+MN;75;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;26;26;43;6.28;685
+MN;76;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;30;30;17;100.00;17
+MN;76;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;30;30;2;100.00;2
+MN;76;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;30;30;55;8.27;665
+MN;76;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;30;30;25;3.76;665
+MN;76;;0102;U.S. Senator;;0303;James Reibestein;;;R;30;30;30;4.51;665
+MN;76;;0102;U.S. Senator;;0304;Jason Lewis;;;R;30;30;509;76.54;665
+MN;76;;0102;U.S. Senator;;0305;John L. Berman;;;R;30;30;46;6.92;665
+MN;76;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;30;30;10;1.43;699
+MN;76;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;30;30;594;84.98;699
+MN;76;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;30;30;10;1.43;699
+MN;76;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;30;30;34;4.86;699
+MN;76;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;30;30;51;7.30;699
+MN;76;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;30;30;16;100.00;16
+MN;76;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;30;30;2;100.00;2
+MN;76;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;30;30;0;0.00;2
+MN;76;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;30;30;15;2.19;685
+MN;76;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;30;30;2;0.29;685
+MN;76;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;30;30;80;11.68;685
+MN;76;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;30;30;158;23.07;685
+MN;76;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;30;30;430;62.77;685
+MN;76;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;30;30;555;79.06;702
+MN;76;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;30;30;99;14.10;702
+MN;76;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;30;30;48;6.84;702
+MN;76;;0220;State Representative District 17A;17A;0101;Ed Engelmann;;;LMN;30;30;17;100.00;17
+MN;76;;0220;State Representative District 17A;17A;0301;Tim Miller;;;R;30;30;671;100.00;671
+MN;76;;0220;State Representative District 17A;17A;0401;Ben Dolan;;;DFL;30;30;557;83.01;671
+MN;76;;0220;State Representative District 17A;17A;0402;Robert M Wright;;;DFL;30;30;114;16.99;671
+MN;77;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;40;40;19;100.00;19
+MN;77;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;40;40;7;100.00;7
+MN;77;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;40;40;120;7.56;1588
+MN;77;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;40;40;70;4.41;1588
+MN;77;;0102;U.S. Senator;;0303;James Reibestein;;;R;40;40;108;6.80;1588
+MN;77;;0102;U.S. Senator;;0304;Jason Lewis;;;R;40;40;1120;70.53;1588
+MN;77;;0102;U.S. Senator;;0305;John L. Berman;;;R;40;40;170;10.71;1588
+MN;77;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;40;40;11;1.40;784
+MN;77;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;40;40;651;83.04;784
+MN;77;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;40;40;19;2.42;784
+MN;77;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;40;40;41;5.23;784
+MN;77;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;40;40;62;7.91;784
+MN;77;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;40;40;13;100.00;13
+MN;77;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;40;40;7;87.50;8
+MN;77;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;40;40;1;12.50;8
+MN;77;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;40;40;14;0.85;1643
+MN;77;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;40;40;9;0.55;1643
+MN;77;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;40;40;277;16.86;1643
+MN;77;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;40;40;268;16.31;1643
+MN;77;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;40;40;1075;65.43;1643
+MN;77;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;40;40;552;70.14;787
+MN;77;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;40;40;148;18.81;787
+MN;77;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;40;40;87;11.05;787
+MN;77;;0129;State Senator District 9;9;0301;Paul Gazelka;;;R;40;40;1262;78.34;1611
+MN;77;;0129;State Senator District 9;9;0302;Richard Dahl;;;R;40;40;349;21.66;1611
+MN;77;;0129;State Senator District 9;9;0401;A. John Peters;;;DFL;40;40;711;100.00;711
+MN;78;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;20;20;6;100.00;6
+MN;78;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;20;20;3;100.00;3
+MN;78;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;20;20;21;7.89;266
+MN;78;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;20;20;6;2.26;266
+MN;78;;0102;U.S. Senator;;0303;James Reibestein;;;R;20;20;6;2.26;266
+MN;78;;0102;U.S. Senator;;0304;Jason Lewis;;;R;20;20;215;80.83;266
+MN;78;;0102;U.S. Senator;;0305;John L. Berman;;;R;20;20;18;6.77;266
+MN;78;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;20;20;0;0.00;235
+MN;78;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;20;20;210;89.36;235
+MN;78;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;20;20;4;1.70;235
+MN;78;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;20;20;6;2.55;235
+MN;78;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;20;20;15;6.38;235
+MN;78;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;20;20;3;100.00;3
+MN;78;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;20;20;3;100.00;3
+MN;78;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;20;20;0;0.00;3
+MN;78;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;20;20;2;0.74;272
+MN;78;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;20;20;4;1.47;272
+MN;78;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;20;20;31;11.40;272
+MN;78;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;20;20;63;23.16;272
+MN;78;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;20;20;172;63.24;272
+MN;78;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;20;20;195;81.59;239
+MN;78;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;20;20;24;10.04;239
+MN;78;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;20;20;20;8.37;239
+MN;79;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;33;33;39;100.00;39
+MN;79;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;33;33;16;100.00;16
+MN;79;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;33;33;51;5.54;921
+MN;79;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;33;33;34;3.69;921
+MN;79;;0102;U.S. Senator;;0303;James Reibestein;;;R;33;33;23;2.50;921
+MN;79;;0102;U.S. Senator;;0304;Jason Lewis;;;R;33;33;753;81.76;921
+MN;79;;0102;U.S. Senator;;0305;John L. Berman;;;R;33;33;60;6.51;921
+MN;79;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;33;33;15;1.37;1093
+MN;79;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;33;33;935;85.54;1093
+MN;79;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;33;33;21;1.92;1093
+MN;79;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;33;33;56;5.12;1093
+MN;79;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;33;33;66;6.04;1093
+MN;79;;0391;County Commissioner District 1;01;9001;Robert Walkes;;;NP;5;5;278;49.38;563
+MN;79;;0391;County Commissioner District 1;01;9002;Paul Kruger Jr.;;;NP;5;5;142;25.22;563
+MN;79;;0391;County Commissioner District 1;01;9003;Marcella Kahn;;;NP;5;5;143;25.40;563
+MN;80;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;25;25;8;100.00;8
+MN;80;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;25;25;5;100.00;5
+MN;80;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;25;25;84;9.46;888
+MN;80;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;25;25;54;6.08;888
+MN;80;;0102;U.S. Senator;;0303;James Reibestein;;;R;25;25;43;4.84;888
+MN;80;;0102;U.S. Senator;;0304;Jason Lewis;;;R;25;25;619;69.71;888
+MN;80;;0102;U.S. Senator;;0305;John L. Berman;;;R;25;25;88;9.91;888
+MN;80;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;25;25;2;0.44;452
+MN;80;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;25;25;386;85.40;452
+MN;80;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;25;25;11;2.43;452
+MN;80;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;25;25;27;5.97;452
+MN;80;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;25;25;26;5.75;452
+MN;80;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;25;25;5;100.00;5
+MN;80;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;25;25;847;92.77;913
+MN;80;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;25;25;66;7.23;913
+MN;80;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;25;25;416;100.00;416
+MN;80;;0129;State Senator District 9;9;0301;Paul Gazelka;;;R;21;21;616;81.05;760
+MN;80;;0129;State Senator District 9;9;0302;Richard Dahl;;;R;21;21;144;18.95;760
+MN;80;;0129;State Senator District 9;9;0401;A. John Peters;;;DFL;21;21;316;100.00;316
+MN;80;;0392;County Commissioner District 2;02;9001;Rachel Johnson;;;NP;6;6;114;23.80;479
+MN;80;;0392;County Commissioner District 2;02;9002;Ralph Miller;;;NP;6;6;100;20.88;479
+MN;80;;0392;County Commissioner District 2;02;9003;Brian Hagen;;;NP;6;6;119;24.84;479
+MN;80;;0392;County Commissioner District 2;02;9004;Michael Weyer;;;NP;6;6;146;30.48;479
+MN;81;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;22;22;25;100.00;25
+MN;81;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;22;22;11;100.00;11
+MN;81;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;22;22;91;9.14;996
+MN;81;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;22;22;37;3.71;996
+MN;81;;0102;U.S. Senator;;0303;James Reibestein;;;R;22;22;50;5.02;996
+MN;81;;0102;U.S. Senator;;0304;Jason Lewis;;;R;22;22;738;74.10;996
+MN;81;;0102;U.S. Senator;;0305;John L. Berman;;;R;22;22;80;8.03;996
+MN;81;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;22;22;9;1.29;696
+MN;81;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;22;22;618;88.79;696
+MN;81;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;22;22;21;3.02;696
+MN;81;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;22;22;26;3.74;696
+MN;81;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;22;22;22;3.16;696
+MN;81;;0233;State Representative District 23B;23B;0301;Jeremy Munson;;;R;14;14;607;86.10;705
+MN;81;;0233;State Representative District 23B;23B;0302;Yvonne Simon;;;R;14;14;98;13.90;705
+MN;81;;0233;State Representative District 23B;23B;0401;Leroy McClelland;;;DFL;14;14;246;100.00;246
+MN;82;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;83;83;283;100.00;283
+MN;82;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;83;83;166;100.00;166
+MN;82;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;83;83;516;5.63;9172
+MN;82;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;83;83;292;3.18;9172
+MN;82;;0102;U.S. Senator;;0303;James Reibestein;;;R;83;83;223;2.43;9172
+MN;82;;0102;U.S. Senator;;0304;Jason Lewis;;;R;83;83;7821;85.27;9172
+MN;82;;0102;U.S. Senator;;0305;John L. Berman;;;R;83;83;320;3.49;9172
+MN;82;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;83;83;260;1.03;25244
+MN;82;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;83;83;22509;89.17;25244
+MN;82;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;83;83;671;2.66;25244
+MN;82;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;83;83;1251;4.96;25244
+MN;82;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;83;83;553;2.19;25244
+MN;82;;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;57;57;106;100.00;106
+MN;82;;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;57;57;3059;53.40;5729
+MN;82;;0107;U.S. Representative District 4;4;0302;Sia Lo;;;R;57;57;2670;46.60;5729
+MN;82;;0107;U.S. Representative District 4;4;0401;Alberder Gillespie;;;DFL;57;57;1350;7.11;19000
+MN;82;;0107;U.S. Representative District 4;4;0402;Reid Rossell;;;DFL;57;57;211;1.11;19000
+MN;82;;0107;U.S. Representative District 4;4;0403;David Sandbeck;;;DFL;57;57;656;3.45;19000
+MN;82;;0107;U.S. Representative District 4;4;0404;Tiffini Flynn Forslund;;;DFL;57;57;783;4.12;19000
+MN;82;;0107;U.S. Representative District 4;4;0405;Betty McCollum;;;DFL;57;57;16000;84.21;19000
+MN;82;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;13;13;1508;86.77;1738
+MN;82;;0109;U.S. Representative District 6;6;0302;Patrick Munro;;;R;13;13;230;13.23;1738
+MN;82;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;13;13;2528;100.00;2528
+MN;82;;0159;State Senator District 39;39;0301;Karin Housley;;;R;28;28;3092;100.00;3092
+MN;82;;0159;State Senator District 39;39;0401;Brian D. Hile;;;DFL;28;28;1030;12.71;8106
+MN;82;;0159;State Senator District 39;39;0402;Josiah Hill;;;DFL;28;28;7076;87.29;8106
+MN;82;;0163;State Senator District 43;43;0201;Doug Daubenspeck;;;GLC;11;11;34;100.00;34
+MN;82;;0163;State Senator District 43;43;0301;Bob Zick;;;R;11;11;857;100.00;857
+MN;82;;0163;State Senator District 43;43;0401;Natasha Lapcinski;;;DFL;11;11;1017;30.96;3285
+MN;82;;0163;State Senator District 43;43;0402;Charles "Chuck" Wiger;;;DFL;11;11;2268;69.04;3285
+MN;82;;0173;State Senator District 53;53;0301;Mary Giuliani Stephens;;;R;19;19;2487;100.00;2487
+MN;82;;0173;State Senator District 53;53;0401;Marquita Stephens;;;DFL;19;19;2782;33.85;8219
+MN;82;;0173;State Senator District 53;53;0402;Susan Kent;;;DFL;19;19;5437;66.15;8219
+MN;82;;0262;State Representative District 38A;38A;0301;Donald Raleigh;;;R;2;2;119;61.98;192
+MN;82;;0262;State Representative District 38A;38A;0302;Kelly Gunderson;;;R;2;2;31;16.15;192
+MN;82;;0262;State Representative District 38A;38A;0303;Doug Malsom;;;R;2;2;42;21.88;192
+MN;82;;0262;State Representative District 38A;38A;0401;Kris Fredrick;;;DFL;2;2;189;100.00;189
+MN;82;;0264;State Representative District 39A;39A;0301;Bob Dettmer;;;R;12;12;1455;100.00;1455
+MN;82;;0264;State Representative District 39A;39A;0401;Ann Mozey;;;DFL;12;12;3117;91.38;3411
+MN;82;;0264;State Representative District 39A;39A;0402;Chuck Fitzer;;;DFL;12;12;294;8.62;3411
+MN;83;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;21;21;12;100.00;12
+MN;83;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;21;21;0;0.00;0
+MN;83;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;21;21;95;9.80;969
+MN;83;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;21;21;52;5.37;969
+MN;83;;0102;U.S. Senator;;0303;James Reibestein;;;R;21;21;37;3.82;969
+MN;83;;0102;U.S. Senator;;0304;Jason Lewis;;;R;21;21;676;69.76;969
+MN;83;;0102;U.S. Senator;;0305;John L. Berman;;;R;21;21;109;11.25;969
+MN;83;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;21;21;12;2.37;507
+MN;83;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;21;21;461;90.93;507
+MN;83;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;21;21;5;0.99;507
+MN;83;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;21;21;10;1.97;507
+MN;83;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;21;21;19;3.75;507
+MN;83;;0232;State Representative District 23A;23A;0301;Bjorn Olson;;;R;11;11;214;60.28;355
+MN;83;;0232;State Representative District 23A;23A;0302;Michael Sukalski;;;R;11;11;141;39.72;355
+MN;83;;0232;State Representative District 23A;23A;0401;Patricia Fahey Bacon;;;DFL;11;11;136;100.00;136
+MN;83;;0233;State Representative District 23B;23B;0301;Jeremy Munson;;;R;10;10;547;77.37;707
+MN;83;;0233;State Representative District 23B;23B;0302;Yvonne Simon;;;R;10;10;160;22.63;707
+MN;83;;0233;State Representative District 23B;23B;0401;Leroy McClelland;;;DFL;10;10;332;100.00;332
+MN;84;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;32;32;8;100.00;8
+MN;84;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;32;32;5;100.00;5
+MN;84;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;32;32;22;6.75;326
+MN;84;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;32;32;8;2.45;326
+MN;84;;0102;U.S. Senator;;0303;James Reibestein;;;R;32;32;15;4.60;326
+MN;84;;0102;U.S. Senator;;0304;Jason Lewis;;;R;32;32;246;75.46;326
+MN;84;;0102;U.S. Senator;;0305;John L. Berman;;;R;32;32;35;10.74;326
+MN;84;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;32;32;4;1.29;309
+MN;84;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;32;32;256;82.85;309
+MN;84;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;32;32;3;0.97;309
+MN;84;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;32;32;25;8.09;309
+MN;84;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;32;32;21;6.80;309
+MN;84;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;32;32;7;100.00;7
+MN;84;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;32;32;2;33.33;6
+MN;84;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;32;32;4;66.67;6
+MN;84;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;32;32;0;0.00;352
+MN;84;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;32;32;7;1.99;352
+MN;84;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;32;32;95;26.99;352
+MN;84;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;32;32;84;23.86;352
+MN;84;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;32;32;166;47.16;352
+MN;84;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;32;32;256;81.27;315
+MN;84;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;32;32;41;13.02;315
+MN;84;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;32;32;18;5.71;315
+MN;85;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;49;49;143;100.00;143
+MN;85;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;49;49;62;100.00;62
+MN;85;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;49;49;202;11.44;1765
+MN;85;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;49;49;132;7.48;1765
+MN;85;;0102;U.S. Senator;;0303;James Reibestein;;;R;49;49;121;6.86;1765
+MN;85;;0102;U.S. Senator;;0304;Jason Lewis;;;R;49;49;1107;62.72;1765
+MN;85;;0102;U.S. Senator;;0305;John L. Berman;;;R;49;49;203;11.50;1765
+MN;85;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;49;49;42;1.09;3858
+MN;85;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;49;49;3248;84.19;3858
+MN;85;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;49;49;108;2.80;3858
+MN;85;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;49;49;231;5.99;3858
+MN;85;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;49;49;229;5.94;3858
+MN;85;;0394;County Commissioner District 4;04;9001;Jordan Potter;;;NP;6;6;235;18.25;1288
+MN;85;;0394;County Commissioner District 4;04;9002;F. Craig Zeches;;;NP;6;6;287;22.28;1288
+MN;85;;0394;County Commissioner District 4;04;9003;Greg (Skip) Olson;;;NP;6;6;766;59.47;1288
+MN;86;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;45;45;135;100.00;135
+MN;86;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;45;45;45;100.00;45
+MN;86;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;45;45;387;6.39;6061
+MN;86;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;45;45;215;3.55;6061
+MN;86;;0102;U.S. Senator;;0303;James Reibestein;;;R;45;45;197;3.25;6061
+MN;86;;0102;U.S. Senator;;0304;Jason Lewis;;;R;45;45;4958;81.80;6061
+MN;86;;0102;U.S. Senator;;0305;John L. Berman;;;R;45;45;304;5.02;6061
+MN;86;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;45;45;57;1.11;5133
+MN;86;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;45;45;4545;88.54;5133
+MN;86;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;45;45;122;2.38;5133
+MN;86;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;45;45;274;5.34;5133
+MN;86;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;45;45;135;2.63;5133
+MN;86;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;45;45;5436;88.66;6131
+MN;86;;0109;U.S. Representative District 6;6;0302;Patrick Munro;;;R;45;45;695;11.34;6131
+MN;86;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;45;45;4158;100.00;4158
+MN;86;;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;2;2;124;71.26;174
+MN;86;;0217;State Representative District 15B;15B;0302;John Ulrick;;;R;2;2;50;28.74;174
+MN;86;;0217;State Representative District 15B;15B;0401;Ron Thiessen;;;DFL;2;2;85;100.00;85
+MN;86;;0394;County Commissioner District 4;04;9001;Michael Potter;;;NP;7;7;565;31.23;1809
+MN;86;;0394;County Commissioner District 4;04;9002;Scott Yelle;;;NP;7;7;396;21.89;1809
+MN;86;;0394;County Commissioner District 4;04;9003;Mary Wetter;;;NP;7;7;848;46.88;1809
+MN;86;;0395;County Commissioner District 5;05;9001;Mike Kaczmarek;;;NP;13;13;1590;46.07;3451
+MN;86;;0395;County Commissioner District 5;05;9002;Jason Franzen;;;NP;13;13;666;19.30;3451
+MN;86;;0395;County Commissioner District 5;05;9003;Daniel W. Bravinder;;;NP;13;13;939;27.21;3451
+MN;86;;0395;County Commissioner District 5;05;9004;Dan Vick;;;NP;13;13;256;7.42;3451
+MN;87;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;30;30;8;100.00;8
+MN;87;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;30;30;2;100.00;2
+MN;87;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;30;30;40;7.17;558
+MN;87;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;30;30;11;1.97;558
+MN;87;;0102;U.S. Senator;;0303;James Reibestein;;;R;30;30;15;2.69;558
+MN;87;;0102;U.S. Senator;;0304;Jason Lewis;;;R;30;30;441;79.03;558
+MN;87;;0102;U.S. Senator;;0305;John L. Berman;;;R;30;30;51;9.14;558
+MN;87;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;30;30;4;0.82;486
+MN;87;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;30;30;424;87.24;486
+MN;87;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;30;30;12;2.47;486
+MN;87;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;30;30;18;3.70;486
+MN;87;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;30;30;28;5.76;486
+MN;87;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;30;30;7;100.00;7
+MN;87;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;30;30;1;50.00;2
+MN;87;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;30;30;1;50.00;2
+MN;87;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;30;30;54;9.22;586
+MN;87;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;30;30;12;2.05;586
+MN;87;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;30;30;68;11.60;586
+MN;87;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;30;30;118;20.14;586
+MN;87;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;30;30;334;57.00;586
+MN;87;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;30;30;384;78.05;492
+MN;87;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;30;30;75;15.24;492
+MN;87;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;30;30;33;6.71;492

@@ -1,0 +1,308 @@
+MN;01;;0111;U.S. Representative District 8;8;0301;Stewart Mills;;;R;0;810;4862;53.79;9039
+MN;01;;0111;U.S. Representative District 8;8;0401;Rick Nolan;;;DFL;0;810;4167;46.10;9039
+MN;01;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;810;10;0.11;9039
+MN;02;;0106;U.S. Representative District 3;3;0301;Erik Paulsen;;;R;0;247;18593;58.41;31831
+MN;02;;0106;U.S. Representative District 3;3;0401;Terri E. Bonoff;;;DFL;0;247;13129;41.25;31831
+MN;02;;0106;U.S. Representative District 3;3;9901;WRITE-IN**;;;WI;0;247;109;0.34;31831
+MN;02;;0108;U.S. Representative District 5;5;0301;Frank Nelson Drake;;;R;0;236;8654;33.14;26111
+MN;02;;0108;U.S. Representative District 5;5;0401;Keith Ellison;;;DFL;0;236;14603;55.93;26111
+MN;02;;0108;U.S. Representative District 5;5;0601;Dennis Schuller;;;LMN;0;236;2817;10.79;26111
+MN;02;;0108;U.S. Representative District 5;5;9901;WRITE-IN**;;;WI;0;236;37;0.14;26111
+MN;02;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;280;75782;62.71;120840
+MN;02;;0109;U.S. Representative District 6;6;0401;David Snyder;;;DFL;0;280;44887;37.15;120840
+MN;02;;0109;U.S. Representative District 6;6;9901;WRITE-IN**;;;WI;0;280;171;0.14;120840
+MN;03;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;8097;48.04;16853
+MN;03;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;8743;51.88;16853
+MN;03;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;13;0.08;16853
+MN;04;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;5234;40.45;12941
+MN;04;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;7688;59.41;12941
+MN;04;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;19;0.15;12941
+MN;04;;0111;U.S. Representative District 8;8;0301;Stewart Mills;;;R;0;810;4461;55.65;8016
+MN;04;;0111;U.S. Representative District 8;8;0401;Rick Nolan;;;DFL;0;810;3542;44.19;8016
+MN;04;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;810;13;0.16;8016
+MN;05;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;280;12765;66.44;19212
+MN;05;;0109;U.S. Representative District 6;6;0401;David Snyder;;;DFL;0;280;6408;33.35;19212
+MN;05;;0109;U.S. Representative District 6;6;9901;WRITE-IN**;;;WI;0;280;39;0.20;19212
+MN;06;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;1174;43.50;2699
+MN;06;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;1525;56.50;2699
+MN;06;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;0;0.00;2699
+MN;07;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;14527;44.37;32744
+MN;07;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;18177;55.51;32744
+MN;07;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;40;0.12;32744
+MN;08;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;8182;60.31;13566
+MN;08;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;5376;39.63;13566
+MN;08;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;8;0.06;13566
+MN;09;;0111;U.S. Representative District 8;8;0301;Stewart Mills;;;R;0;810;7766;42.87;18114
+MN;09;;0111;U.S. Representative District 8;8;0401;Rick Nolan;;;DFL;0;810;10311;56.92;18114
+MN;09;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;810;37;0.20;18114
+MN;10;;0106;U.S. Representative District 3;3;0301;Erik Paulsen;;;R;0;247;22269;65.01;34253
+MN;10;;0106;U.S. Representative District 3;3;0401;Terri E. Bonoff;;;DFL;0;247;11907;34.76;34253
+MN;10;;0106;U.S. Representative District 3;3;9901;WRITE-IN**;;;WI;0;247;77;0.22;34253
+MN;10;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;280;13950;69.79;19988
+MN;10;;0109;U.S. Representative District 6;6;0401;David Snyder;;;DFL;0;280;6014;30.09;19988
+MN;10;;0109;U.S. Representative District 6;6;9901;WRITE-IN**;;;WI;0;280;24;0.12;19988
+MN;11;;0111;U.S. Representative District 8;8;0301;Stewart Mills;;;R;0;810;9407;59.81;15728
+MN;11;;0111;U.S. Representative District 8;8;0401;Rick Nolan;;;DFL;0;810;6287;39.97;15728
+MN;11;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;810;34;0.22;15728
+MN;12;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;2514;41.13;6112
+MN;12;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;3593;58.79;6112
+MN;12;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;5;0.08;6112
+MN;13;;0111;U.S. Representative District 8;8;0301;Stewart Mills;;;R;0;810;16150;54.90;29418
+MN;13;;0111;U.S. Representative District 8;8;0401;Rick Nolan;;;DFL;0;810;13189;44.83;29418
+MN;13;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;810;79;0.27;29418
+MN;14;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;10096;35.48;28459
+MN;14;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;18316;64.36;28459
+MN;14;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;47;0.17;28459
+MN;15;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;2293;55.19;4155
+MN;15;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;1861;44.79;4155
+MN;15;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;1;0.02;4155
+MN;16;;0111;U.S. Representative District 8;8;0301;Stewart Mills;;;R;0;810;1159;34.62;3348
+MN;16;;0111;U.S. Representative District 8;8;0401;Rick Nolan;;;DFL;0;810;2182;65.17;3348
+MN;16;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;810;7;0.21;3348
+MN;17;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;1182;65.96;1792
+MN;17;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;607;33.87;1792
+MN;17;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;3;0.17;1792
+MN;17;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;1921;50.59;3797
+MN;17;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;1873;49.33;3797
+MN;17;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;3;0.08;3797
+MN;18;;0111;U.S. Representative District 8;8;0301;Stewart Mills;;;R;0;810;20873;58.92;35429
+MN;18;;0111;U.S. Representative District 8;8;0401;Rick Nolan;;;DFL;0;810;14482;40.88;35429
+MN;18;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;810;74;0.21;35429
+MN;19;;0105;U.S. Representative District 2;2;0301;Jason Lewis;;;R;0;292;100780;44.84;224746
+MN;19;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;0;292;106560;47.41;224746
+MN;19;;0105;U.S. Representative District 2;2;1101;Paula Overby;;;IP;0;292;17167;7.64;224746
+MN;19;;0105;U.S. Representative District 2;2;9901;WRITE-IN**;;;WI;0;292;239;0.11;224746
+MN;20;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;5823;55.83;10429
+MN;20;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;4601;44.12;10429
+MN;20;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;5;0.05;10429
+MN;21;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;11207;52.90;21186
+MN;21;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;9960;47.01;21186
+MN;21;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;19;0.09;21186
+MN;22;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;4429;60.54;7316
+MN;22;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;2884;39.42;7316
+MN;22;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;3;0.04;7316
+MN;23;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;5286;48.38;10926
+MN;23;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;5628;51.51;10926
+MN;23;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;12;0.11;10926
+MN;24;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;7454;47.04;15846
+MN;24;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;8386;52.92;15846
+MN;24;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;6;0.04;15846
+MN;25;;0105;U.S. Representative District 2;2;0301;Jason Lewis;;;R;0;292;13083;51.92;25196
+MN;25;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;0;292;9946;39.47;25196
+MN;25;;0105;U.S. Representative District 2;2;1101;Paula Overby;;;IP;0;292;2152;8.54;25196
+MN;25;;0105;U.S. Representative District 2;2;9901;WRITE-IN**;;;WI;0;292;15;0.06;25196
+MN;26;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;1380;40.35;3420
+MN;26;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;2036;59.53;3420
+MN;26;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;4;0.12;3420
+MN;27;;0106;U.S. Representative District 3;3;0301;Erik Paulsen;;;R;0;247;182215;55.66;327380
+MN;27;;0106;U.S. Representative District 3;3;0401;Terri E. Bonoff;;;DFL;0;247;144207;44.05;327380
+MN;27;;0106;U.S. Representative District 3;3;9901;WRITE-IN**;;;WI;0;247;958;0.29;327380
+MN;27;;0108;U.S. Representative District 5;5;0301;Frank Nelson Drake;;;R;0;236;71407;21.38;333923
+MN;27;;0108;U.S. Representative District 5;5;0401;Keith Ellison;;;DFL;0;236;234243;70.15;333923
+MN;27;;0108;U.S. Representative District 5;5;0601;Dennis Schuller;;;LMN;0;236;27816;8.33;333923
+MN;27;;0108;U.S. Representative District 5;5;9901;WRITE-IN**;;;WI;0;236;457;0.14;333923
+MN;27;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;280;383;72.81;526
+MN;27;;0109;U.S. Representative District 6;6;0401;David Snyder;;;DFL;0;280;143;27.19;526
+MN;27;;0109;U.S. Representative District 6;6;9901;WRITE-IN**;;;WI;0;280;0;0.00;526
+MN;28;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;4880;47.25;10328
+MN;28;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;5438;52.65;10328
+MN;28;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;10;0.10;10328
+MN;29;;0111;U.S. Representative District 8;8;0301;Stewart Mills;;;R;0;810;6560;58.07;11297
+MN;29;;0111;U.S. Representative District 8;8;0401;Rick Nolan;;;DFL;0;810;4718;41.76;11297
+MN;29;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;810;19;0.17;11297
+MN;30;;0111;U.S. Representative District 8;8;0301;Stewart Mills;;;R;0;810;12020;58.71;20473
+MN;30;;0111;U.S. Representative District 8;8;0401;Rick Nolan;;;DFL;0;810;8379;40.93;20473
+MN;30;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;810;74;0.36;20473
+MN;31;;0111;U.S. Representative District 8;8;0301;Stewart Mills;;;R;0;810;11541;48.87;23616
+MN;31;;0111;U.S. Representative District 8;8;0401;Rick Nolan;;;DFL;0;810;12019;50.89;23616
+MN;31;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;810;56;0.24;23616
+MN;32;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;3248;59.80;5431
+MN;32;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;2180;40.14;5431
+MN;32;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;3;0.06;5431
+MN;33;;0111;U.S. Representative District 8;8;0301;Stewart Mills;;;R;0;810;4507;56.57;7967
+MN;33;;0111;U.S. Representative District 8;8;0401;Rick Nolan;;;DFL;0;810;3435;43.12;7967
+MN;33;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;810;25;0.31;7967
+MN;34;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;10313;48.64;21202
+MN;34;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;10872;51.28;21202
+MN;34;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;17;0.08;21202
+MN;35;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;795;33.60;2366
+MN;35;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;1569;66.31;2366
+MN;35;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;2;0.08;2366
+MN;36;;0111;U.S. Representative District 8;8;0301;Stewart Mills;;;R;0;810;3018;48.05;6281
+MN;36;;0111;U.S. Representative District 8;8;0401;Rick Nolan;;;DFL;0;810;3245;51.66;6281
+MN;36;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;810;18;0.29;6281
+MN;37;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;1480;38.66;3828
+MN;37;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;2345;61.26;3828
+MN;37;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;3;0.08;3828
+MN;38;;0111;U.S. Representative District 8;8;0301;Stewart Mills;;;R;0;810;2734;42.37;6452
+MN;38;;0111;U.S. Representative District 8;8;0401;Rick Nolan;;;DFL;0;810;3714;57.56;6452
+MN;38;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;810;4;0.06;6452
+MN;39;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;1073;49.09;2186
+MN;39;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;1111;50.82;2186
+MN;39;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;2;0.09;2186
+MN;40;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;8078;55.27;14615
+MN;40;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;6522;44.63;14615
+MN;40;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;15;0.10;14615
+MN;41;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;1388;46.77;2968
+MN;41;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;1580;53.23;2968
+MN;41;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;0;0.00;2968
+MN;42;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;5752;48.34;11899
+MN;42;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;6136;51.57;11899
+MN;42;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;11;0.09;11899
+MN;43;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;10326;57.06;18097
+MN;43;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;7748;42.81;18097
+MN;43;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;23;0.13;18097
+MN;44;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;671;32.72;2051
+MN;44;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;1376;67.09;2051
+MN;44;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;4;0.20;2051
+MN;45;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;1977;41.47;4767
+MN;45;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;2788;58.49;4767
+MN;45;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;2;0.04;4767
+MN;46;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;6756;64.94;10404
+MN;46;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;3641;35.00;10404
+MN;46;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;7;0.07;10404
+MN;47;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;6588;55.17;11941
+MN;47;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;5349;44.80;11941
+MN;47;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;4;0.03;11941
+MN;48;;0111;U.S. Representative District 8;8;0301;Stewart Mills;;;R;0;810;7056;55.85;12633
+MN;48;;0111;U.S. Representative District 8;8;0401;Rick Nolan;;;DFL;0;810;5536;43.82;12633
+MN;48;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;810;41;0.32;12633
+MN;49;;0111;U.S. Representative District 8;8;0301;Stewart Mills;;;R;0;810;10811;62.88;17193
+MN;49;;0111;U.S. Representative District 8;8;0401;Rick Nolan;;;DFL;0;810;6349;36.93;17193
+MN;49;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;810;33;0.19;17193
+MN;50;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;7510;42.87;17518
+MN;50;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;9998;57.07;17518
+MN;50;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;10;0.06;17518
+MN;51;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;2412;52.50;4594
+MN;51;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;2181;47.47;4594
+MN;51;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;1;0.02;4594
+MN;52;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;7544;42.70;17666
+MN;52;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;10110;57.23;17666
+MN;52;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;12;0.07;17666
+MN;53;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;4570;54.36;8407
+MN;53;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;3833;45.59;8407
+MN;53;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;4;0.05;8407
+MN;54;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;956;29.70;3219
+MN;54;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;2261;70.24;3219
+MN;54;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;2;0.06;3219
+MN;55;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;36337;46.56;78044
+MN;55;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;41645;53.36;78044
+MN;55;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;62;0.08;78044
+MN;56;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;16151;50.76;31821
+MN;56;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;15641;49.15;31821
+MN;56;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;29;0.09;31821
+MN;57;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;2713;41.12;6597
+MN;57;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;3876;58.75;6597
+MN;57;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;8;0.12;6597
+MN;58;;0111;U.S. Representative District 8;8;0301;Stewart Mills;;;R;0;810;6991;51.61;13545
+MN;58;;0111;U.S. Representative District 8;8;0401;Rick Nolan;;;DFL;0;810;6519;48.13;13545
+MN;58;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;810;35;0.26;13545
+MN;59;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;2854;61.35;4652
+MN;59;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;1795;38.59;4652
+MN;59;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;3;0.06;4652
+MN;60;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;6046;41.88;14435
+MN;60;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;8377;58.03;14435
+MN;60;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;12;0.08;14435
+MN;61;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;2722;43.97;6190
+MN;61;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;3463;55.95;6190
+MN;61;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;5;0.08;6190
+MN;62;;0107;U.S. Representative District 4;4;0301;Greg Ryan;;;R;0;229;77994;30.02;259790
+MN;62;;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;0;229;159778;61.50;259790
+MN;62;;0107;U.S. Representative District 4;4;0601;Susan Pendergast Sindt;;;LMN;0;229;21613;8.32;259790
+MN;62;;0107;U.S. Representative District 4;4;9901;WRITE-IN**;;;WI;0;229;405;0.16;259790
+MN;62;;0108;U.S. Representative District 5;5;0301;Frank Nelson Drake;;;R;0;236;599;32.41;1848
+MN;62;;0108;U.S. Representative District 5;5;0401;Keith Ellison;;;DFL;0;236;1118;60.50;1848
+MN;62;;0108;U.S. Representative District 5;5;0601;Dennis Schuller;;;LMN;0;236;126;6.82;1848
+MN;62;;0108;U.S. Representative District 5;5;9901;WRITE-IN**;;;WI;0;236;5;0.27;1848
+MN;63;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;707;37.73;1874
+MN;63;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;1163;62.06;1874
+MN;63;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;4;0.21;1874
+MN;64;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;3649;49.33;7397
+MN;64;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;3740;50.56;7397
+MN;64;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;8;0.11;7397
+MN;65;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;3479;46.68;7453
+MN;65;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;3966;53.21;7453
+MN;65;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;8;0.11;7453
+MN;66;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;9784;54.94;17808
+MN;66;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;8006;44.96;17808
+MN;66;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;18;0.10;17808
+MN;66;;0105;U.S. Representative District 2;2;0301;Jason Lewis;;;R;0;292;4510;33.44;13488
+MN;66;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;0;292;8114;60.16;13488
+MN;66;;0105;U.S. Representative District 2;2;1101;Paula Overby;;;IP;0;292;856;6.35;13488
+MN;66;;0105;U.S. Representative District 2;2;9901;WRITE-IN**;;;WI;0;292;8;0.06;13488
+MN;67;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;2866;60.20;4761
+MN;67;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;1890;39.70;4761
+MN;67;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;5;0.11;4761
+MN;68;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;3978;52.02;7647
+MN;68;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;3665;47.93;7647
+MN;68;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;4;0.05;7647
+MN;69;;0111;U.S. Representative District 8;8;0301;Stewart Mills;;;R;0;810;42889;38.41;111658
+MN;69;;0111;U.S. Representative District 8;8;0401;Rick Nolan;;;DFL;0;810;68549;61.39;111658
+MN;69;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;810;220;0.20;111658
+MN;70;;0105;U.S. Representative District 2;2;0301;Jason Lewis;;;R;0;292;39455;54.09;72937
+MN;70;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;0;292;27788;38.10;72937
+MN;70;;0105;U.S. Representative District 2;2;1101;Paula Overby;;;IP;0;292;5633;7.72;72937
+MN;70;;0105;U.S. Representative District 2;2;9901;WRITE-IN**;;;WI;0;292;61;0.08;72937
+MN;71;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;280;32432;69.90;46400
+MN;71;;0109;U.S. Representative District 6;6;0401;David Snyder;;;DFL;0;280;13894;29.94;46400
+MN;71;;0109;U.S. Representative District 6;6;9901;WRITE-IN**;;;WI;0;280;74;0.16;46400
+MN;72;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;4328;57.27;7557
+MN;72;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;3225;42.68;7557
+MN;72;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;4;0.05;7557
+MN;73;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;280;38728;62.45;62015
+MN;73;;0109;U.S. Representative District 6;6;0401;David Snyder;;;DFL;0;280;23174;37.37;62015
+MN;73;;0109;U.S. Representative District 6;6;9901;WRITE-IN**;;;WI;0;280;113;0.18;62015
+MN;73;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;8050;55.67;14460
+MN;73;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;6393;44.21;14460
+MN;73;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;17;0.12;14460
+MN;74;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;9771;52.33;18671
+MN;74;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;8884;47.58;18671
+MN;74;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;16;0.09;18671
+MN;75;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;2087;39.57;5274
+MN;75;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;3183;60.35;5274
+MN;75;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;4;0.08;5274
+MN;76;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;1962;39.66;4947
+MN;76;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;2982;60.28;4947
+MN;76;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;3;0.06;4947
+MN;77;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;6243;53.72;11621
+MN;77;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;5367;46.18;11621
+MN;77;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;11;0.09;11621
+MN;78;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;632;35.99;1756
+MN;78;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;1123;63.95;1756
+MN;78;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;1;0.06;1756
+MN;79;;0105;U.S. Representative District 2;2;0301;Jason Lewis;;;R;0;292;6066;52.77;11495
+MN;79;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;0;292;4445;38.67;11495
+MN;79;;0105;U.S. Representative District 2;2;1101;Paula Overby;;;IP;0;292;974;8.47;11495
+MN;79;;0105;U.S. Representative District 2;2;9901;WRITE-IN**;;;WI;0;292;10;0.09;11495
+MN;80;;0111;U.S. Representative District 8;8;0301;Stewart Mills;;;R;0;810;4284;63.26;6772
+MN;80;;0111;U.S. Representative District 8;8;0401;Rick Nolan;;;DFL;0;810;2475;36.55;6772
+MN;80;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;810;13;0.19;6772
+MN;81;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;5027;52.78;9524
+MN;81;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;4489;47.13;9524
+MN;81;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;8;0.08;9524
+MN;82;;0105;U.S. Representative District 2;2;0301;Jason Lewis;;;R;0;292;10076;44.48;22652
+MN;82;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;0;292;10462;46.19;22652
+MN;82;;0105;U.S. Representative District 2;2;1101;Paula Overby;;;IP;0;292;2087;9.21;22652
+MN;82;;0105;U.S. Representative District 2;2;9901;WRITE-IN**;;;WI;0;292;27;0.12;22652
+MN;82;;0107;U.S. Representative District 4;4;0301;Greg Ryan;;;R;0;229;43038;46.70;92154
+MN;82;;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;0;229;43521;47.23;92154
+MN;82;;0107;U.S. Representative District 4;4;0601;Susan Pendergast Sindt;;;LMN;0;229;5539;6.01;92154
+MN;82;;0107;U.S. Representative District 4;4;9901;WRITE-IN**;;;WI;0;229;56;0.06;92154
+MN;82;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;280;14160;62.80;22548
+MN;82;;0109;U.S. Representative District 6;6;0401;David Snyder;;;DFL;0;280;8353;37.05;22548
+MN;82;;0109;U.S. Representative District 6;6;9901;WRITE-IN**;;;WI;0;280;35;0.16;22548
+MN;83;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;2518;51.02;4935
+MN;83;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;2417;48.98;4935
+MN;83;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;0;0.00;4935
+MN;84;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;1369;42.29;3237
+MN;84;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;1868;57.71;3237
+MN;84;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;0;0.00;3237
+MN;85;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;10754;42.77;25146
+MN;85;;0104;U.S. Representative District 1;1;0401;Tim Walz;;;DFL;0;697;14362;57.11;25146
+MN;85;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;697;30;0.12;25146
+MN;86;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;280;47180;70.01;67395
+MN;86;;0109;U.S. Representative District 6;6;0401;David Snyder;;;DFL;0;280;20135;29.88;67395
+MN;86;;0109;U.S. Representative District 6;6;9901;WRITE-IN**;;;WI;0;280;80;0.12;67395
+MN;87;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;2335;44.99;5190
+MN;87;;0110;U.S. Representative District 7;7;0401;Collin Peterson;;;DFL;0;1329;2851;54.93;5190
+MN;87;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;4;0.08;5190

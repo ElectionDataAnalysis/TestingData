@@ -1,0 +1,569 @@
+MN;01;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;10;100.00;10
+MN;01;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;0;802;91;5.94;1533
+MN;01;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;1442;94.06;1533
+MN;01;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;1259;100.00;1259
+MN;02;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;0;249;1634;67.66;2415
+MN;02;;0106;U.S. Representative District 3;3;0302;Leslie Davis;;;R;0;249;781;32.34;2415
+MN;02;;0106;U.S. Representative District 3;3;0402;Cole Young;;;DFL;0;249;670;14.71;4556
+MN;02;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;0;249;3886;85.29;4556
+MN;02;;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;0;238;75;100.00;75
+MN;02;;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;0;238;1198;74.23;1614
+MN;02;;0108;U.S. Representative District 5;5;0303;Dalia Al-Aqidi;;;R;0;238;64;3.97;1614
+MN;02;;0108;U.S. Representative District 5;5;0302;Danielle Stella;;;R;0;238;352;21.81;1614
+MN;02;;0108;U.S. Representative District 5;5;0401;Daniel Patrick McCarthy;;;DFL;0;238;244;2.80;8709
+MN;02;;0108;U.S. Representative District 5;5;0404;Ilhan Omar;;;DFL;0;238;4383;50.33;8709
+MN;02;;0108;U.S. Representative District 5;5;0403;John Mason;;;DFL;0;238;234;2.69;8709
+MN;02;;0108;U.S. Representative District 5;5;0402;Les Lester;;;DFL;0;238;114;1.31;8709
+MN;02;;0108;U.S. Representative District 5;5;0405;Antone Melton-Meaux;;;DFL;0;238;3734;42.88;8709
+MN;02;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;10548;88.14;11967
+MN;02;;0109;U.S. Representative District 6;6;0302;Patrick Munro;;;R;0;281;1419;11.86;11967
+MN;02;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;11767;100.00;11767
+MN;03;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;22;100.00;22
+MN;03;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;4;44.44;9
+MN;03;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;5;55.56;9
+MN;03;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;408;21.41;1906
+MN;03;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;24;1.26;1906
+MN;03;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;1128;59.18;1906
+MN;03;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;332;17.42;1906
+MN;03;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;14;0.73;1906
+MN;03;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;95;6.53;1455
+MN;03;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;1134;77.94;1455
+MN;03;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;226;15.53;1455
+MN;04;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;55;100.00;55
+MN;04;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;15;55.56;27
+MN;04;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;12;44.44;27
+MN;04;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;386;28.87;1337
+MN;04;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;41;3.07;1337
+MN;04;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;152;11.37;1337
+MN;04;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;738;55.20;1337
+MN;04;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;20;1.50;1337
+MN;04;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;187;8.90;2100
+MN;04;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;1418;67.52;2100
+MN;04;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;495;23.57;2100
+MN;04;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;18;100.00;18
+MN;04;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;0;802;61;5.11;1193
+MN;04;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;1132;94.89;1193
+MN;04;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;921;100.00;921
+MN;05;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;1815;84.18;2156
+MN;05;;0109;U.S. Representative District 6;6;0302;Patrick Munro;;;R;0;281;341;15.82;2156
+MN;05;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;1189;100.00;1189
+MN;06;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;5;100.00;5
+MN;06;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;1;33.33;3
+MN;06;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;2;66.67;3
+MN;06;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;116;22.48;516
+MN;06;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;8;1.55;516
+MN;06;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;52;10.08;516
+MN;06;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;329;63.76;516
+MN;06;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;11;2.13;516
+MN;06;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;37;6.98;530
+MN;06;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;417;78.68;530
+MN;06;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;76;14.34;530
+MN;09;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;31;100.00;31
+MN;09;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;1678;93.48;1795
+MN;09;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;0;802;117;6.52;1795
+MN;09;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;2455;100.00;2455
+MN;10;;0106;U.S. Representative District 3;3;0302;Leslie Davis;;;R;0;249;1236;28.51;4335
+MN;10;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;0;249;3099;71.49;4335
+MN;10;;0106;U.S. Representative District 3;3;0402;Cole Young;;;DFL;0;249;510;9.48;5381
+MN;10;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;0;249;4871;90.52;5381
+MN;10;;0109;U.S. Representative District 6;6;0302;Patrick Munro;;;R;0;281;386;11.74;3287
+MN;10;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;2901;88.26;3287
+MN;10;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;1804;100.00;1804
+MN;11;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;54;100.00;54
+MN;11;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;0;802;171;5.10;3350
+MN;11;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;3179;94.90;3350
+MN;11;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;1919;100.00;1919
+MN;12;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;10;100.00;10
+MN;12;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;2;40.00;5
+MN;12;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;3;60.00;5
+MN;12;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;155;18.11;856
+MN;12;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;6;0.70;856
+MN;12;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;31;3.62;856
+MN;12;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;101;11.80;856
+MN;12;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;563;65.77;856
+MN;12;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;53;7.20;736
+MN;12;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;572;77.72;736
+MN;12;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;111;15.08;736
+MN;13;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;24;100.00;24
+MN;13;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;2415;91.96;2626
+MN;13;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;0;802;211;8.04;2626
+MN;13;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;2495;100.00;2495
+MN;14;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;36;100.00;36
+MN;14;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;13;52.00;25
+MN;14;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;12;48.00;25
+MN;14;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;411;24.06;1708
+MN;14;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;40;2.34;1708
+MN;14;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;905;52.99;1708
+MN;14;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;331;19.38;1708
+MN;14;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;21;1.23;1708
+MN;14;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;171;4.45;3842
+MN;14;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;2975;77.43;3842
+MN;14;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;696;18.12;3842
+MN;15;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;9;100.00;9
+MN;15;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;2;20.00;10
+MN;15;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;8;80.00;10
+MN;15;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;214;31.42;681
+MN;15;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;7;1.03;681
+MN;15;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;350;51.40;681
+MN;15;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;5;0.73;681
+MN;15;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;105;15.42;681
+MN;15;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;24;7.21;333
+MN;15;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;241;72.37;333
+MN;15;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;68;20.42;333
+MN;16;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;19;100.00;19
+MN;16;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;619;92.80;667
+MN;16;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;0;802;48;7.20;667
+MN;16;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;1196;100.00;1196
+MN;17;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;0;0.00;0
+MN;17;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;2;100.00;2
+MN;17;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;0;0.00;2
+MN;17;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;25;6.51;384
+MN;17;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;163;42.45;384
+MN;17;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;137;35.68;384
+MN;17;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;51;13.28;384
+MN;17;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;8;2.08;384
+MN;17;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;14;6.36;220
+MN;17;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;163;74.09;220
+MN;17;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;43;19.55;220
+MN;18;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;36;100.00;36
+MN;18;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;0;802;353;6.72;5251
+MN;18;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;4898;93.28;5251
+MN;18;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;3709;100.00;3709
+MN;21;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;43;100.00;43
+MN;21;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;8;40.00;20
+MN;21;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;12;60.00;20
+MN;21;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;546;15.47;3530
+MN;21;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;37;1.05;3530
+MN;21;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;57;1.61;3530
+MN;21;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;2359;66.83;3530
+MN;21;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;531;15.04;3530
+MN;21;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;237;8.84;2681
+MN;21;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;1965;73.29;2681
+MN;21;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;479;17.87;2681
+MN;26;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;11;100.00;11
+MN;26;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;2;66.67;3
+MN;26;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;1;33.33;3
+MN;26;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;126;23.68;532
+MN;26;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;20;3.76;532
+MN;26;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;83;15.60;532
+MN;26;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;292;54.89;532
+MN;26;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;11;2.07;532
+MN;26;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;42;7.62;551
+MN;26;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;440;79.85;551
+MN;26;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;69;12.52;551
+MN;27;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;0;249;20672;77.38;26715
+MN;27;;0106;U.S. Representative District 3;3;0302;Leslie Davis;;;R;0;249;6043;22.62;26715
+MN;27;;0106;U.S. Representative District 3;3;0402;Cole Young;;;DFL;0;249;6263;8.88;70517
+MN;27;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;0;249;64254;91.12;70517
+MN;27;;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;0;238;858;100.00;858
+MN;27;;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;0;238;7941;77.00;10313
+MN;27;;0108;U.S. Representative District 5;5;0303;Dalia Al-Aqidi;;;R;0;238;502;4.87;10313
+MN;27;;0108;U.S. Representative District 5;5;0302;Danielle Stella;;;R;0;238;1870;18.13;10313
+MN;27;;0108;U.S. Representative District 5;5;0404;Ilhan Omar;;;DFL;0;238;98820;58.63;168553
+MN;27;;0108;U.S. Representative District 5;5;0401;Daniel Patrick McCarthy;;;DFL;0;238;1630;0.97;168553
+MN;27;;0108;U.S. Representative District 5;5;0405;Antone Melton-Meaux;;;DFL;0;238;64490;38.26;168553
+MN;27;;0108;U.S. Representative District 5;5;0402;Les Lester;;;DFL;0;238;1148;0.68;168553
+MN;27;;0108;U.S. Representative District 5;5;0403;John Mason;;;DFL;0;238;2465;1.46;168553
+MN;27;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;58;90.63;64
+MN;27;;0109;U.S. Representative District 6;6;0302;Patrick Munro;;;R;0;281;6;9.38;64
+MN;27;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;25;100.00;25
+MN;29;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;18;100.00;18
+MN;29;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;1440;94.80;1519
+MN;29;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;0;802;79;5.20;1519
+MN;29;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;1255;100.00;1255
+MN;30;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;21;100.00;21
+MN;30;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;0;802;176;9.77;1801
+MN;30;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;1625;90.23;1801
+MN;30;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;1334;100.00;1334
+MN;31;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;69;100.00;69
+MN;31;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;0;802;174;5.51;3157
+MN;31;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;2983;94.49;3157
+MN;31;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;3456;100.00;3456
+MN;33;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;18;100.00;18
+MN;33;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;0;802;45;4.90;918
+MN;33;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;873;95.10;918
+MN;33;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;550;100.00;550
+MN;34;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;34;100.00;34
+MN;34;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;11;78.57;14
+MN;34;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;3;21.43;14
+MN;34;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;428;19.45;2201
+MN;34;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;36;1.64;2201
+MN;34;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;259;11.77;2201
+MN;34;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;31;1.41;2201
+MN;34;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;1447;65.74;2201
+MN;34;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;159;7.95;1999
+MN;34;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;1544;77.24;1999
+MN;34;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;296;14.81;1999
+MN;35;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;5;100.00;5
+MN;35;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;1;50.00;2
+MN;35;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;1;50.00;2
+MN;35;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;210;48.17;436
+MN;35;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;4;0.92;436
+MN;35;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;8;1.83;436
+MN;35;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;159;36.47;436
+MN;35;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;55;12.61;436
+MN;35;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;24;4.83;497
+MN;35;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;437;87.93;497
+MN;35;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;36;7.24;497
+MN;36;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;7;100.00;7
+MN;36;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;0;802;46;5.64;816
+MN;36;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;770;94.36;816
+MN;36;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;680;100.00;680
+MN;37;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;1;100.00;1
+MN;37;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;0;0.00;0
+MN;37;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;0;0.00;0
+MN;37;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;129;24.52;526
+MN;37;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;6;1.14;526
+MN;37;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;59;11.22;526
+MN;37;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;20;3.80;526
+MN;37;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;312;59.32;526
+MN;37;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;33;6.27;526
+MN;37;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;411;78.14;526
+MN;37;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;82;15.59;526
+MN;38;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;13;100.00;13
+MN;38;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;592;95.33;621
+MN;38;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;0;802;29;4.67;621
+MN;38;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;1117;100.00;1117
+MN;39;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;10;100.00;10
+MN;39;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;3;60.00;5
+MN;39;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;2;40.00;5
+MN;39;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;139;24.96;557
+MN;39;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;9;1.62;557
+MN;39;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;5;0.90;557
+MN;39;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;82;14.72;557
+MN;39;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;322;57.81;557
+MN;39;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;30;9.06;331
+MN;39;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;264;79.76;331
+MN;39;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;37;11.18;331
+MN;41;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;7;100.00;7
+MN;41;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;1;25.00;4
+MN;41;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;3;75.00;4
+MN;41;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;59;18.27;323
+MN;41;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;7;2.17;323
+MN;41;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;26;8.05;323
+MN;41;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;42;13.00;323
+MN;41;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;189;58.51;323
+MN;41;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;20;10.31;194
+MN;41;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;138;71.13;194
+MN;41;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;36;18.56;194
+MN;42;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;17;100.00;17
+MN;42;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;0;0.00;8
+MN;42;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;8;100.00;8
+MN;42;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;196;13.84;1416
+MN;42;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;20;1.41;1416
+MN;42;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;126;8.90;1416
+MN;42;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;902;63.70;1416
+MN;42;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;172;12.15;1416
+MN;42;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;93;8.36;1112
+MN;42;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;841;75.63;1112
+MN;42;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;178;16.01;1112
+MN;43;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;29;100.00;29
+MN;43;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;16;64.00;25
+MN;43;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;9;36.00;25
+MN;43;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;489;17.27;2832
+MN;43;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;40;1.41;2832
+MN;43;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;1757;62.04;2832
+MN;43;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;496;17.51;2832
+MN;43;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;50;1.77;2832
+MN;43;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;164;10.15;1616
+MN;43;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;1114;68.94;1616
+MN;43;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;338;20.92;1616
+MN;44;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;2;100.00;2
+MN;44;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;1;33.33;3
+MN;44;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;2;66.67;3
+MN;44;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;37;16.09;230
+MN;44;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;6;2.61;230
+MN;44;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;4;1.74;230
+MN;44;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;42;18.26;230
+MN;44;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;141;61.30;230
+MN;44;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;24;8.00;300
+MN;44;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;238;79.33;300
+MN;44;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;38;12.67;300
+MN;45;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;7;100.00;7
+MN;45;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;0;0.00;0
+MN;45;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;0;0.00;0
+MN;45;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;461;43.33;1064
+MN;45;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;12;1.13;1064
+MN;45;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;6;0.56;1064
+MN;45;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;133;12.50;1064
+MN;45;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;452;42.48;1064
+MN;45;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;40;6.35;630
+MN;45;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;520;82.54;630
+MN;45;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;70;11.11;630
+MN;47;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;25;100.00;25
+MN;47;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;13;92.86;14
+MN;47;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;1;7.14;14
+MN;47;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;347;20.09;1727
+MN;47;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;18;1.04;1727
+MN;47;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;282;16.33;1727
+MN;47;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;1053;60.97;1727
+MN;47;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;27;1.56;1727
+MN;47;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;96;8.82;1089
+MN;47;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;778;71.44;1089
+MN;47;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;215;19.74;1089
+MN;48;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;14;100.00;14
+MN;48;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;0;802;91;8.32;1094
+MN;48;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;1003;91.68;1094
+MN;48;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;654;100.00;654
+MN;49;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;19;100.00;19
+MN;49;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;0;802;219;6.68;3277
+MN;49;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;3058;93.32;3277
+MN;49;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;1175;100.00;1175
+MN;51;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;6;100.00;6
+MN;51;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;1;14.29;7
+MN;51;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;6;85.71;7
+MN;51;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;96;11.88;808
+MN;51;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;24;2.97;808
+MN;51;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;553;68.44;808
+MN;51;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;87;10.77;808
+MN;51;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;48;5.94;808
+MN;51;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;20;4.12;485
+MN;51;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;382;78.76;485
+MN;51;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;83;17.11;485
+MN;54;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;7;100.00;7
+MN;54;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;2;66.67;3
+MN;54;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;1;33.33;3
+MN;54;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;73;20.68;353
+MN;54;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;2;0.57;353
+MN;54;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;79;22.38;353
+MN;54;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;2;0.57;353
+MN;54;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;197;55.81;353
+MN;54;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;16;3.01;531
+MN;54;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;469;88.32;531
+MN;54;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;46;8.66;531
+MN;56;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;47;100.00;47
+MN;56;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;10;35.71;28
+MN;56;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;18;64.29;28
+MN;56;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;1225;26.09;4696
+MN;56;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;57;1.21;4696
+MN;56;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;914;19.46;4696
+MN;56;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;51;1.09;4696
+MN;56;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;2449;52.15;4696
+MN;56;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;259;8.44;3069
+MN;56;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;2220;72.34;3069
+MN;56;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;590;19.22;3069
+MN;57;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;10;100.00;10
+MN;57;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;6;75.00;8
+MN;57;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;2;25.00;8
+MN;57;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;283;46.09;614
+MN;57;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;4;0.65;614
+MN;57;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;2;0.33;614
+MN;57;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;81;13.19;614
+MN;57;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;244;39.74;614
+MN;57;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;42;7.95;528
+MN;57;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;409;77.46;528
+MN;57;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;77;14.58;528
+MN;58;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;27;100.00;27
+MN;58;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;0;802;103;6.31;1632
+MN;58;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;1529;93.69;1632
+MN;58;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;1206;100.00;1206
+MN;59;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;8;100.00;8
+MN;59;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;0;0.00;7
+MN;59;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;7;100.00;7
+MN;59;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;98;13.37;733
+MN;59;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;7;0.95;733
+MN;59;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;91;12.41;733
+MN;59;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;26;3.55;733
+MN;59;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;511;69.71;733
+MN;59;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;28;9.72;288
+MN;59;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;217;75.35;288
+MN;59;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;43;14.93;288
+MN;60;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;33;100.00;33
+MN;60;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;16;80.00;20
+MN;60;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;4;20.00;20
+MN;60;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;620;30.29;2047
+MN;60;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;33;1.61;2047
+MN;60;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;336;16.41;2047
+MN;60;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;1035;50.56;2047
+MN;60;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;23;1.12;2047
+MN;60;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;153;7.24;2114
+MN;60;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;1727;81.69;2114
+MN;60;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;234;11.07;2114
+MN;61;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;6;100.00;6
+MN;61;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;2;100.00;2
+MN;61;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;0;0.00;2
+MN;61;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;167;22.33;748
+MN;61;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;6;0.80;748
+MN;61;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;13;1.74;748
+MN;61;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;469;62.70;748
+MN;61;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;93;12.43;748
+MN;61;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;58;8.77;661
+MN;61;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;486;73.52;661
+MN;61;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;117;17.70;661
+MN;62;;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;0;225;512;100.00;512
+MN;62;;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;0;225;6123;49.70;12319
+MN;62;;0107;U.S. Representative District 4;4;0302;Sia Lo;;;R;0;225;6196;50.30;12319
+MN;62;;0107;U.S. Representative District 4;4;0405;Betty McCollum;;;DFL;0;225;64048;83.98;76266
+MN;62;;0107;U.S. Representative District 4;4;0403;David Sandbeck;;;DFL;0;225;2769;3.63;76266
+MN;62;;0107;U.S. Representative District 4;4;0401;Alberder Gillespie;;;DFL;0;225;4977;6.53;76266
+MN;62;;0107;U.S. Representative District 4;4;0402;Reid Rossell;;;DFL;0;225;943;1.24;76266
+MN;62;;0107;U.S. Representative District 4;4;0404;Tiffini Flynn Forslund;;;DFL;0;225;3529;4.63;76266
+MN;62;;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;0;238;7;100.00;7
+MN;62;;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;0;238;49;75.38;65
+MN;62;;0108;U.S. Representative District 5;5;0303;Dalia Al-Aqidi;;;R;0;238;2;3.08;65
+MN;62;;0108;U.S. Representative District 5;5;0302;Danielle Stella;;;R;0;238;14;21.54;65
+MN;62;;0108;U.S. Representative District 5;5;0401;Daniel Patrick McCarthy;;;DFL;0;238;27;3.94;686
+MN;62;;0108;U.S. Representative District 5;5;0404;Ilhan Omar;;;DFL;0;238;332;48.40;686
+MN;62;;0108;U.S. Representative District 5;5;0403;John Mason;;;DFL;0;238;22;3.21;686
+MN;62;;0108;U.S. Representative District 5;5;0405;Antone Melton-Meaux;;;DFL;0;238;300;43.73;686
+MN;62;;0108;U.S. Representative District 5;5;0402;Les Lester;;;DFL;0;238;5;0.73;686
+MN;63;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;6;100.00;6
+MN;63;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;1;50.00;2
+MN;63;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;1;50.00;2
+MN;63;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;81;29.35;276
+MN;63;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;2;0.72;276
+MN;63;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;7;2.54;276
+MN;63;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;136;49.28;276
+MN;63;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;50;18.12;276
+MN;63;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;16;5.80;276
+MN;63;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;227;82.25;276
+MN;63;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;33;11.96;276
+MN;64;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;9;100.00;9
+MN;64;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;3;75.00;4
+MN;64;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;1;25.00;4
+MN;64;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;145;15.07;962
+MN;64;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;9;0.94;962
+MN;64;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;126;13.10;962
+MN;64;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;636;66.11;962
+MN;64;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;46;4.78;962
+MN;64;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;56;13.66;410
+MN;64;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;268;65.37;410
+MN;64;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;86;20.98;410
+MN;65;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;21;100.00;21
+MN;65;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;0;0.00;1
+MN;65;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;1;100.00;1
+MN;65;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;225;20.66;1089
+MN;65;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;8;0.73;1089
+MN;65;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;45;4.13;1089
+MN;65;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;666;61.16;1089
+MN;65;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;145;13.31;1089
+MN;65;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;58;8.68;668
+MN;65;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;504;75.45;668
+MN;65;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;106;15.87;668
+MN;68;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;8;100.00;8
+MN;68;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;3;60.00;5
+MN;68;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;2;40.00;5
+MN;68;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;661;40.53;1631
+MN;68;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;22;1.35;1631
+MN;68;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;243;14.90;1631
+MN;68;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;13;0.80;1631
+MN;68;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;692;42.43;1631
+MN;68;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;50;8.20;610
+MN;68;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;471;77.21;610
+MN;68;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;89;14.59;610
+MN;69;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;137;100.00;137
+MN;69;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;8975;94.46;9501
+MN;69;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;0;802;526;5.54;9501
+MN;69;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;20253;100.00;20253
+MN;71;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;3665;86.81;4222
+MN;71;;0109;U.S. Representative District 6;6;0302;Patrick Munro;;;R;0;281;557;13.19;4222
+MN;71;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;2583;100.00;2583
+MN;72;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;26;100.00;26
+MN;72;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;3;16.67;18
+MN;72;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;15;83.33;18
+MN;72;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;348;21.40;1626
+MN;72;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;12;0.74;1626
+MN;72;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;260;15.99;1626
+MN;72;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;926;56.95;1626
+MN;72;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;80;4.92;1626
+MN;72;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;83;8.82;941
+MN;72;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;668;70.99;941
+MN;72;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;190;20.19;941
+MN;73;;0109;U.S. Representative District 6;6;0302;Patrick Munro;;;R;0;281;884;15.77;5607
+MN;73;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;4723;84.23;5607
+MN;73;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;5391;100.00;5391
+MN;73;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;16;100.00;16
+MN;73;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;3;33.33;9
+MN;73;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;6;66.67;9
+MN;73;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;236;10.31;2289
+MN;73;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;21;0.92;2289
+MN;73;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;20;0.87;2289
+MN;73;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;1680;73.39;2289
+MN;73;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;332;14.50;2289
+MN;73;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;103;9.61;1072
+MN;73;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;787;73.41;1072
+MN;73;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;182;16.98;1072
+MN;75;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;15;100.00;15
+MN;75;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;4;80.00;5
+MN;75;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;1;20.00;5
+MN;75;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;117;18.63;628
+MN;75;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;7;1.11;628
+MN;75;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;45;7.17;628
+MN;75;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;453;72.13;628
+MN;75;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;6;0.96;628
+MN;75;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;43;6.28;685
+MN;75;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;538;78.54;685
+MN;75;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;104;15.18;685
+MN;76;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;16;100.00;16
+MN;76;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;2;100.00;2
+MN;76;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;0;0.00;2
+MN;76;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;158;23.07;685
+MN;76;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;2;0.29;685
+MN;76;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;15;2.19;685
+MN;76;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;430;62.77;685
+MN;76;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;80;11.68;685
+MN;76;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;48;6.84;702
+MN;76;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;555;79.06;702
+MN;76;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;99;14.10;702
+MN;77;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;13;100.00;13
+MN;77;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;7;87.50;8
+MN;77;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;1;12.50;8
+MN;77;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;268;16.31;1643
+MN;77;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;9;0.55;1643
+MN;77;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;14;0.85;1643
+MN;77;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;277;16.86;1643
+MN;77;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;1075;65.43;1643
+MN;77;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;87;11.05;787
+MN;77;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;552;70.14;787
+MN;77;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;148;18.81;787
+MN;78;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;3;100.00;3
+MN;78;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;3;100.00;3
+MN;78;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;0;0.00;3
+MN;78;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;63;23.16;272
+MN;78;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;4;1.47;272
+MN;78;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;2;0.74;272
+MN;78;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;172;63.24;272
+MN;78;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;31;11.40;272
+MN;78;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;20;8.37;239
+MN;78;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;195;81.59;239
+MN;78;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;24;10.04;239
+MN;80;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;5;100.00;5
+MN;80;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;847;92.77;913
+MN;80;;0111;U.S. Representative District 8;8;0302;Harry Robb Welty;;;R;0;802;66;7.23;913
+MN;80;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;416;100.00;416
+MN;82;;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;0;225;106;100.00;106
+MN;82;;0107;U.S. Representative District 4;4;0302;Sia Lo;;;R;0;225;2670;46.60;5729
+MN;82;;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;0;225;3059;53.40;5729
+MN;82;;0107;U.S. Representative District 4;4;0401;Alberder Gillespie;;;DFL;0;225;1350;7.11;19000
+MN;82;;0107;U.S. Representative District 4;4;0402;Reid Rossell;;;DFL;0;225;211;1.11;19000
+MN;82;;0107;U.S. Representative District 4;4;0404;Tiffini Flynn Forslund;;;DFL;0;225;783;4.12;19000
+MN;82;;0107;U.S. Representative District 4;4;0405;Betty McCollum;;;DFL;0;225;16000;84.21;19000
+MN;82;;0107;U.S. Representative District 4;4;0403;David Sandbeck;;;DFL;0;225;656;3.45;19000
+MN;82;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;1508;86.77;1738
+MN;82;;0109;U.S. Representative District 6;6;0302;Patrick Munro;;;R;0;281;230;13.23;1738
+MN;82;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;2528;100.00;2528
+MN;84;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;7;100.00;7
+MN;84;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;4;66.67;6
+MN;84;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;2;33.33;6
+MN;84;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;84;23.86;352
+MN;84;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;7;1.99;352
+MN;84;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;95;26.99;352
+MN;84;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;0;0.00;352
+MN;84;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;166;47.16;352
+MN;84;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;18;5.71;315
+MN;84;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;256;81.27;315
+MN;84;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;41;13.02;315
+MN;86;;0109;U.S. Representative District 6;6;0302;Patrick Munro;;;R;0;281;695;11.34;6131
+MN;86;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;5436;88.66;6131
+MN;86;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;4158;100.00;4158
+MN;87;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;7;100.00;7
+MN;87;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;1;50.00;2
+MN;87;;0110;U.S. Representative District 7;7;0202;Kevin "NeSe" Shores;;;GLC;0;1329;1;50.00;2
+MN;87;;0110;U.S. Representative District 7;7;0304;Dave Hughes;;;R;0;1329;118;20.14;586
+MN;87;;0110;U.S. Representative District 7;7;0302;Jayesun Israel Sherman;;;R;0;1329;12;2.05;586
+MN;87;;0110;U.S. Representative District 7;7;0303;Noel Collis;;;R;0;1329;68;11.60;586
+MN;87;;0110;U.S. Representative District 7;7;0301;William Louwagie;;;R;0;1329;54;9.22;586
+MN;87;;0110;U.S. Representative District 7;7;0305;Michelle Fischbach;;;R;0;1329;334;57.00;586
+MN;87;;0110;U.S. Representative District 7;7;0403;Stephen A. Emery;;;DFL;0;1329;33;6.71;492
+MN;87;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;384;78.05;492
+MN;87;;0110;U.S. Representative District 7;7;0402;Alycia R. Gruenhagen;;;DFL;0;1329;75;15.24;492

@@ -1,0 +1,2 @@
+R;Republican;03
+DFL;Democratic-Farmer-Labor;04

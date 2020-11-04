@@ -1,0 +1,10 @@
+LMN;Legal Marijuana Now;01
+GLC;Grassroots - Legalize Cannabis;02
+R;Republican;03
+DFL;Democratic-Farmer-Labor;04
+N P;Green Party;90
+NP;Nonpartisan;90
+N P;Democratic-Farmer-Labor;90
+N P;Humanity Forward;90
+N P;Independent;90
+NP;Nonpartisan;99

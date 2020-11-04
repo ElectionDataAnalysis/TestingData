@@ -1,0 +1,10 @@
+MN;;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;4120;4120;1322951;44.92;2944813
+MN;;;0101;U.S. President & Vice President;;0401;Hillary Clinton and Tim Kaine;;;DFL;4120;4120;1367716;46.44;2944813
+MN;;;0101;U.S. President & Vice President;;0501;Darrell Castle and Scott Bradley;;;CP;4120;4120;9456;0.32;2944813
+MN;;;0101;U.S. President & Vice President;;0601;Dan R. Vacek and Mark Elworth, Jr.;;;LMN;4120;4120;11291;0.38;2944813
+MN;;;0101;U.S. President & Vice President;;0701;Alyson Kennedy and Osborne Hart;;;SWP;4120;4120;1672;0.06;2944813
+MN;;;0101;U.S. President & Vice President;;0801;Jill Stein and Howie Hawkins;;;GP;4120;4120;36985;1.26;2944813
+MN;;;0101;U.S. President & Vice President;;0901;"Rocky" Roque De La Fuente and Michael Steinberg;;;ADP;4120;4120;1431;0.05;2944813
+MN;;;0101;U.S. President & Vice President;;1101;Evan McMullin and Nathan Johnson;;;IP;4120;4120;53076;1.80;2944813
+MN;;;0101;U.S. President & Vice President;;1201;Gary Johnson and William Weld;;;LIB;4120;4120;112972;3.84;2944813
+MN;;;0101;U.S. President & Vice President;;9901;WRITE-IN**;;;WI;4120;4120;27263;0.93;2944813

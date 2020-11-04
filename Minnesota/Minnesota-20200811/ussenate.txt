@@ -1,0 +1,12 @@
+MN;;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;4110;4110;6996;100.00;6996
+MN;;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;4110;4110;3275;100.00;3275
+MN;;;0102;U.S. Senator;;0303;James Reibestein;;;R;4110;4110;9210;3.76;244888
+MN;;;0102;U.S. Senator;;0305;John L. Berman;;;R;4110;4110;16212;6.62;244888
+MN;;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;4110;4110;17675;7.22;244888
+MN;;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;4110;4110;10503;4.29;244888
+MN;;;0102;U.S. Senator;;0304;Jason Lewis;;;R;4110;4110;191288;78.11;244888
+MN;;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;4110;4110;6480;1.13;570944
+MN;;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;4110;4110;16429;2.88;570944
+MN;;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;4110;4110;30497;5.34;570944
+MN;;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;4110;4110;497501;87.14;570944
+MN;;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;4110;4110;20037;3.51;570944

@@ -1,0 +1,13 @@
+R;Republican;03
+DFL;Democratic-Farmer-Labor;04
+CP;Constitution Party;05
+LMN;Legal Marijuana Now;06
+SWP;Socialist Workers Party;07
+GP;Green Party;08
+ADP;American Delta Party;09
+IPL;Independent Progressive Liberal;10
+IP;Independence;11
+LIB;Libertarian Party;12
+NP;Nonpartisan;90
+WI;Write-In;99
+WI;WRITE-IN**;99

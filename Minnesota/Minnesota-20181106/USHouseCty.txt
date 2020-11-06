@@ -1,0 +1,317 @@
+MN;01;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;806;4466;54.68;8167
+MN;01;;0111;U.S. Representative District 8;8;0401;Joe Radinovich;;;DFL;0;806;3401;41.64;8167
+MN;01;;0111;U.S. Representative District 8;8;1101;Ray Skip Sandman;;;IP;0;806;298;3.65;8167
+MN;01;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;806;2;0.02;8167
+MN;02;;0106;U.S. Representative District 3;3;0301;Erik Paulsen;;;R;0;248;12728;46.87;27155
+MN;02;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;0;248;14331;52.77;27155
+MN;02;;0106;U.S. Representative District 3;3;9901;WRITE-IN**;;;WI;0;248;96;0.35;27155
+MN;02;;0108;U.S. Representative District 5;5;0301;Jennifer Zielinski;;;R;0;236;8514;36.37;23409
+MN;02;;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;0;236;14804;63.24;23409
+MN;02;;0108;U.S. Representative District 5;5;9901;WRITE-IN**;;;WI;0;236;91;0.39;23409
+MN;02;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;279;62062;57.75;107459
+MN;02;;0109;U.S. Representative District 6;6;0401;Ian Todd;;;DFL;0;279;45178;42.04;107459
+MN;02;;0109;U.S. Representative District 6;6;9901;WRITE-IN**;;;WI;0;279;219;0.20;107459
+MN;03;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;7083;48.01;14752
+MN;03;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;7664;51.95;14752
+MN;03;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;5;0.03;14752
+MN;04;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;4012;37.00;10844
+MN;04;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;6822;62.91;10844
+MN;04;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;10;0.09;10844
+MN;04;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;806;4034;57.20;7053
+MN;04;;0111;U.S. Representative District 8;8;0401;Joe Radinovich;;;DFL;0;806;2790;39.56;7053
+MN;04;;0111;U.S. Representative District 8;8;1101;Ray Skip Sandman;;;IP;0;806;226;3.20;7053
+MN;04;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;806;3;0.04;7053
+MN;05;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;279;10081;63.31;15922
+MN;05;;0109;U.S. Representative District 6;6;0401;Ian Todd;;;DFL;0;279;5800;36.43;15922
+MN;05;;0109;U.S. Representative District 6;6;9901;WRITE-IN**;;;WI;0;279;41;0.26;15922
+MN;06;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;1158;44.87;2581
+MN;06;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;1420;55.02;2581
+MN;06;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;3;0.12;2581
+MN;07;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;11920;42.69;27923
+MN;07;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;15945;57.10;27923
+MN;07;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;58;0.21;27923
+MN;08;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;7136;60.89;11720
+MN;08;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;4574;39.03;11720
+MN;08;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;10;0.09;11720
+MN;09;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;806;7090;43.32;16367
+MN;09;;0111;U.S. Representative District 8;8;0401;Joe Radinovich;;;DFL;0;806;8260;50.47;16367
+MN;09;;0111;U.S. Representative District 8;8;1101;Ray Skip Sandman;;;IP;0;806;1008;6.16;16367
+MN;09;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;806;9;0.05;16367
+MN;10;;0106;U.S. Representative District 3;3;0301;Erik Paulsen;;;R;0;248;16507;51.31;32173
+MN;10;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;0;248;15638;48.61;32173
+MN;10;;0106;U.S. Representative District 3;3;9901;WRITE-IN**;;;WI;0;248;28;0.09;32173
+MN;10;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;279;11938;64.68;18457
+MN;10;;0109;U.S. Representative District 6;6;0401;Ian Todd;;;DFL;0;279;6511;35.28;18457
+MN;10;;0109;U.S. Representative District 6;6;9901;WRITE-IN**;;;WI;0;279;8;0.04;18457
+MN;11;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;806;8221;58.88;13962
+MN;11;;0111;U.S. Representative District 8;8;0401;Joe Radinovich;;;DFL;0;806;5158;36.94;13962
+MN;11;;0111;U.S. Representative District 8;8;1101;Ray Skip Sandman;;;IP;0;806;579;4.15;13962
+MN;11;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;806;4;0.03;13962
+MN;12;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;2412;43.63;5528
+MN;12;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;3115;56.35;5528
+MN;12;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;1;0.02;5528
+MN;13;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;806;14864;58.02;25619
+MN;13;;0111;U.S. Representative District 8;8;0401;Joe Radinovich;;;DFL;0;806;9774;38.15;25619
+MN;13;;0111;U.S. Representative District 8;8;1101;Ray Skip Sandman;;;IP;0;806;966;3.77;25619
+MN;13;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;806;15;0.06;25619
+MN;14;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;7934;32.69;24268
+MN;14;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;16317;67.24;24268
+MN;14;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;17;0.07;24268
+MN;15;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;1981;56.79;3488
+MN;15;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;1507;43.21;3488
+MN;15;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;0;0.00;3488
+MN;16;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;806;1083;33.83;3201
+MN;16;;0111;U.S. Representative District 8;8;0401;Joe Radinovich;;;DFL;0;806;1956;61.11;3201
+MN;16;;0111;U.S. Representative District 8;8;1101;Ray Skip Sandman;;;IP;0;806;160;5.00;3201
+MN;16;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;806;2;0.06;3201
+MN;17;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;1089;69.72;1562
+MN;17;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;464;29.71;1562
+MN;17;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;9;0.58;1562
+MN;17;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;1702;49.66;3427
+MN;17;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;1719;50.16;3427
+MN;17;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;6;0.18;3427
+MN;18;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;806;18100;57.73;31354
+MN;18;;0111;U.S. Representative District 8;8;0401;Joe Radinovich;;;DFL;0;806;12283;39.18;31354
+MN;18;;0111;U.S. Representative District 8;8;1101;Ray Skip Sandman;;;IP;0;806;963;3.07;31354
+MN;18;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;806;8;0.03;31354
+MN;19;;0105;U.S. Representative District 2;2;0301;Jason Lewis;;;R;0;292;91633;44.51;205855
+MN;19;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;0;292;113784;55.27;205855
+MN;19;;0105;U.S. Representative District 2;2;9901;WRITE-IN**;;;WI;0;292;438;0.21;205855
+MN;20;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;5268;58.08;9071
+MN;20;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;3782;41.69;9071
+MN;20;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;21;0.23;9071
+MN;21;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;9419;52.30;18008
+MN;21;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;8577;47.63;18008
+MN;21;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;12;0.07;18008
+MN;22;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;3891;61.51;6326
+MN;22;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;2423;38.30;6326
+MN;22;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;12;0.19;6326
+MN;23;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;5114;52.99;9651
+MN;23;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;4517;46.80;9651
+MN;23;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;20;0.21;9651
+MN;24;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;6996;50.58;13832
+MN;24;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;6791;49.10;13832
+MN;24;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;45;0.33;13832
+MN;25;;0105;U.S. Representative District 2;2;0301;Jason Lewis;;;R;0;292;12505;54.40;22987
+MN;25;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;0;292;10452;45.47;22987
+MN;25;;0105;U.S. Representative District 2;2;9901;WRITE-IN**;;;WI;0;292;30;0.13;22987
+MN;26;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;1314;41.90;3136
+MN;26;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;1820;58.04;3136
+MN;26;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;2;0.06;3136
+MN;27;;0106;U.S. Representative District 3;3;0301;Erik Paulsen;;;R;0;248;131604;43.20;304621
+MN;27;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;0;248;172435;56.61;304621
+MN;27;;0106;U.S. Representative District 3;3;9901;WRITE-IN**;;;WI;0;248;582;0.19;304621
+MN;27;;0108;U.S. Representative District 5;5;0301;Jennifer Zielinski;;;R;0;236;65471;20.57;318328
+MN;27;;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;0;236;251739;79.08;318328
+MN;27;;0108;U.S. Representative District 5;5;9901;WRITE-IN**;;;WI;0;236;1118;0.35;318328
+MN;27;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;279;305;64.21;475
+MN;27;;0109;U.S. Representative District 6;6;0401;Ian Todd;;;DFL;0;279;170;35.79;475
+MN;27;;0109;U.S. Representative District 6;6;9901;WRITE-IN**;;;WI;0;279;0;0.00;475
+MN;28;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;4526;50.63;8940
+MN;28;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;4410;49.33;8940
+MN;28;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;4;0.04;8940
+MN;29;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;806;6008;59.59;10083
+MN;29;;0111;U.S. Representative District 8;8;0401;Joe Radinovich;;;DFL;0;806;3701;36.71;10083
+MN;29;;0111;U.S. Representative District 8;8;1101;Ray Skip Sandman;;;IP;0;806;370;3.67;10083
+MN;29;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;806;4;0.04;10083
+MN;30;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;806;10678;61.79;17280
+MN;30;;0111;U.S. Representative District 8;8;0401;Joe Radinovich;;;DFL;0;806;5887;34.07;17280
+MN;30;;0111;U.S. Representative District 8;8;1101;Ray Skip Sandman;;;IP;0;806;710;4.11;17280
+MN;30;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;806;5;0.03;17280
+MN;31;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;806;10973;50.83;21588
+MN;31;;0111;U.S. Representative District 8;8;0401;Joe Radinovich;;;DFL;0;806;9716;45.01;21588
+MN;31;;0111;U.S. Representative District 8;8;1101;Ray Skip Sandman;;;IP;0;806;890;4.12;21588
+MN;31;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;806;9;0.04;21588
+MN;32;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;2827;60.73;4655
+MN;32;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;1821;39.12;4655
+MN;32;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;7;0.15;4655
+MN;33;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;806;3895;58.40;6669
+MN;33;;0111;U.S. Representative District 8;8;0401;Joe Radinovich;;;DFL;0;806;2466;36.98;6669
+MN;33;;0111;U.S. Representative District 8;8;1101;Ray Skip Sandman;;;IP;0;806;303;4.54;6669
+MN;33;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;806;5;0.07;6669
+MN;34;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;8970;48.24;18593
+MN;34;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;9611;51.69;18593
+MN;34;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;12;0.06;18593
+MN;35;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;842;35.72;2357
+MN;35;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;1515;64.28;2357
+MN;35;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;0;0.00;2357
+MN;36;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;806;2653;50.52;5251
+MN;36;;0111;U.S. Representative District 8;8;0401;Joe Radinovich;;;DFL;0;806;2408;45.86;5251
+MN;36;;0111;U.S. Representative District 8;8;1101;Ray Skip Sandman;;;IP;0;806;189;3.60;5251
+MN;36;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;806;1;0.02;5251
+MN;37;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;1379;41.13;3353
+MN;37;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;1973;58.84;3353
+MN;37;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;1;0.03;3353
+MN;38;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;806;2627;44.47;5907
+MN;38;;0111;U.S. Representative District 8;8;0401;Joe Radinovich;;;DFL;0;806;3050;51.63;5907
+MN;38;;0111;U.S. Representative District 8;8;1101;Ray Skip Sandman;;;IP;0;806;227;3.84;5907
+MN;38;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;806;3;0.05;5907
+MN;39;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;1001;54.20;1847
+MN;39;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;844;45.70;1847
+MN;39;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;2;0.11;1847
+MN;40;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;7348;57.70;12735
+MN;40;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;5364;42.12;12735
+MN;40;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;23;0.18;12735
+MN;41;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;1182;48.84;2420
+MN;41;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;1232;50.91;2420
+MN;41;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;6;0.25;2420
+MN;42;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;4821;48.48;9944
+MN;42;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;5117;51.46;9944
+MN;42;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;6;0.06;9944
+MN;43;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;8290;55.82;14852
+MN;43;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;6545;44.07;14852
+MN;43;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;17;0.11;14852
+MN;44;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;642;33.33;1926
+MN;44;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;1283;66.61;1926
+MN;44;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;1;0.05;1926
+MN;45;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;1907;46.47;4104
+MN;45;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;2196;53.51;4104
+MN;45;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;1;0.02;4104
+MN;46;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;5612;64.69;8675
+MN;46;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;3047;35.12;8675
+MN;46;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;16;0.18;8675
+MN;47;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;5625;54.77;10271
+MN;47;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;4639;45.17;10271
+MN;47;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;7;0.07;10271
+MN;48;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;806;6375;59.78;10664
+MN;48;;0111;U.S. Representative District 8;8;0401;Joe Radinovich;;;DFL;0;806;3766;35.32;10664
+MN;48;;0111;U.S. Representative District 8;8;1101;Ray Skip Sandman;;;IP;0;806;517;4.85;10664
+MN;48;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;806;6;0.06;10664
+MN;49;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;806;9653;67.96;14203
+MN;49;;0111;U.S. Representative District 8;8;0401;Joe Radinovich;;;DFL;0;806;4048;28.50;14203
+MN;49;;0111;U.S. Representative District 8;8;1101;Ray Skip Sandman;;;IP;0;806;498;3.51;14203
+MN;49;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;806;4;0.03;14203
+MN;50;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;6662;45.78;14551
+MN;50;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;7849;53.94;14551
+MN;50;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;40;0.27;14551
+MN;51;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;2170;52.91;4101
+MN;51;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;1930;47.06;4101
+MN;51;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;1;0.02;4101
+MN;52;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;6712;43.05;15591
+MN;52;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;8846;56.74;15591
+MN;52;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;33;0.21;15591
+MN;53;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;4024;57.99;6939
+MN;53;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;2907;41.89;6939
+MN;53;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;8;0.12;6939
+MN;54;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;856;31.54;2714
+MN;54;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;1857;68.42;2714
+MN;54;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;1;0.04;2714
+MN;55;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;30941;43.68;70840
+MN;55;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;39719;56.07;70840
+MN;55;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;180;0.25;70840
+MN;56;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;14191;51.83;27380
+MN;56;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;13176;48.12;27380
+MN;56;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;13;0.05;27380
+MN;57;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;2391;44.52;5371
+MN;57;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;2977;55.43;5371
+MN;57;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;3;0.06;5371
+MN;58;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;806;6430;55.72;11540
+MN;58;;0111;U.S. Representative District 8;8;0401;Joe Radinovich;;;DFL;0;806;4558;39.50;11540
+MN;58;;0111;U.S. Representative District 8;8;1101;Ray Skip Sandman;;;IP;0;806;548;4.75;11540
+MN;58;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;806;4;0.03;11540
+MN;59;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;2281;61.62;3702
+MN;59;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;1420;38.36;3702
+MN;59;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;1;0.03;3702
+MN;60;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;5177;43.72;11842
+MN;60;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;6660;56.24;11842
+MN;60;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;5;0.04;11842
+MN;61;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;2426;44.65;5433
+MN;61;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;3004;55.29;5433
+MN;61;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;3;0.06;5433
+MN;62;;0107;U.S. Representative District 4;4;0301;Greg Ryan;;;R;0;225;61348;25.37;241799
+MN;62;;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;0;225;169241;69.99;241799
+MN;62;;0107;U.S. Representative District 4;4;0601;Susan Pendergast Sindt;;;LMN;0;225;11019;4.56;241799
+MN;62;;0107;U.S. Representative District 4;4;9901;WRITE-IN**;;;WI;0;225;191;0.08;241799
+MN;62;;0108;U.S. Representative District 5;5;0301;Jennifer Zielinski;;;R;0;236;455;28.07;1621
+MN;62;;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;0;236;1160;71.56;1621
+MN;62;;0108;U.S. Representative District 5;5;9901;WRITE-IN**;;;WI;0;236;6;0.37;1621
+MN;63;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;638;38.18;1671
+MN;63;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;1032;61.76;1671
+MN;63;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;1;0.06;1671
+MN;64;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;3236;52.30;6187
+MN;64;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;2949;47.66;6187
+MN;64;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;2;0.03;6187
+MN;65;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;2888;45.95;6285
+MN;65;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;3393;53.99;6285
+MN;65;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;4;0.06;6285
+MN;66;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;8527;55.93;15247
+MN;66;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;6703;43.96;15247
+MN;66;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;17;0.11;15247
+MN;66;;0105;U.S. Representative District 2;2;0301;Jason Lewis;;;R;0;292;4299;33.00;13029
+MN;66;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;0;292;8715;66.89;13029
+MN;66;;0105;U.S. Representative District 2;2;9901;WRITE-IN**;;;WI;0;292;15;0.12;13029
+MN;67;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;2451;65.36;3750
+MN;67;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;1296;34.56;3750
+MN;67;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;3;0.08;3750
+MN;68;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;3473;53.70;6467
+MN;68;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;2993;46.28;6467
+MN;68;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;1;0.02;6467
+MN;69;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;806;38496;38.58;99776
+MN;69;;0111;U.S. Representative District 8;8;0401;Joe Radinovich;;;DFL;0;806;57108;57.24;99776
+MN;69;;0111;U.S. Representative District 8;8;1101;Ray Skip Sandman;;;IP;0;806;4102;4.11;99776
+MN;69;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;806;70;0.07;99776
+MN;70;;0105;U.S. Representative District 2;2;0301;Jason Lewis;;;R;0;292;35770;54.39;65760
+MN;70;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;0;292;29874;45.43;65760
+MN;70;;0105;U.S. Representative District 2;2;9901;WRITE-IN**;;;WI;0;292;116;0.18;65760
+MN;71;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;279;25665;65.81;38996
+MN;71;;0109;U.S. Representative District 6;6;0401;Ian Todd;;;DFL;0;279;13271;34.03;38996
+MN;71;;0109;U.S. Representative District 6;6;9901;WRITE-IN**;;;WI;0;279;60;0.15;38996
+MN;72;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;3659;56.05;6528
+MN;72;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;2866;43.90;6528
+MN;72;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;3;0.05;6528
+MN;73;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;279;31666;58.71;53937
+MN;73;;0109;U.S. Representative District 6;6;0401;Ian Todd;;;DFL;0;279;22204;41.17;53937
+MN;73;;0109;U.S. Representative District 6;6;9901;WRITE-IN**;;;WI;0;279;67;0.12;53937
+MN;73;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;6687;57.15;11701
+MN;73;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;5009;42.81;11701
+MN;73;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;5;0.04;11701
+MN;74;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;9075;55.93;16227
+MN;74;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;7128;43.93;16227
+MN;74;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;24;0.15;16227
+MN;75;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;1885;43.06;4378
+MN;75;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;2487;56.81;4378
+MN;75;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;6;0.14;4378
+MN;76;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;1729;42.78;4042
+MN;76;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;2309;57.13;4042
+MN;76;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;4;0.10;4042
+MN;77;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;5467;56.96;9598
+MN;77;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;4128;43.01;9598
+MN;77;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;3;0.03;9598
+MN;78;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;627;41.22;1521
+MN;78;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;893;58.71;1521
+MN;78;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;1;0.07;1521
+MN;79;;0105;U.S. Representative District 2;2;0301;Jason Lewis;;;R;0;292;5730;57.69;9932
+MN;79;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;0;292;4186;42.15;9932
+MN;79;;0105;U.S. Representative District 2;2;9901;WRITE-IN**;;;WI;0;292;16;0.16;9932
+MN;80;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;806;3718;67.27;5527
+MN;80;;0111;U.S. Representative District 8;8;0401;Joe Radinovich;;;DFL;0;806;1620;29.31;5527
+MN;80;;0111;U.S. Representative District 8;8;1101;Ray Skip Sandman;;;IP;0;806;187;3.38;5527
+MN;80;;0111;U.S. Representative District 8;8;9901;WRITE-IN**;;;WI;0;806;2;0.04;5527
+MN;81;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;4749;58.62;8102
+MN;81;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;3340;41.22;8102
+MN;81;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;13;0.16;8102
+MN;82;;0105;U.S. Representative District 2;2;0301;Jason Lewis;;;R;0;292;9407;46.10;20405
+MN;82;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;0;292;10947;53.65;20405
+MN;82;;0105;U.S. Representative District 2;2;9901;WRITE-IN**;;;WI;0;292;51;0.25;20405
+MN;82;;0107;U.S. Representative District 4;4;0301;Greg Ryan;;;R;0;225;36399;41.93;86815
+MN;82;;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;0;225;47624;54.86;86815
+MN;82;;0107;U.S. Representative District 4;4;0601;Susan Pendergast Sindt;;;LMN;0;225;2757;3.18;86815
+MN;82;;0107;U.S. Representative District 4;4;9901;WRITE-IN**;;;WI;0;225;35;0.04;86815
+MN;82;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;279;12445;57.76;21545
+MN;82;;0109;U.S. Representative District 6;6;0401;Ian Todd;;;DFL;0;279;9085;42.17;21545
+MN;82;;0109;U.S. Representative District 6;6;9901;WRITE-IN**;;;WI;0;279;15;0.07;21545
+MN;83;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;2254;55.14;4088
+MN;83;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;1826;44.67;4088
+MN;83;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;8;0.20;4088
+MN;84;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;1123;43.53;2580
+MN;84;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;1457;56.47;2580
+MN;84;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;0;0.00;2580
+MN;85;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;698;9078;42.75;21236
+MN;85;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;698;12133;57.13;21236
+MN;85;;0104;U.S. Representative District 1;1;9901;WRITE-IN**;;;WI;0;698;25;0.12;21236
+MN;86;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;279;38769;65.78;58935
+MN;86;;0109;U.S. Representative District 6;6;0401;Ian Todd;;;DFL;0;279;20113;34.13;58935
+MN;86;;0109;U.S. Representative District 6;6;9901;WRITE-IN**;;;WI;0;279;53;0.09;58935
+MN;87;;0110;U.S. Representative District 7;7;0301;Dave Hughes;;;R;0;1329;2090;48.50;4309
+MN;87;;0110;U.S. Representative District 7;7;0401;Collin C. Peterson;;;DFL;0;1329;2216;51.43;4309
+MN;87;;0110;U.S. Representative District 7;7;9901;WRITE-IN**;;;WI;0;1329;3;0.07;4309

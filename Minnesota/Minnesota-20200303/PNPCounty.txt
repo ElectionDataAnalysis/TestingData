@@ -1,0 +1,1566 @@
+MN;01;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;54;54;1075;98.99;1086
+MN;01;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;54;54;11;1.01;1086
+MN;01;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;54;54;1;0.06;1553
+MN;01;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;54;54;8;0.52;1553
+MN;01;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;54;54;36;2.32;1553
+MN;01;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;54;54;395;25.43;1553
+MN;01;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;54;54;0;0.00;1553
+MN;01;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;54;54;2;0.13;1553
+MN;01;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;54;54;1;0.06;1553
+MN;01;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;54;54;260;16.74;1553
+MN;01;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;54;54;1;0.06;1553
+MN;01;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;54;54;84;5.41;1553
+MN;01;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;54;54;4;0.26;1553
+MN;01;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;54;54;228;14.68;1553
+MN;01;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;54;54;510;32.84;1553
+MN;01;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;54;54;23;1.48;1553
+MN;01;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;54;54;0;0.00;1553
+MN;01;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;54;54;0;0.00;1553
+MN;02;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;128;128;7987;97.41;8199
+MN;02;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;128;128;212;2.59;8199
+MN;02;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;128;128;1;0.00;35962
+MN;02;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;128;128;19;0.05;35962
+MN;02;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;128;128;221;0.61;35962
+MN;02;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;128;128;1425;3.96;35962
+MN;02;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;128;128;3;0.01;35962
+MN;02;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;128;128;4;0.01;35962
+MN;02;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;128;128;9;0.03;35962
+MN;02;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;128;128;11280;31.37;35962
+MN;02;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;128;128;105;0.29;35962
+MN;02;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;128;128;4156;11.56;35962
+MN;02;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;128;128;133;0.37;35962
+MN;02;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;128;128;3303;9.18;35962
+MN;02;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;128;128;15176;42.20;35962
+MN;02;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;128;128;111;0.31;35962
+MN;02;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;128;128;1;0.00;35962
+MN;02;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;128;128;15;0.04;35962
+MN;03;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;48;48;1201;98.12;1224
+MN;03;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;48;48;23;1.88;1224
+MN;03;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;48;48;0;0.00;2213
+MN;03;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;48;48;4;0.18;2213
+MN;03;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;48;48;26;1.17;2213
+MN;03;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;48;48;211;9.53;2213
+MN;03;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;48;48;1;0.05;2213
+MN;03;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;48;48;2;0.09;2213
+MN;03;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;48;48;0;0.00;2213
+MN;03;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;48;48;440;19.88;2213
+MN;03;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;48;48;5;0.23;2213
+MN;03;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;48;48;188;8.50;2213
+MN;03;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;48;48;11;0.50;2213
+MN;03;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;48;48;187;8.45;2213
+MN;03;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;48;48;1120;50.61;2213
+MN;03;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;48;48;18;0.81;2213
+MN;03;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;48;48;0;0.00;2213
+MN;03;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;48;48;0;0.00;2213
+MN;04;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;63;63;1510;98.63;1531
+MN;04;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;63;63;21;1.37;1531
+MN;04;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;63;63;0;0.00;4423
+MN;04;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;63;63;5;0.11;4423
+MN;04;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;63;63;58;1.31;4423
+MN;04;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;63;63;357;8.07;4423
+MN;04;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;63;63;1;0.02;4423
+MN;04;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;63;63;2;0.05;4423
+MN;04;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;63;63;1;0.02;4423
+MN;04;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;63;63;1720;38.89;4423
+MN;04;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;63;63;6;0.14;4423
+MN;04;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;63;63;407;9.20;4423
+MN;04;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;63;63;23;0.52;4423
+MN;04;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;63;63;362;8.18;4423
+MN;04;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;63;63;1450;32.78;4423
+MN;04;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;63;63;26;0.59;4423
+MN;04;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;63;63;0;0.00;4423
+MN;04;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;63;63;5;0.11;4423
+MN;05;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;27;27;1186;98.50;1204
+MN;05;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;27;27;18;1.50;1204
+MN;05;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;27;27;1;0.04;2436
+MN;05;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;27;27;1;0.04;2436
+MN;05;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;27;27;15;0.62;2436
+MN;05;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;27;27;120;4.93;2436
+MN;05;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;27;27;1;0.04;2436
+MN;05;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;27;27;2;0.08;2436
+MN;05;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;27;27;0;0.00;2436
+MN;05;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;27;27;817;33.54;2436
+MN;05;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;27;27;4;0.16;2436
+MN;05;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;27;27;244;10.02;2436
+MN;05;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;27;27;11;0.45;2436
+MN;05;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;27;27;221;9.07;2436
+MN;05;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;27;27;982;40.31;2436
+MN;05;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;27;27;12;0.49;2436
+MN;05;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;27;27;2;0.08;2436
+MN;05;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;27;27;3;0.12;2436
+MN;06;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;23;23;415;99.28;418
+MN;06;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;23;23;3;0.72;418
+MN;06;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;23;23;0;0.00;473
+MN;06;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;23;23;3;0.63;473
+MN;06;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;23;23;17;3.59;473
+MN;06;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;23;23;175;37.00;473
+MN;06;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;23;23;0;0.00;473
+MN;06;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;23;23;0;0.00;473
+MN;06;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;23;23;0;0.00;473
+MN;06;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;23;23;56;11.84;473
+MN;06;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;23;23;1;0.21;473
+MN;06;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;23;23;29;6.13;473
+MN;06;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;23;23;3;0.63;473
+MN;06;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;23;23;58;12.26;473
+MN;06;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;23;23;123;26.00;473
+MN;06;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;23;23;8;1.69;473
+MN;06;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;23;23;0;0.00;473
+MN;06;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;23;23;0;0.00;473
+MN;07;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;54;54;1729;97.68;1770
+MN;07;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;54;54;41;2.32;1770
+MN;07;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;54;54;1;0.01;7412
+MN;07;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;54;54;7;0.09;7412
+MN;07;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;54;54;119;1.61;7412
+MN;07;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;54;54;632;8.53;7412
+MN;07;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;54;54;3;0.04;7412
+MN;07;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;54;54;1;0.01;7412
+MN;07;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;54;54;2;0.03;7412
+MN;07;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;54;54;2766;37.32;7412
+MN;07;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;54;54;22;0.30;7412
+MN;07;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;54;54;825;11.13;7412
+MN;07;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;54;54;31;0.42;7412
+MN;07;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;54;54;553;7.46;7412
+MN;07;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;54;54;2417;32.61;7412
+MN;07;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;54;54;26;0.35;7412
+MN;07;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;54;54;3;0.04;7412
+MN;07;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;54;54;4;0.05;7412
+MN;08;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;32;32;1099;99.19;1108
+MN;08;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;32;32;9;0.81;1108
+MN;08;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;32;32;0;0.00;1629
+MN;08;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;32;32;4;0.25;1629
+MN;08;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;32;32;32;1.96;1629
+MN;08;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;32;32;215;13.20;1629
+MN;08;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;32;32;1;0.06;1629
+MN;08;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;32;32;0;0.00;1629
+MN;08;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;32;32;1;0.06;1629
+MN;08;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;32;32;336;20.63;1629
+MN;08;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;32;32;0;0.00;1629
+MN;08;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;32;32;148;9.09;1629
+MN;08;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;32;32;6;0.37;1629
+MN;08;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;32;32;218;13.38;1629
+MN;08;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;32;32;650;39.90;1629
+MN;08;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;32;32;17;1.04;1629
+MN;08;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;32;32;1;0.06;1629
+MN;08;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;32;32;0;0.00;1629
+MN;09;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;38;38;1152;97.88;1177
+MN;09;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;38;38;25;2.12;1177
+MN;09;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;38;38;1;0.02;4552
+MN;09;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;38;38;6;0.13;4552
+MN;09;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;38;38;56;1.23;4552
+MN;09;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;38;38;389;8.55;4552
+MN;09;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;38;38;0;0.00;4552
+MN;09;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;38;38;2;0.04;4552
+MN;09;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;38;38;2;0.04;4552
+MN;09;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;38;38;1134;24.91;4552
+MN;09;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;38;38;8;0.18;4552
+MN;09;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;38;38;329;7.23;4552
+MN;09;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;38;38;19;0.42;4552
+MN;09;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;38;38;515;11.31;4552
+MN;09;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;38;38;2056;45.17;4552
+MN;09;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;38;38;29;0.64;4552
+MN;09;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;38;38;3;0.07;4552
+MN;09;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;38;38;3;0.07;4552
+MN;10;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;35;35;2336;97.54;2395
+MN;10;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;35;35;59;2.46;2395
+MN;10;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;35;35;0;0.00;10729
+MN;10;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;35;35;9;0.08;10729
+MN;10;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;35;35;120;1.12;10729
+MN;10;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;35;35;514;4.79;10729
+MN;10;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;35;35;0;0.00;10729
+MN;10;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;35;35;0;0.00;10729
+MN;10;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;35;35;3;0.03;10729
+MN;10;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;35;35;2417;22.53;10729
+MN;10;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;35;35;14;0.13;10729
+MN;10;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;35;35;1386;12.92;10729
+MN;10;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;35;35;34;0.32;10729
+MN;10;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;35;35;1044;9.73;10729
+MN;10;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;35;35;5165;48.14;10729
+MN;10;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;35;35;23;0.21;10729
+MN;10;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;35;35;0;0.00;10729
+MN;10;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;35;35;0;0.00;10729
+MN;11;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;73;73;1987;99.20;2003
+MN;11;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;73;73;16;0.80;2003
+MN;11;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;73;73;0;0.00;2525
+MN;11;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;73;73;6;0.24;2525
+MN;11;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;73;73;76;3.01;2525
+MN;11;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;73;73;342;13.54;2525
+MN;11;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;73;73;2;0.08;2525
+MN;11;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;73;73;1;0.04;2525
+MN;11;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;73;73;4;0.16;2525
+MN;11;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;73;73;615;24.36;2525
+MN;11;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;73;73;9;0.36;2525
+MN;11;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;73;73;165;6.53;2525
+MN;11;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;73;73;10;0.40;2525
+MN;11;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;73;73;371;14.69;2525
+MN;11;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;73;73;903;35.76;2525
+MN;11;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;73;73;18;0.71;2525
+MN;11;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;73;73;0;0.00;2525
+MN;11;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;73;73;3;0.12;2525
+MN;12;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;25;25;589;98.49;598
+MN;12;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;25;25;9;1.51;598
+MN;12;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;25;25;0;0.00;827
+MN;12;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;25;25;1;0.12;827
+MN;12;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;25;25;18;2.18;827
+MN;12;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;25;25;179;21.64;827
+MN;12;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;25;25;1;0.12;827
+MN;12;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;25;25;2;0.24;827
+MN;12;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;25;25;0;0.00;827
+MN;12;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;25;25;149;18.02;827
+MN;12;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;25;25;0;0.00;827
+MN;12;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;25;25;57;6.89;827
+MN;12;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;25;25;5;0.60;827
+MN;12;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;25;25;86;10.40;827
+MN;12;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;25;25;319;38.57;827
+MN;12;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;25;25;9;1.09;827
+MN;12;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;25;25;1;0.12;827
+MN;12;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;25;25;0;0.00;827
+MN;13;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;23;23;1661;98.81;1681
+MN;13;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;23;23;20;1.19;1681
+MN;13;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;23;23;0;0.00;4182
+MN;13;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;23;23;2;0.05;4182
+MN;13;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;23;23;32;0.77;4182
+MN;13;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;23;23;182;4.35;4182
+MN;13;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;23;23;0;0.00;4182
+MN;13;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;23;23;3;0.07;4182
+MN;13;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;23;23;3;0.07;4182
+MN;13;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;23;23;973;23.27;4182
+MN;13;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;23;23;7;0.17;4182
+MN;13;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;23;23;436;10.43;4182
+MN;13;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;23;23;19;0.45;4182
+MN;13;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;23;23;474;11.33;4182
+MN;13;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;23;23;2030;48.54;4182
+MN;13;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;23;23;19;0.45;4182
+MN;13;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;23;23;0;0.00;4182
+MN;13;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;23;23;2;0.05;4182
+MN;14;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;58;58;1078;96.16;1121
+MN;14;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;58;58;43;3.84;1121
+MN;14;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;58;58;2;0.03;5808
+MN;14;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;58;58;4;0.07;5808
+MN;14;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;58;58;59;1.02;5808
+MN;14;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;58;58;499;8.59;5808
+MN;14;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;58;58;0;0.00;5808
+MN;14;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;58;58;2;0.03;5808
+MN;14;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;58;58;2;0.03;5808
+MN;14;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;58;58;1768;30.44;5808
+MN;14;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;58;58;7;0.12;5808
+MN;14;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;58;58;761;13.10;5808
+MN;14;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;58;58;22;0.38;5808
+MN;14;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;58;58;360;6.20;5808
+MN;14;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;58;58;2281;39.27;5808
+MN;14;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;58;58;38;0.65;5808
+MN;14;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;58;58;2;0.03;5808
+MN;14;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;58;58;1;0.02;5808
+MN;15;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;29;29;519;98.48;527
+MN;15;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;29;29;8;1.52;527
+MN;15;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;29;29;0;0.00;500
+MN;15;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;29;29;1;0.20;500
+MN;15;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;29;29;4;0.80;500
+MN;15;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;29;29;45;9.00;500
+MN;15;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;29;29;0;0.00;500
+MN;15;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;29;29;0;0.00;500
+MN;15;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;29;29;0;0.00;500
+MN;15;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;29;29;129;25.80;500
+MN;15;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;29;29;2;0.40;500
+MN;15;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;29;29;22;4.40;500
+MN;15;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;29;29;1;0.20;500
+MN;15;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;29;29;33;6.60;500
+MN;15;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;29;29;255;51.00;500
+MN;15;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;29;29;8;1.60;500
+MN;15;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;29;29;0;0.00;500
+MN;15;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;29;29;0;0.00;500
+MN;16;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;13;13;370;99.73;371
+MN;16;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;13;13;1;0.27;371
+MN;16;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;13;13;0;0.00;1554
+MN;16;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;13;13;3;0.19;1554
+MN;16;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;13;13;78;5.02;1554
+MN;16;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;13;13;339;21.81;1554
+MN;16;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;13;13;1;0.06;1554
+MN;16;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;13;13;2;0.13;1554
+MN;16;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;13;13;1;0.06;1554
+MN;16;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;13;13;376;24.20;1554
+MN;16;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;13;13;0;0.00;1554
+MN;16;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;13;13;271;17.44;1554
+MN;16;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;13;13;11;0.71;1554
+MN;16;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;13;13;126;8.11;1554
+MN;16;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;13;13;333;21.43;1554
+MN;16;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;13;13;12;0.77;1554
+MN;16;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;13;13;1;0.06;1554
+MN;16;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;13;13;0;0.00;1554
+MN;17;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;29;29;366;96.83;378
+MN;17;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;29;29;12;3.17;378
+MN;17;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;29;29;0;0.00;539
+MN;17;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;29;29;0;0.00;539
+MN;17;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;29;29;4;0.74;539
+MN;17;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;29;29;21;3.90;539
+MN;17;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;29;29;0;0.00;539
+MN;17;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;29;29;0;0.00;539
+MN;17;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;29;29;0;0.00;539
+MN;17;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;29;29;107;19.85;539
+MN;17;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;29;29;1;0.19;539
+MN;17;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;29;29;52;9.65;539
+MN;17;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;29;29;1;0.19;539
+MN;17;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;29;29;73;13.54;539
+MN;17;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;29;29;275;51.02;539
+MN;17;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;29;29;5;0.93;539
+MN;17;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;29;29;0;0.00;539
+MN;17;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;29;29;0;0.00;539
+MN;18;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;62;62;2478;98.96;2504
+MN;18;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;62;62;26;1.04;2504
+MN;18;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;62;62;0;0.00;5111
+MN;18;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;62;62;3;0.06;5111
+MN;18;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;62;62;89;1.74;5111
+MN;18;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;62;62;476;9.31;5111
+MN;18;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;62;62;1;0.02;5111
+MN;18;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;62;62;1;0.02;5111
+MN;18;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;62;62;3;0.06;5111
+MN;18;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;62;62;1139;22.29;5111
+MN;18;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;62;62;9;0.18;5111
+MN;18;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;62;62;438;8.57;5111
+MN;18;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;62;62;17;0.33;5111
+MN;18;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;62;62;576;11.27;5111
+MN;18;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;62;62;2325;45.49;5111
+MN;18;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;62;62;30;0.59;5111
+MN;18;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;62;62;0;0.00;5111
+MN;18;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;62;62;4;0.08;5111
+MN;19;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;141;141;8352;97.08;8603
+MN;19;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;141;141;251;2.92;8603
+MN;19;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;141;141;2;0.00;56475
+MN;19;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;141;141;24;0.04;56475
+MN;19;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;141;141;519;0.92;56475
+MN;19;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;141;141;2622;4.64;56475
+MN;19;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;141;141;12;0.02;56475
+MN;19;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;141;141;7;0.01;56475
+MN;19;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;141;141;17;0.03;56475
+MN;19;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;141;141;15479;27.41;56475
+MN;19;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;141;141;106;0.19;56475
+MN;19;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;141;141;7457;13.20;56475
+MN;19;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;141;141;182;0.32;56475
+MN;19;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;141;141;5115;9.06;56475
+MN;19;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;141;141;24759;43.84;56475
+MN;19;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;141;141;147;0.26;56475
+MN;19;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;141;141;14;0.02;56475
+MN;19;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;141;141;13;0.02;56475
+MN;20;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;22;22;472;98.13;481
+MN;20;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;22;22;9;1.87;481
+MN;20;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;22;22;0;0.00;1304
+MN;20;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;22;22;2;0.15;1304
+MN;20;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;22;22;7;0.54;1304
+MN;20;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;22;22;59;4.52;1304
+MN;20;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;22;22;0;0.00;1304
+MN;20;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;22;22;0;0.00;1304
+MN;20;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;22;22;0;0.00;1304
+MN;20;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;22;22;301;23.08;1304
+MN;20;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;22;22;3;0.23;1304
+MN;20;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;22;22;128;9.82;1304
+MN;20;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;22;22;5;0.38;1304
+MN;20;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;22;22;109;8.36;1304
+MN;20;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;22;22;685;52.53;1304
+MN;20;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;22;22;4;0.31;1304
+MN;20;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;22;22;1;0.08;1304
+MN;20;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;22;22;0;0.00;1304
+MN;21;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;37;37;1210;98.37;1230
+MN;21;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;37;37;20;1.63;1230
+MN;21;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;37;37;0;0.00;2730
+MN;21;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;37;37;2;0.07;2730
+MN;21;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;37;37;22;0.81;2730
+MN;21;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;37;37;175;6.41;2730
+MN;21;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;37;37;1;0.04;2730
+MN;21;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;37;37;0;0.00;2730
+MN;21;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;37;37;4;0.15;2730
+MN;21;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;37;37;468;17.14;2730
+MN;21;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;37;37;3;0.11;2730
+MN;21;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;37;37;245;8.97;2730
+MN;21;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;37;37;12;0.44;2730
+MN;21;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;37;37;340;12.45;2730
+MN;21;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;37;37;1445;52.93;2730
+MN;21;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;37;37;10;0.37;2730
+MN;21;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;37;37;0;0.00;2730
+MN;21;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;37;37;3;0.11;2730
+MN;22;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;33;33;642;99.23;647
+MN;22;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;33;33;5;0.77;647
+MN;22;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;33;33;0;0.00;834
+MN;22;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;33;33;2;0.24;834
+MN;22;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;33;33;9;1.08;834
+MN;22;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;33;33;74;8.87;834
+MN;22;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;33;33;2;0.24;834
+MN;22;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;33;33;1;0.12;834
+MN;22;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;33;33;1;0.12;834
+MN;22;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;33;33;148;17.75;834
+MN;22;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;33;33;1;0.12;834
+MN;22;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;33;33;60;7.19;834
+MN;22;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;33;33;2;0.24;834
+MN;22;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;33;33;129;15.47;834
+MN;22;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;33;33;398;47.72;834
+MN;22;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;33;33;6;0.72;834
+MN;22;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;33;33;1;0.12;834
+MN;22;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;33;33;0;0.00;834
+MN;23;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;37;37;784;98.25;798
+MN;23;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;37;37;14;1.75;798
+MN;23;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;37;37;0;0.00;1721
+MN;23;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;37;37;9;0.52;1721
+MN;23;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;37;37;30;1.74;1721
+MN;23;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;37;37;194;11.27;1721
+MN;23;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;37;37;0;0.00;1721
+MN;23;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;37;37;1;0.06;1721
+MN;23;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;37;37;0;0.00;1721
+MN;23;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;37;37;344;19.99;1721
+MN;23;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;37;37;12;0.70;1721
+MN;23;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;37;37;162;9.41;1721
+MN;23;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;37;37;4;0.23;1721
+MN;23;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;37;37;166;9.65;1721
+MN;23;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;37;37;786;45.67;1721
+MN;23;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;37;37;10;0.58;1721
+MN;23;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;37;37;1;0.06;1721
+MN;23;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;37;37;2;0.12;1721
+MN;24;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;41;41;1196;99.17;1206
+MN;24;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;41;41;10;0.83;1206
+MN;24;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;41;41;0;0.00;2641
+MN;24;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;41;41;4;0.15;2641
+MN;24;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;41;41;28;1.06;2641
+MN;24;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;41;41;205;7.76;2641
+MN;24;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;41;41;0;0.00;2641
+MN;24;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;41;41;1;0.04;2641
+MN;24;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;41;41;0;0.00;2641
+MN;24;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;41;41;656;24.84;2641
+MN;24;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;41;41;6;0.23;2641
+MN;24;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;41;41;143;5.41;2641
+MN;24;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;41;41;7;0.27;2641
+MN;24;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;41;41;255;9.66;2641
+MN;24;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;41;41;1315;49.79;2641
+MN;24;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;41;41;16;0.61;2641
+MN;24;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;41;41;1;0.04;2641
+MN;24;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;41;41;4;0.15;2641
+MN;25;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;40;40;1322;98.29;1345
+MN;25;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;40;40;23;1.71;1345
+MN;25;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;40;40;0;0.00;4543
+MN;25;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;40;40;6;0.13;4543
+MN;25;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;40;40;49;1.08;4543
+MN;25;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;40;40;289;6.36;4543
+MN;25;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;40;40;1;0.02;4543
+MN;25;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;40;40;1;0.02;4543
+MN;25;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;40;40;0;0.00;4543
+MN;25;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;40;40;960;21.13;4543
+MN;25;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;40;40;8;0.18;4543
+MN;25;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;40;40;492;10.83;4543
+MN;25;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;40;40;28;0.62;4543
+MN;25;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;40;40;509;11.20;4543
+MN;25;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;40;40;2178;47.94;4543
+MN;25;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;40;40;20;0.44;4543
+MN;25;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;40;40;1;0.02;4543
+MN;25;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;40;40;1;0.02;4543
+MN;26;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;23;23;526;99.43;529
+MN;26;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;23;23;3;0.57;529
+MN;26;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;23;23;0;0.00;607
+MN;26;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;23;23;0;0.00;607
+MN;26;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;23;23;29;4.78;607
+MN;26;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;23;23;236;38.88;607
+MN;26;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;23;23;0;0.00;607
+MN;26;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;23;23;0;0.00;607
+MN;26;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;23;23;1;0.16;607
+MN;26;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;23;23;80;13.18;607
+MN;26;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;23;23;5;0.82;607
+MN;26;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;23;23;28;4.61;607
+MN;26;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;23;23;6;0.99;607
+MN;26;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;23;23;89;14.66;607
+MN;26;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;23;23;115;18.95;607
+MN;26;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;23;23;17;2.80;607
+MN;26;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;23;23;1;0.16;607
+MN;26;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;23;23;0;0.00;607
+MN;27;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;425;425;16605;95.38;17409
+MN;27;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;425;425;804;4.62;17409
+MN;27;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;425;425;19;0.01;266797
+MN;27;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;425;425;127;0.05;266797
+MN;27;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;425;425;2504;0.94;266797
+MN;27;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;425;425;10991;4.12;266797
+MN;27;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;425;425;31;0.01;266797
+MN;27;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;425;425;49;0.02;266797
+MN;27;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;425;425;66;0.02;266797
+MN;27;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;425;425;88560;33.19;266797
+MN;27;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;425;425;532;0.20;266797
+MN;27;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;425;425;51339;19.24;266797
+MN;27;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;425;425;734;0.28;266797
+MN;27;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;425;425;19072;7.15;266797
+MN;27;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;425;425;92107;34.52;266797
+MN;27;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;425;425;515;0.19;266797
+MN;27;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;425;425;67;0.03;266797
+MN;27;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;425;425;84;0.03;266797
+MN;28;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;27;27;538;97.46;552
+MN;28;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;27;27;14;2.54;552
+MN;28;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;27;27;0;0.00;1961
+MN;28;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;27;27;1;0.05;1961
+MN;28;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;27;27;6;0.31;1961
+MN;28;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;27;27;74;3.77;1961
+MN;28;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;27;27;0;0.00;1961
+MN;28;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;27;27;1;0.05;1961
+MN;28;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;27;27;0;0.00;1961
+MN;28;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;27;27;506;25.80;1961
+MN;28;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;27;27;0;0.00;1961
+MN;28;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;27;27;196;9.99;1961
+MN;28;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;27;27;8;0.41;1961
+MN;28;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;27;27;189;9.64;1961
+MN;28;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;27;27;964;49.16;1961
+MN;28;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;27;27;15;0.76;1961
+MN;28;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;27;27;0;0.00;1961
+MN;28;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;27;27;1;0.05;1961
+MN;29;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;38;38;1113;98.23;1133
+MN;29;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;38;38;20;1.77;1133
+MN;29;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;38;38;0;0.00;1824
+MN;29;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;38;38;8;0.44;1824
+MN;29;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;38;38;28;1.54;1824
+MN;29;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;38;38;196;10.75;1824
+MN;29;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;38;38;0;0.00;1824
+MN;29;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;38;38;2;0.11;1824
+MN;29;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;38;38;0;0.00;1824
+MN;29;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;38;38;421;23.08;1824
+MN;29;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;38;38;3;0.16;1824
+MN;29;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;38;38;149;8.17;1824
+MN;29;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;38;38;5;0.27;1824
+MN;29;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;38;38;209;11.46;1824
+MN;29;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;38;38;788;43.20;1824
+MN;29;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;38;38;14;0.77;1824
+MN;29;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;38;38;0;0.00;1824
+MN;29;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;38;38;1;0.05;1824
+MN;30;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;19;19;1305;98.94;1319
+MN;30;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;19;19;14;1.06;1319
+MN;30;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;19;19;0;0.00;2470
+MN;30;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;19;19;1;0.04;2470
+MN;30;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;19;19;12;0.49;2470
+MN;30;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;19;19;124;5.02;2470
+MN;30;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;19;19;0;0.00;2470
+MN;30;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;19;19;0;0.00;2470
+MN;30;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;19;19;0;0.00;2470
+MN;30;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;19;19;595;24.09;2470
+MN;30;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;19;19;6;0.24;2470
+MN;30;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;19;19;195;7.89;2470
+MN;30;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;19;19;15;0.61;2470
+MN;30;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;19;19;292;11.82;2470
+MN;30;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;19;19;1217;49.27;2470
+MN;30;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;19;19;11;0.45;2470
+MN;30;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;19;19;1;0.04;2470
+MN;30;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;19;19;1;0.04;2470
+MN;31;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;76;76;2925;99.15;2950
+MN;31;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;76;76;25;0.85;2950
+MN;31;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;76;76;3;0.06;5187
+MN;31;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;76;76;13;0.25;5187
+MN;31;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;76;76;156;3.01;5187
+MN;31;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;76;76;879;16.95;5187
+MN;31;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;76;76;2;0.04;5187
+MN;31;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;76;76;1;0.02;5187
+MN;31;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;76;76;3;0.06;5187
+MN;31;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;76;76;1001;19.30;5187
+MN;31;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;76;76;15;0.29;5187
+MN;31;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;76;76;340;6.55;5187
+MN;31;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;76;76;27;0.52;5187
+MN;31;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;76;76;667;12.86;5187
+MN;31;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;76;76;1988;38.33;5187
+MN;31;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;76;76;83;1.60;5187
+MN;31;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;76;76;5;0.10;5187
+MN;31;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;76;76;4;0.08;5187
+MN;32;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;28;28;560;98.94;566
+MN;32;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;28;28;6;1.06;566
+MN;32;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;28;28;0;0.00;617
+MN;32;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;28;28;2;0.32;617
+MN;32;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;28;28;7;1.13;617
+MN;32;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;28;28;95;15.40;617
+MN;32;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;28;28;0;0.00;617
+MN;32;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;28;28;0;0.00;617
+MN;32;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;28;28;0;0.00;617
+MN;32;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;28;28;107;17.34;617
+MN;32;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;28;28;1;0.16;617
+MN;32;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;28;28;36;5.83;617
+MN;32;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;28;28;3;0.49;617
+MN;32;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;28;28;74;11.99;617
+MN;32;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;28;28;282;45.71;617
+MN;32;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;28;28;7;1.13;617
+MN;32;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;28;28;0;0.00;617
+MN;32;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;28;28;3;0.49;617
+MN;33;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;20;20;630;99.06;636
+MN;33;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;20;20;6;0.94;636
+MN;33;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;20;20;0;0.00;994
+MN;33;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;20;20;0;0.00;994
+MN;33;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;20;20;10;1.01;994
+MN;33;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;20;20;40;4.02;994
+MN;33;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;20;20;1;0.10;994
+MN;33;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;20;20;1;0.10;994
+MN;33;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;20;20;1;0.10;994
+MN;33;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;20;20;228;22.94;994
+MN;33;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;20;20;2;0.20;994
+MN;33;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;20;20;82;8.25;994
+MN;33;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;20;20;3;0.30;994
+MN;33;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;20;20;106;10.66;994
+MN;33;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;20;20;513;51.61;994
+MN;33;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;20;20;6;0.60;994
+MN;33;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;20;20;1;0.10;994
+MN;33;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;20;20;0;0.00;994
+MN;34;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;48;48;1279;98.23;1302
+MN;34;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;48;48;23;1.77;1302
+MN;34;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;48;48;0;0.00;3011
+MN;34;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;48;48;3;0.10;3011
+MN;34;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;48;48;31;1.03;3011
+MN;34;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;48;48;238;7.90;3011
+MN;34;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;48;48;1;0.03;3011
+MN;34;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;48;48;1;0.03;3011
+MN;34;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;48;48;3;0.10;3011
+MN;34;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;48;48;589;19.56;3011
+MN;34;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;48;48;12;0.40;3011
+MN;34;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;48;48;236;7.84;3011
+MN;34;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;48;48;8;0.27;3011
+MN;34;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;48;48;371;12.32;3011
+MN;34;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;48;48;1496;49.68;3011
+MN;34;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;48;48;16;0.53;3011
+MN;34;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;48;48;3;0.10;3011
+MN;34;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;48;48;3;0.10;3011
+MN;35;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;39;39;371;98.93;375
+MN;35;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;39;39;4;1.07;375
+MN;35;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;39;39;0;0.00;508
+MN;35;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;39;39;0;0.00;508
+MN;35;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;39;39;13;2.56;508
+MN;35;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;39;39;198;38.98;508
+MN;35;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;39;39;1;0.20;508
+MN;35;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;39;39;1;0.20;508
+MN;35;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;39;39;0;0.00;508
+MN;35;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;39;39;50;9.84;508
+MN;35;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;39;39;0;0.00;508
+MN;35;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;39;39;28;5.51;508
+MN;35;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;39;39;3;0.59;508
+MN;35;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;39;39;39;7.68;508
+MN;35;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;39;39;158;31.10;508
+MN;35;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;39;39;14;2.76;508
+MN;35;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;39;39;0;0.00;508
+MN;35;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;39;39;3;0.59;508
+MN;36;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;22;22;822;98.92;831
+MN;36;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;22;22;9;1.08;831
+MN;36;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;22;22;0;0.00;1250
+MN;36;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;22;22;4;0.32;1250
+MN;36;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;22;22;26;2.08;1250
+MN;36;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;22;22;185;14.80;1250
+MN;36;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;22;22;1;0.08;1250
+MN;36;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;22;22;0;0.00;1250
+MN;36;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;22;22;1;0.08;1250
+MN;36;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;22;22;212;16.96;1250
+MN;36;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;22;22;0;0.00;1250
+MN;36;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;22;22;67;5.36;1250
+MN;36;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;22;22;4;0.32;1250
+MN;36;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;22;22;201;16.08;1250
+MN;36;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;22;22;535;42.80;1250
+MN;36;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;22;22;13;1.04;1250
+MN;36;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;22;22;0;0.00;1250
+MN;36;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;22;22;1;0.08;1250
+MN;37;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;29;29;466;99.79;467
+MN;37;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;29;29;1;0.21;467
+MN;37;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;29;29;0;0.00;631
+MN;37;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;29;29;1;0.16;631
+MN;37;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;29;29;17;2.69;631
+MN;37;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;29;29;201;31.85;631
+MN;37;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;29;29;1;0.16;631
+MN;37;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;29;29;0;0.00;631
+MN;37;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;29;29;1;0.16;631
+MN;37;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;29;29;75;11.89;631
+MN;37;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;29;29;0;0.00;631
+MN;37;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;29;29;29;4.60;631
+MN;37;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;29;29;1;0.16;631
+MN;37;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;29;29;71;11.25;631
+MN;37;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;29;29;221;35.02;631
+MN;37;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;29;29;12;1.90;631
+MN;37;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;29;29;0;0.00;631
+MN;37;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;29;29;1;0.16;631
+MN;38;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;19;19;532;97.97;543
+MN;38;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;19;19;11;2.03;543
+MN;38;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;19;19;0;0.00;1838
+MN;38;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;19;19;7;0.38;1838
+MN;38;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;19;19;21;1.14;1838
+MN;38;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;19;19;122;6.64;1838
+MN;38;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;19;19;0;0.00;1838
+MN;38;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;19;19;1;0.05;1838
+MN;38;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;19;19;0;0.00;1838
+MN;38;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;19;19;459;24.97;1838
+MN;38;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;19;19;4;0.22;1838
+MN;38;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;19;19;184;10.01;1838
+MN;38;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;19;19;3;0.16;1838
+MN;38;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;19;19;211;11.48;1838
+MN;38;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;19;19;812;44.18;1838
+MN;38;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;19;19;13;0.71;1838
+MN;38;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;19;19;0;0.00;1838
+MN;38;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;19;19;1;0.05;1838
+MN;39;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;17;17;594;99.50;597
+MN;39;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;17;17;3;0.50;597
+MN;39;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;17;17;0;0.00;347
+MN;39;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;17;17;2;0.58;347
+MN;39;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;17;17;28;8.07;347
+MN;39;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;17;17;115;33.14;347
+MN;39;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;17;17;0;0.00;347
+MN;39;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;17;17;0;0.00;347
+MN;39;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;17;17;2;0.58;347
+MN;39;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;17;17;42;12.10;347
+MN;39;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;17;17;1;0.29;347
+MN;39;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;17;17;9;2.59;347
+MN;39;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;17;17;3;0.86;347
+MN;39;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;17;17;36;10.37;347
+MN;39;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;17;17;99;28.53;347
+MN;39;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;17;17;9;2.59;347
+MN;39;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;17;17;1;0.29;347
+MN;39;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;17;17;0;0.00;347
+MN;40;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;26;26;1276;98.61;1294
+MN;40;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;26;26;18;1.39;1294
+MN;40;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;26;26;0;0.00;1960
+MN;40;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;26;26;1;0.05;1960
+MN;40;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;26;26;35;1.79;1960
+MN;40;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;26;26;402;20.51;1960
+MN;40;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;26;26;1;0.05;1960
+MN;40;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;26;26;1;0.05;1960
+MN;40;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;26;26;2;0.10;1960
+MN;40;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;26;26;345;17.60;1960
+MN;40;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;26;26;4;0.20;1960
+MN;40;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;26;26;142;7.24;1960
+MN;40;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;26;26;13;0.66;1960
+MN;40;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;26;26;255;13.01;1960
+MN;40;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;26;26;735;37.50;1960
+MN;40;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;26;26;22;1.12;1960
+MN;40;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;26;26;0;0.00;1960
+MN;40;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;26;26;2;0.10;1960
+MN;41;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;20;20;197;97.52;202
+MN;41;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;20;20;5;2.48;202
+MN;41;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;20;20;0;0.00;320
+MN;41;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;20;20;1;0.31;320
+MN;41;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;20;20;1;0.31;320
+MN;41;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;20;20;17;5.31;320
+MN;41;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;20;20;0;0.00;320
+MN;41;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;20;20;0;0.00;320
+MN;41;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;20;20;0;0.00;320
+MN;41;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;20;20;47;14.69;320
+MN;41;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;20;20;2;0.63;320
+MN;41;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;20;20;15;4.69;320
+MN;41;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;20;20;3;0.94;320
+MN;41;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;20;20;24;7.50;320
+MN;41;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;20;20;209;65.31;320
+MN;41;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;20;20;1;0.31;320
+MN;41;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;20;20;0;0.00;320
+MN;41;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;20;20;0;0.00;320
+MN;42;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;33;33;935;98.42;950
+MN;42;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;33;33;15;1.58;950
+MN;42;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;33;33;0;0.00;1578
+MN;42;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;33;33;3;0.19;1578
+MN;42;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;33;33;28;1.77;1578
+MN;42;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;33;33;199;12.61;1578
+MN;42;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;33;33;0;0.00;1578
+MN;42;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;33;33;1;0.06;1578
+MN;42;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;33;33;1;0.06;1578
+MN;42;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;33;33;388;24.59;1578
+MN;42;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;33;33;5;0.32;1578
+MN;42;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;33;33;150;9.51;1578
+MN;42;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;33;33;7;0.44;1578
+MN;42;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;33;33;162;10.27;1578
+MN;42;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;33;33;616;39.04;1578
+MN;42;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;33;33;17;1.08;1578
+MN;42;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;33;33;0;0.00;1578
+MN;42;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;33;33;1;0.06;1578
+MN;43;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;28;28;1160;98.47;1178
+MN;43;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;28;28;18;1.53;1178
+MN;43;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;28;28;0;0.00;1872
+MN;43;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;28;28;1;0.05;1872
+MN;43;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;28;28;13;0.69;1872
+MN;43;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;28;28;95;5.07;1872
+MN;43;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;28;28;0;0.00;1872
+MN;43;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;28;28;1;0.05;1872
+MN;43;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;28;28;0;0.00;1872
+MN;43;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;28;28;482;25.75;1872
+MN;43;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;28;28;8;0.43;1872
+MN;43;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;28;28;156;8.33;1872
+MN;43;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;28;28;9;0.48;1872
+MN;43;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;28;28;237;12.66;1872
+MN;43;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;28;28;864;46.15;1872
+MN;43;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;28;28;5;0.27;1872
+MN;43;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;28;28;1;0.05;1872
+MN;43;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;28;28;0;0.00;1872
+MN;44;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;19;19;245;98.79;248
+MN;44;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;19;19;3;1.21;248
+MN;44;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;19;19;1;0.23;444
+MN;44;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;19;19;2;0.45;444
+MN;44;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;19;19;8;1.80;444
+MN;44;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;19;19;125;28.15;444
+MN;44;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;19;19;0;0.00;444
+MN;44;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;19;19;0;0.00;444
+MN;44;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;19;19;0;0.00;444
+MN;44;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;19;19;124;27.93;444
+MN;44;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;19;19;0;0.00;444
+MN;44;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;19;19;11;2.48;444
+MN;44;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;19;19;3;0.68;444
+MN;44;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;19;19;53;11.94;444
+MN;44;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;19;19;105;23.65;444
+MN;44;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;19;19;10;2.25;444
+MN;44;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;19;19;0;0.00;444
+MN;44;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;19;19;2;0.45;444
+MN;45;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;60;60;952;99.37;958
+MN;45;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;60;60;6;0.63;958
+MN;45;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;60;60;0;0.00;606
+MN;45;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;60;60;3;0.50;606
+MN;45;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;60;60;40;6.60;606
+MN;45;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;60;60;206;33.99;606
+MN;45;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;60;60;0;0.00;606
+MN;45;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;60;60;0;0.00;606
+MN;45;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;60;60;0;0.00;606
+MN;45;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;60;60;74;12.21;606
+MN;45;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;60;60;4;0.66;606
+MN;45;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;60;60;24;3.96;606
+MN;45;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;60;60;3;0.50;606
+MN;45;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;60;60;69;11.39;606
+MN;45;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;60;60;166;27.39;606
+MN;45;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;60;60;15;2.48;606
+MN;45;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;60;60;1;0.17;606
+MN;45;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;60;60;1;0.17;606
+MN;46;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;37;37;644;98.92;651
+MN;46;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;37;37;7;1.08;651
+MN;46;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;37;37;0;0.00;900
+MN;46;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;37;37;1;0.11;900
+MN;46;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;37;37;7;0.78;900
+MN;46;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;37;37;50;5.56;900
+MN;46;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;37;37;0;0.00;900
+MN;46;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;37;37;0;0.00;900
+MN;46;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;37;37;0;0.00;900
+MN;46;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;37;37;177;19.67;900
+MN;46;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;37;37;2;0.22;900
+MN;46;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;37;37;95;10.56;900
+MN;46;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;37;37;2;0.22;900
+MN;46;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;37;37;104;11.56;900
+MN;46;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;37;37;450;50.00;900
+MN;46;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;37;37;10;1.11;900
+MN;46;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;37;37;1;0.11;900
+MN;46;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;37;37;1;0.11;900
+MN;47;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;30;30;987;99.00;997
+MN;47;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;30;30;10;1.00;997
+MN;47;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;30;30;0;0.00;1276
+MN;47;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;30;30;0;0.00;1276
+MN;47;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;30;30;31;2.43;1276
+MN;47;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;30;30;211;16.54;1276
+MN;47;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;30;30;0;0.00;1276
+MN;47;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;30;30;0;0.00;1276
+MN;47;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;30;30;1;0.08;1276
+MN;47;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;30;30;221;17.32;1276
+MN;47;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;30;30;5;0.39;1276
+MN;47;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;30;30;90;7.05;1276
+MN;47;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;30;30;4;0.31;1276
+MN;47;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;30;30;164;12.85;1276
+MN;47;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;30;30;536;42.01;1276
+MN;47;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;30;30;9;0.71;1276
+MN;47;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;30;30;2;0.16;1276
+MN;47;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;30;30;2;0.16;1276
+MN;48;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;25;25;902;98.69;914
+MN;48;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;25;25;12;1.31;914
+MN;48;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;25;25;0;0.00;1482
+MN;48;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;25;25;1;0.07;1482
+MN;48;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;25;25;13;0.88;1482
+MN;48;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;25;25;91;6.14;1482
+MN;48;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;25;25;0;0.00;1482
+MN;48;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;25;25;0;0.00;1482
+MN;48;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;25;25;0;0.00;1482
+MN;48;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;25;25;413;27.87;1482
+MN;48;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;25;25;0;0.00;1482
+MN;48;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;25;25;110;7.42;1482
+MN;48;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;25;25;3;0.20;1482
+MN;48;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;25;25;196;13.23;1482
+MN;48;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;25;25;653;44.06;1482
+MN;48;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;25;25;2;0.13;1482
+MN;48;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;25;25;0;0.00;1482
+MN;48;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;25;25;0;0.00;1482
+MN;49;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;48;48;1915;99.33;1928
+MN;49;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;48;48;13;0.67;1928
+MN;49;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;48;48;1;0.06;1635
+MN;49;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;48;48;3;0.18;1635
+MN;49;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;48;48;26;1.59;1635
+MN;49;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;48;48;221;13.52;1635
+MN;49;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;48;48;0;0.00;1635
+MN;49;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;48;48;1;0.06;1635
+MN;49;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;48;48;4;0.24;1635
+MN;49;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;48;48;318;19.45;1635
+MN;49;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;48;48;6;0.37;1635
+MN;49;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;48;48;109;6.67;1635
+MN;49;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;48;48;11;0.67;1635
+MN;49;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;48;48;204;12.48;1635
+MN;49;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;48;48;706;43.18;1635
+MN;49;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;48;48;24;1.47;1635
+MN;49;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;48;48;0;0.00;1635
+MN;49;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;48;48;1;0.06;1635
+MN;50;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;40;40;1218;98.62;1235
+MN;50;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;40;40;17;1.38;1235
+MN;50;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;40;40;0;0.00;3331
+MN;50;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;40;40;13;0.39;3331
+MN;50;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;40;40;75;2.25;3331
+MN;50;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;40;40;317;9.52;3331
+MN;50;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;40;40;2;0.06;3331
+MN;50;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;40;40;2;0.06;3331
+MN;50;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;40;40;2;0.06;3331
+MN;50;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;40;40;781;23.45;3331
+MN;50;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;40;40;28;0.84;3331
+MN;50;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;40;40;200;6.00;3331
+MN;50;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;40;40;15;0.45;3331
+MN;50;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;40;40;370;11.11;3331
+MN;50;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;40;40;1499;45.00;3331
+MN;50;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;40;40;23;0.69;3331
+MN;50;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;40;40;0;0.00;3331
+MN;50;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;40;40;4;0.12;3331
+MN;51;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;29;29;607;99.35;611
+MN;51;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;29;29;4;0.65;611
+MN;51;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;29;29;0;0.00;605
+MN;51;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;29;29;2;0.33;605
+MN;51;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;29;29;21;3.47;605
+MN;51;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;29;29;115;19.01;605
+MN;51;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;29;29;0;0.00;605
+MN;51;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;29;29;2;0.33;605
+MN;51;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;29;29;1;0.17;605
+MN;51;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;29;29;89;14.71;605
+MN;51;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;29;29;0;0.00;605
+MN;51;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;29;29;31;5.12;605
+MN;51;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;29;29;2;0.33;605
+MN;51;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;29;29;58;9.59;605
+MN;51;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;29;29;270;44.63;605
+MN;51;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;29;29;14;2.31;605
+MN;51;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;29;29;0;0.00;605
+MN;51;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;29;29;0;0.00;605
+MN;52;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;28;28;1074;98.17;1094
+MN;52;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;28;28;20;1.83;1094
+MN;52;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;28;28;0;0.00;4333
+MN;52;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;28;28;6;0.14;4333
+MN;52;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;28;28;55;1.27;4333
+MN;52;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;28;28;322;7.43;4333
+MN;52;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;28;28;1;0.02;4333
+MN;52;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;28;28;1;0.02;4333
+MN;52;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;28;28;1;0.02;4333
+MN;52;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;28;28;1331;30.72;4333
+MN;52;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;28;28;9;0.21;4333
+MN;52;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;28;28;638;14.72;4333
+MN;52;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;28;28;11;0.25;4333
+MN;52;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;28;28;387;8.93;4333
+MN;52;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;28;28;1554;35.86;4333
+MN;52;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;28;28;15;0.35;4333
+MN;52;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;28;28;1;0.02;4333
+MN;52;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;28;28;1;0.02;4333
+MN;53;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;40;40;811;97.83;829
+MN;53;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;40;40;18;2.17;829
+MN;53;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;40;40;0;0.00;925
+MN;53;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;40;40;2;0.22;925
+MN;53;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;40;40;23;2.49;925
+MN;53;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;40;40;117;12.65;925
+MN;53;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;40;40;0;0.00;925
+MN;53;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;40;40;2;0.22;925
+MN;53;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;40;40;3;0.32;925
+MN;53;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;40;40;253;27.35;925
+MN;53;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;40;40;0;0.00;925
+MN;53;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;40;40;51;5.51;925
+MN;53;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;40;40;6;0.65;925
+MN;53;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;40;40;107;11.57;925
+MN;53;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;40;40;344;37.19;925
+MN;53;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;40;40;16;1.73;925
+MN;53;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;40;40;1;0.11;925
+MN;53;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;40;40;0;0.00;925
+MN;54;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;33;33;380;98.70;385
+MN;54;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;33;33;5;1.30;385
+MN;54;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;33;33;0;0.00;606
+MN;54;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;33;33;3;0.50;606
+MN;54;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;33;33;30;4.95;606
+MN;54;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;33;33;171;28.22;606
+MN;54;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;33;33;0;0.00;606
+MN;54;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;33;33;1;0.17;606
+MN;54;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;33;33;0;0.00;606
+MN;54;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;33;33;102;16.83;606
+MN;54;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;33;33;3;0.50;606
+MN;54;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;33;33;42;6.93;606
+MN;54;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;33;33;2;0.33;606
+MN;54;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;33;33;59;9.74;606
+MN;54;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;33;33;183;30.20;606
+MN;54;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;33;33;10;1.65;606
+MN;54;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;33;33;0;0.00;606
+MN;54;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;33;33;0;0.00;606
+MN;55;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;84;84;3436;96.49;3561
+MN;55;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;84;84;125;3.51;3561
+MN;55;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;84;84;3;0.02;19935
+MN;55;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;84;84;12;0.06;19935
+MN;55;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;84;84;236;1.18;19935
+MN;55;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;84;84;1331;6.68;19935
+MN;55;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;84;84;3;0.02;19935
+MN;55;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;84;84;5;0.03;19935
+MN;55;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;84;84;4;0.02;19935
+MN;55;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;84;84;5462;27.40;19935
+MN;55;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;84;84;53;0.27;19935
+MN;55;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;84;84;2748;13.78;19935
+MN;55;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;84;84;73;0.37;19935
+MN;55;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;84;84;1382;6.93;19935
+MN;55;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;84;84;8524;42.76;19935
+MN;55;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;84;84;87;0.44;19935
+MN;55;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;84;84;5;0.03;19935
+MN;55;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;84;84;7;0.04;19935
+MN;56;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;92;92;2400;98.52;2436
+MN;56;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;92;92;36;1.48;2436
+MN;56;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;92;92;0;0.00;4163
+MN;56;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;92;92;3;0.07;4163
+MN;56;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;92;92;33;0.79;4163
+MN;56;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;92;92;284;6.82;4163
+MN;56;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;92;92;1;0.02;4163
+MN;56;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;92;92;3;0.07;4163
+MN;56;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;92;92;0;0.00;4163
+MN;56;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;92;92;800;19.22;4163
+MN;56;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;92;92;15;0.36;4163
+MN;56;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;92;92;404;9.70;4163
+MN;56;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;92;92;31;0.74;4163
+MN;56;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;92;92;388;9.32;4163
+MN;56;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;92;92;2166;52.03;4163
+MN;56;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;92;92;31;0.74;4163
+MN;56;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;92;92;3;0.07;4163
+MN;56;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;92;92;1;0.02;4163
+MN;57;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;31;31;467;98.94;472
+MN;57;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;31;31;5;1.06;472
+MN;57;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;31;31;0;0.00;771
+MN;57;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;31;31;1;0.13;771
+MN;57;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;31;31;12;1.56;771
+MN;57;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;31;31;89;11.54;771
+MN;57;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;31;31;0;0.00;771
+MN;57;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;31;31;0;0.00;771
+MN;57;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;31;31;0;0.00;771
+MN;57;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;31;31;193;25.03;771
+MN;57;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;31;31;7;0.91;771
+MN;57;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;31;31;47;6.10;771
+MN;57;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;31;31;4;0.52;771
+MN;57;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;31;31;47;6.10;771
+MN;57;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;31;31;364;47.21;771
+MN;57;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;31;31;7;0.91;771
+MN;57;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;31;31;0;0.00;771
+MN;57;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;31;31;0;0.00;771
+MN;58;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;48;48;1274;99.14;1285
+MN;58;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;48;48;11;0.86;1285
+MN;58;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;48;48;0;0.00;2121
+MN;58;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;48;48;2;0.09;2121
+MN;58;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;48;48;33;1.56;2121
+MN;58;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;48;48;200;9.43;2121
+MN;58;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;48;48;1;0.05;2121
+MN;58;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;48;48;0;0.00;2121
+MN;58;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;48;48;1;0.05;2121
+MN;58;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;48;48;474;22.35;2121
+MN;58;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;48;48;2;0.09;2121
+MN;58;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;48;48;175;8.25;2121
+MN;58;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;48;48;10;0.47;2121
+MN;58;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;48;48;282;13.30;2121
+MN;58;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;48;48;915;43.14;2121
+MN;58;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;48;48;24;1.13;2121
+MN;58;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;48;48;0;0.00;2121
+MN;58;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;48;48;2;0.09;2121
+MN;59;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;22;22;679;99.27;684
+MN;59;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;22;22;5;0.73;684
+MN;59;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;22;22;0;0.00;484
+MN;59;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;22;22;4;0.83;484
+MN;59;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;22;22;11;2.27;484
+MN;59;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;22;22;85;17.56;484
+MN;59;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;22;22;0;0.00;484
+MN;59;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;22;22;0;0.00;484
+MN;59;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;22;22;0;0.00;484
+MN;59;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;22;22;82;16.94;484
+MN;59;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;22;22;1;0.21;484
+MN;59;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;22;22;26;5.37;484
+MN;59;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;22;22;5;1.03;484
+MN;59;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;22;22;55;11.36;484
+MN;59;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;22;22;207;42.77;484
+MN;59;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;22;22;7;1.45;484
+MN;59;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;22;22;0;0.00;484
+MN;59;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;22;22;1;0.21;484
+MN;60;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;82;82;1647;99.28;1659
+MN;60;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;82;82;12;0.72;1659
+MN;60;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;82;82;2;0.10;2071
+MN;60;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;82;82;7;0.34;2071
+MN;60;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;82;82;64;3.09;2071
+MN;60;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;82;82;422;20.38;2071
+MN;60;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;82;82;1;0.05;2071
+MN;60;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;82;82;0;0.00;2071
+MN;60;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;82;82;3;0.14;2071
+MN;60;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;82;82;400;19.31;2071
+MN;60;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;82;82;10;0.48;2071
+MN;60;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;82;82;144;6.95;2071
+MN;60;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;82;82;11;0.53;2071
+MN;60;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;82;82;171;8.26;2071
+MN;60;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;82;82;796;38.44;2071
+MN;60;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;82;82;36;1.74;2071
+MN;60;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;82;82;2;0.10;2071
+MN;60;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;82;82;2;0.10;2071
+MN;61;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;31;31;540;98.36;549
+MN;61;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;31;31;9;1.64;549
+MN;61;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;31;31;1;0.11;876
+MN;61;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;31;31;2;0.23;876
+MN;61;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;31;31;8;0.91;876
+MN;61;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;31;31;137;15.64;876
+MN;61;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;31;31;0;0.00;876
+MN;61;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;31;31;0;0.00;876
+MN;61;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;31;31;0;0.00;876
+MN;61;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;31;31;130;14.84;876
+MN;61;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;31;31;1;0.11;876
+MN;61;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;31;31;47;5.37;876
+MN;61;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;31;31;5;0.57;876
+MN;61;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;31;31;109;12.44;876
+MN;61;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;31;31;430;49.09;876
+MN;61;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;31;31;5;0.57;876
+MN;61;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;31;31;0;0.00;876
+MN;61;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;31;31;1;0.11;876
+MN;62;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;169;169;6185;94.37;6554
+MN;62;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;169;169;369;5.63;6554
+MN;62;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;169;169;13;0.01;104761
+MN;62;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;169;169;55;0.05;104761
+MN;62;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;169;169;905;0.86;104761
+MN;62;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;169;169;4631;4.42;104761
+MN;62;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;169;169;12;0.01;104761
+MN;62;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;169;169;31;0.03;104761
+MN;62;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;169;169;29;0.03;104761
+MN;62;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;169;169;34498;32.93;104761
+MN;62;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;169;169;366;0.35;104761
+MN;62;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;169;169;21971;20.97;104761
+MN;62;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;169;169;303;0.29;104761
+MN;62;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;169;169;6928;6.61;104761
+MN;62;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;169;169;34706;33.13;104761
+MN;62;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;169;169;239;0.23;104761
+MN;62;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;169;169;33;0.03;104761
+MN;62;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;169;169;41;0.04;104761
+MN;63;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;21;21;291;99.66;292
+MN;63;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;21;21;1;0.34;292
+MN;63;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;21;21;0;0.00;273
+MN;63;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;21;21;0;0.00;273
+MN;63;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;21;21;12;4.40;273
+MN;63;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;21;21;113;41.39;273
+MN;63;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;21;21;0;0.00;273
+MN;63;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;21;21;0;0.00;273
+MN;63;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;21;21;0;0.00;273
+MN;63;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;21;21;35;12.82;273
+MN;63;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;21;21;0;0.00;273
+MN;63;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;21;21;16;5.86;273
+MN;63;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;21;21;2;0.73;273
+MN;63;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;21;21;15;5.49;273
+MN;63;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;21;21;70;25.64;273
+MN;63;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;21;21;10;3.66;273
+MN;63;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;21;21;0;0.00;273
+MN;63;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;21;21;0;0.00;273
+MN;64;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;43;43;474;99.37;477
+MN;64;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;43;43;3;0.63;477
+MN;64;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;43;43;0;0.00;676
+MN;64;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;43;43;2;0.30;676
+MN;64;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;43;43;5;0.74;676
+MN;64;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;43;43;36;5.33;676
+MN;64;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;43;43;0;0.00;676
+MN;64;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;43;43;1;0.15;676
+MN;64;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;43;43;1;0.15;676
+MN;64;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;43;43;163;24.11;676
+MN;64;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;43;43;5;0.74;676
+MN;64;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;43;43;55;8.14;676
+MN;64;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;43;43;5;0.74;676
+MN;64;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;43;43;55;8.14;676
+MN;64;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;43;43;344;50.89;676
+MN;64;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;43;43;3;0.44;676
+MN;64;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;43;43;0;0.00;676
+MN;64;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;43;43;1;0.15;676
+MN;65;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;38;38;396;98.51;402
+MN;65;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;38;38;6;1.49;402
+MN;65;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;38;38;0;0.00;746
+MN;65;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;38;38;0;0.00;746
+MN;65;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;38;38;4;0.54;746
+MN;65;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;38;38;51;6.84;746
+MN;65;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;38;38;1;0.13;746
+MN;65;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;38;38;0;0.00;746
+MN;65;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;38;38;0;0.00;746
+MN;65;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;38;38;156;20.91;746
+MN;65;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;38;38;1;0.13;746
+MN;65;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;38;38;52;6.97;746
+MN;65;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;38;38;3;0.40;746
+MN;65;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;38;38;104;13.94;746
+MN;65;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;38;38;370;49.60;746
+MN;65;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;38;38;1;0.13;746
+MN;65;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;38;38;0;0.00;746
+MN;65;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;38;38;3;0.40;746
+MN;66;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;31;31;1428;97.74;1461
+MN;66;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;31;31;33;2.26;1461
+MN;66;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;31;31;1;0.01;8676
+MN;66;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;31;31;4;0.05;8676
+MN;66;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;31;31;73;0.84;8676
+MN;66;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;31;31;395;4.55;8676
+MN;66;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;31;31;1;0.01;8676
+MN;66;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;31;31;3;0.03;8676
+MN;66;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;31;31;3;0.03;8676
+MN;66;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;31;31;2853;32.88;8676
+MN;66;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;31;31;11;0.13;8676
+MN;66;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;31;31;1484;17.10;8676
+MN;66;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;31;31;36;0.41;8676
+MN;66;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;31;31;571;6.58;8676
+MN;66;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;31;31;3212;37.02;8676
+MN;66;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;31;31;22;0.25;8676
+MN;66;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;31;31;2;0.02;8676
+MN;66;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;31;31;5;0.06;8676
+MN;67;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;24;24;635;98.91;642
+MN;67;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;24;24;7;1.09;642
+MN;67;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;24;24;0;0.00;577
+MN;67;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;24;24;3;0.52;577
+MN;67;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;24;24;22;3.81;577
+MN;67;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;24;24;134;23.22;577
+MN;67;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;24;24;1;0.17;577
+MN;67;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;24;24;0;0.00;577
+MN;67;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;24;24;0;0.00;577
+MN;67;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;24;24;102;17.68;577
+MN;67;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;24;24;0;0.00;577
+MN;67;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;24;24;40;6.93;577
+MN;67;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;24;24;6;1.04;577
+MN;67;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;24;24;42;7.28;577
+MN;67;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;24;24;223;38.65;577
+MN;67;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;24;24;3;0.52;577
+MN;67;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;24;24;1;0.17;577
+MN;67;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;24;24;0;0.00;577
+MN;68;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;44;44;1055;99.81;1057
+MN;68;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;44;44;2;0.19;1057
+MN;68;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;44;44;0;0.00;716
+MN;68;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;44;44;0;0.00;716
+MN;68;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;44;44;23;3.21;716
+MN;68;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;44;44;142;19.83;716
+MN;68;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;44;44;0;0.00;716
+MN;68;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;44;44;0;0.00;716
+MN;68;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;44;44;1;0.14;716
+MN;68;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;44;44;105;14.66;716
+MN;68;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;44;44;6;0.84;716
+MN;68;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;44;44;47;6.56;716
+MN;68;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;44;44;11;1.54;716
+MN;68;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;44;44;80;11.17;716
+MN;68;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;44;44;270;37.71;716
+MN;68;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;44;44;30;4.19;716
+MN;68;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;44;44;0;0.00;716
+MN;68;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;44;44;1;0.14;716
+MN;69;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;172;172;5260;97.52;5394
+MN;69;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;172;172;134;2.48;5394
+MN;69;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;172;172;7;0.02;33308
+MN;69;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;172;172;35;0.11;33308
+MN;69;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;172;172;233;0.70;33308
+MN;69;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;172;172;1528;4.59;33308
+MN;69;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;172;172;5;0.02;33308
+MN;69;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;172;172;4;0.01;33308
+MN;69;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;172;172;10;0.03;33308
+MN;69;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;172;172;10054;30.18;33308
+MN;69;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;172;172;63;0.19;33308
+MN;69;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;172;172;3682;11.05;33308
+MN;69;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;172;172;137;0.41;33308
+MN;69;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;172;172;3228;9.69;33308
+MN;69;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;172;172;14115;42.38;33308
+MN;69;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;172;172;185;0.56;33308
+MN;69;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;172;172;6;0.02;33308
+MN;69;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;172;172;16;0.05;33308
+MN;70;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;47;47;3144;97.49;3225
+MN;70;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;47;47;81;2.51;3225
+MN;70;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;47;47;1;0.01;12920
+MN;70;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;47;47;9;0.07;12920
+MN;70;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;47;47;121;0.94;12920
+MN;70;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;47;47;590;4.57;12920
+MN;70;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;47;47;1;0.01;12920
+MN;70;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;47;47;4;0.03;12920
+MN;70;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;47;47;2;0.02;12920
+MN;70;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;47;47;3544;27.43;12920
+MN;70;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;47;47;25;0.19;12920
+MN;70;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;47;47;1493;11.56;12920
+MN;70;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;47;47;59;0.46;12920
+MN;70;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;47;47;1204;9.32;12920
+MN;70;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;47;47;5820;45.05;12920
+MN;70;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;47;47;44;0.34;12920
+MN;70;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;47;47;1;0.01;12920
+MN;70;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;47;47;2;0.02;12920
+MN;71;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;35;35;2805;98.70;2842
+MN;71;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;35;35;37;1.30;2842
+MN;71;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;35;35;3;0.05;6044
+MN;71;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;35;35;4;0.07;6044
+MN;71;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;35;35;47;0.78;6044
+MN;71;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;35;35;280;4.63;6044
+MN;71;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;35;35;0;0.00;6044
+MN;71;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;35;35;1;0.02;6044
+MN;71;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;35;35;2;0.03;6044
+MN;71;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;35;35;1640;27.13;6044
+MN;71;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;35;35;5;0.08;6044
+MN;71;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;35;35;583;9.65;6044
+MN;71;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;35;35;28;0.46;6044
+MN;71;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;35;35;625;10.34;6044
+MN;71;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;35;35;2794;46.23;6044
+MN;71;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;35;35;23;0.38;6044
+MN;71;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;35;35;0;0.00;6044
+MN;71;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;35;35;9;0.15;6044
+MN;72;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;25;25;687;98.57;697
+MN;72;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;25;25;10;1.43;697
+MN;72;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;25;25;0;0.00;794
+MN;72;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;25;25;2;0.25;794
+MN;72;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;25;25;19;2.39;794
+MN;72;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;25;25;115;14.48;794
+MN;72;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;25;25;0;0.00;794
+MN;72;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;25;25;1;0.13;794
+MN;72;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;25;25;0;0.00;794
+MN;72;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;25;25;135;17.00;794
+MN;72;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;25;25;1;0.13;794
+MN;72;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;25;25;59;7.43;794
+MN;72;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;25;25;6;0.76;794
+MN;72;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;25;25;119;14.99;794
+MN;72;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;25;25;328;41.31;794
+MN;72;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;25;25;8;1.01;794
+MN;72;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;25;25;0;0.00;794
+MN;72;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;25;25;1;0.13;794
+MN;73;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;98;98;4149;98.32;4220
+MN;73;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;98;98;71;1.68;4220
+MN;73;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;98;98;1;0.01;10891
+MN;73;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;98;98;12;0.11;10891
+MN;73;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;98;98;134;1.23;10891
+MN;73;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;98;98;773;7.10;10891
+MN;73;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;98;98;4;0.04;10891
+MN;73;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;98;98;3;0.03;10891
+MN;73;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;98;98;5;0.05;10891
+MN;73;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;98;98;3355;30.81;10891
+MN;73;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;98;98;26;0.24;10891
+MN;73;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;98;98;1271;11.67;10891
+MN;73;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;98;98;44;0.40;10891
+MN;73;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;98;98;998;9.16;10891
+MN;73;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;98;98;4204;38.60;10891
+MN;73;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;98;98;50;0.46;10891
+MN;73;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;98;98;4;0.04;10891
+MN;73;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;98;98;7;0.06;10891
+MN;74;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;26;26;1110;97.71;1136
+MN;74;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;26;26;26;2.29;1136
+MN;74;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;26;26;0;0.00;2602
+MN;74;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;26;26;2;0.08;2602
+MN;74;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;26;26;21;0.81;2602
+MN;74;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;26;26;156;6.00;2602
+MN;74;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;26;26;1;0.04;2602
+MN;74;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;26;26;3;0.12;2602
+MN;74;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;26;26;0;0.00;2602
+MN;74;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;26;26;671;25.79;2602
+MN;74;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;26;26;6;0.23;2602
+MN;74;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;26;26;257;9.88;2602
+MN;74;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;26;26;13;0.50;2602
+MN;74;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;26;26;310;11.91;2602
+MN;74;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;26;26;1142;43.89;2602
+MN;74;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;26;26;13;0.50;2602
+MN;74;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;26;26;4;0.15;2602
+MN;74;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;26;26;3;0.12;2602
+MN;75;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;26;26;616;99.35;620
+MN;75;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;26;26;4;0.65;620
+MN;75;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;26;26;1;0.10;1027
+MN;75;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;26;26;5;0.49;1027
+MN;75;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;26;26;18;1.75;1027
+MN;75;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;26;26;171;16.65;1027
+MN;75;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;26;26;0;0.00;1027
+MN;75;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;26;26;0;0.00;1027
+MN;75;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;26;26;2;0.19;1027
+MN;75;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;26;26;370;36.03;1027
+MN;75;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;26;26;1;0.10;1027
+MN;75;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;26;26;151;14.70;1027
+MN;75;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;26;26;5;0.49;1027
+MN;75;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;26;26;69;6.72;1027
+MN;75;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;26;26;227;22.10;1027
+MN;75;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;26;26;6;0.58;1027
+MN;75;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;26;26;0;0.00;1027
+MN;75;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;26;26;1;0.10;1027
+MN;76;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;30;30;460;97.87;470
+MN;76;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;30;30;10;2.13;470
+MN;76;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;30;30;0;0.00;780
+MN;76;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;30;30;0;0.00;780
+MN;76;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;30;30;9;1.15;780
+MN;76;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;30;30;192;24.62;780
+MN;76;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;30;30;0;0.00;780
+MN;76;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;30;30;0;0.00;780
+MN;76;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;30;30;0;0.00;780
+MN;76;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;30;30;114;14.62;780
+MN;76;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;30;30;2;0.26;780
+MN;76;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;30;30;47;6.03;780
+MN;76;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;30;30;2;0.26;780
+MN;76;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;30;30;112;14.36;780
+MN;76;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;30;30;291;37.31;780
+MN;76;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;30;30;10;1.28;780
+MN;76;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;30;30;1;0.13;780
+MN;76;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;30;30;0;0.00;780
+MN;77;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;40;40;791;99.50;795
+MN;77;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;40;40;4;0.50;795
+MN;77;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;40;40;2;0.18;1135
+MN;77;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;40;40;0;0.00;1135
+MN;77;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;40;40;3;0.26;1135
+MN;77;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;40;40;59;5.20;1135
+MN;77;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;40;40;0;0.00;1135
+MN;77;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;40;40;0;0.00;1135
+MN;77;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;40;40;1;0.09;1135
+MN;77;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;40;40;239;21.06;1135
+MN;77;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;40;40;1;0.09;1135
+MN;77;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;40;40;92;8.11;1135
+MN;77;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;40;40;3;0.26;1135
+MN;77;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;40;40;116;10.22;1135
+MN;77;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;40;40;605;53.30;1135
+MN;77;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;40;40;13;1.15;1135
+MN;77;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;40;40;1;0.09;1135
+MN;77;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;40;40;0;0.00;1135
+MN;78;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;20;20;276;100.00;276
+MN;78;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;20;20;0;0.00;276
+MN;78;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;20;20;0;0.00;277
+MN;78;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;20;20;0;0.00;277
+MN;78;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;20;20;10;3.61;277
+MN;78;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;20;20;78;28.16;277
+MN;78;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;20;20;0;0.00;277
+MN;78;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;20;20;0;0.00;277
+MN;78;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;20;20;0;0.00;277
+MN;78;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;20;20;38;13.72;277
+MN;78;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;20;20;1;0.36;277
+MN;78;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;20;20;8;2.89;277
+MN;78;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;20;20;0;0.00;277
+MN;78;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;20;20;31;11.19;277
+MN;78;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;20;20;110;39.71;277
+MN;78;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;20;20;1;0.36;277
+MN;78;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;20;20;0;0.00;277
+MN;78;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;20;20;0;0.00;277
+MN;79;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;33;33;678;98.69;687
+MN;79;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;33;33;9;1.31;687
+MN;79;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;33;33;0;0.00;1708
+MN;79;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;33;33;3;0.18;1708
+MN;79;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;33;33;19;1.11;1708
+MN;79;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;33;33;124;7.26;1708
+MN;79;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;33;33;0;0.00;1708
+MN;79;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;33;33;0;0.00;1708
+MN;79;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;33;33;1;0.06;1708
+MN;79;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;33;33;350;20.49;1708
+MN;79;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;33;33;4;0.23;1708
+MN;79;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;33;33;146;8.55;1708
+MN;79;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;33;33;7;0.41;1708
+MN;79;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;33;33;207;12.12;1708
+MN;79;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;33;33;841;49.24;1708
+MN;79;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;33;33;4;0.23;1708
+MN;79;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;33;33;1;0.06;1708
+MN;79;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;33;33;1;0.06;1708
+MN;80;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;25;25;573;99.31;577
+MN;80;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;25;25;4;0.69;577
+MN;80;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;25;25;1;0.14;696
+MN;80;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;25;25;2;0.29;696
+MN;80;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;25;25;9;1.29;696
+MN;80;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;25;25;46;6.61;696
+MN;80;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;25;25;0;0.00;696
+MN;80;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;25;25;0;0.00;696
+MN;80;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;25;25;0;0.00;696
+MN;80;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;25;25;175;25.14;696
+MN;80;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;25;25;1;0.14;696
+MN;80;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;25;25;51;7.33;696
+MN;80;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;25;25;3;0.43;696
+MN;80;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;25;25;69;9.91;696
+MN;80;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;25;25;336;48.28;696
+MN;80;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;25;25;3;0.43;696
+MN;80;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;25;25;0;0.00;696
+MN;80;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;25;25;0;0.00;696
+MN;81;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;22;22;504;97.86;515
+MN;81;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;22;22;11;2.14;515
+MN;81;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;22;22;0;0.00;1194
+MN;81;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;22;22;2;0.17;1194
+MN;81;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;22;22;5;0.42;1194
+MN;81;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;22;22;52;4.36;1194
+MN;81;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;22;22;0;0.00;1194
+MN;81;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;22;22;0;0.00;1194
+MN;81;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;22;22;1;0.08;1194
+MN;81;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;22;22;282;23.62;1194
+MN;81;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;22;22;1;0.08;1194
+MN;81;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;22;22;106;8.88;1194
+MN;81;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;22;22;6;0.50;1194
+MN;81;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;22;22;115;9.63;1194
+MN;81;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;22;22;616;51.59;1194
+MN;81;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;22;22;5;0.42;1194
+MN;81;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;22;22;0;0.00;1194
+MN;81;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;22;22;3;0.25;1194
+MN;82;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;83;83;5023;96.84;5187
+MN;82;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;83;83;164;3.16;5187
+MN;82;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;83;83;1;0.00;35176
+MN;82;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;83;83;20;0.06;35176
+MN;82;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;83;83;355;1.01;35176
+MN;82;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;83;83;1874;5.33;35176
+MN;82;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;83;83;6;0.02;35176
+MN;82;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;83;83;5;0.01;35176
+MN;82;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;83;83;7;0.02;35176
+MN;82;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;83;83;8827;25.09;35176
+MN;82;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;83;83;98;0.28;35176
+MN;82;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;83;83;4241;12.06;35176
+MN;82;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;83;83;103;0.29;35176
+MN;82;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;83;83;3297;9.37;35176
+MN;82;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;83;83;16244;46.18;35176
+MN;82;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;83;83;71;0.20;35176
+MN;82;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;83;83;10;0.03;35176
+MN;82;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;83;83;17;0.05;35176
+MN;83;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;21;21;615;98.40;625
+MN;83;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;21;21;10;1.60;625
+MN;83;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;21;21;0;0.00;774
+MN;83;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;21;21;2;0.26;774
+MN;83;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;21;21;20;2.58;774
+MN;83;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;21;21;170;21.96;774
+MN;83;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;21;21;1;0.13;774
+MN;83;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;21;21;0;0.00;774
+MN;83;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;21;21;0;0.00;774
+MN;83;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;21;21;141;18.22;774
+MN;83;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;21;21;2;0.26;774
+MN;83;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;21;21;58;7.49;774
+MN;83;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;21;21;2;0.26;774
+MN;83;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;21;21;114;14.73;774
+MN;83;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;21;21;251;32.43;774
+MN;83;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;21;21;9;1.16;774
+MN;83;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;21;21;1;0.13;774
+MN;83;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;21;21;3;0.39;774
+MN;84;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;32;32;399;99.01;403
+MN;84;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;32;32;4;0.99;403
+MN;84;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;32;32;1;0.25;404
+MN;84;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;32;32;0;0.00;404
+MN;84;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;32;32;14;3.47;404
+MN;84;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;32;32;127;31.44;404
+MN;84;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;32;32;0;0.00;404
+MN;84;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;32;32;0;0.00;404
+MN;84;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;32;32;0;0.00;404
+MN;84;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;32;32;55;13.61;404
+MN;84;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;32;32;0;0.00;404
+MN;84;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;32;32;21;5.20;404
+MN;84;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;32;32;2;0.50;404
+MN;84;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;32;32;45;11.14;404
+MN;84;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;32;32;130;32.18;404
+MN;84;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;32;32;9;2.23;404
+MN;84;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;32;32;0;0.00;404
+MN;84;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;32;32;0;0.00;404
+MN;85;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;49;49;1220;97.68;1249
+MN;85;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;49;49;29;2.32;1249
+MN;85;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;49;49;1;0.02;5729
+MN;85;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;49;49;2;0.03;5729
+MN;85;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;49;49;34;0.59;5729
+MN;85;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;49;49;186;3.25;5729
+MN;85;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;49;49;1;0.02;5729
+MN;85;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;49;49;0;0.00;5729
+MN;85;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;49;49;4;0.07;5729
+MN;85;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;49;49;1916;33.44;5729
+MN;85;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;49;49;13;0.23;5729
+MN;85;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;49;49;773;13.49;5729
+MN;85;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;49;49;24;0.42;5729
+MN;85;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;49;49;523;9.13;5729
+MN;85;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;49;49;2221;38.77;5729
+MN;85;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;49;49;28;0.49;5729
+MN;85;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;49;49;2;0.03;5729
+MN;85;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;49;49;1;0.02;5729
+MN;86;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;45;45;3298;98.77;3339
+MN;86;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;45;45;41;1.23;3339
+MN;86;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;45;45;0;0.00;8741
+MN;86;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;45;45;7;0.08;8741
+MN;86;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;45;45;77;0.88;8741
+MN;86;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;45;45;395;4.52;8741
+MN;86;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;45;45;1;0.01;8741
+MN;86;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;45;45;2;0.02;8741
+MN;86;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;45;45;2;0.02;8741
+MN;86;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;45;45;2053;23.49;8741
+MN;86;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;45;45;22;0.25;8741
+MN;86;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;45;45;880;10.07;8741
+MN;86;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;45;45;36;0.41;8741
+MN;86;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;45;45;933;10.67;8741
+MN;86;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;45;45;4294;49.12;8741
+MN;86;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;45;45;33;0.38;8741
+MN;86;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;45;45;1;0.01;8741
+MN;86;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;45;45;5;0.06;8741
+MN;87;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;30;30;475;99.16;479
+MN;87;;0100;U.S. Presidential Nominee;;0302;Write-In;;;R;30;30;4;0.84;479
+MN;87;;0100;U.S. Presidential Nominee;;0401;Deval Patrick;;;DFL;30;30;0;0.00;561
+MN;87;;0100;U.S. Presidential Nominee;;0402;Tom Steyer;;;DFL;30;30;3;0.53;561
+MN;87;;0100;U.S. Presidential Nominee;;0403;Pete Buttigieg;;;DFL;30;30;9;1.60;561
+MN;87;;0100;U.S. Presidential Nominee;;0404;Amy Klobuchar;;;DFL;30;30;77;13.73;561
+MN;87;;0100;U.S. Presidential Nominee;;0405;Julián Castro;;;DFL;30;30;0;0.00;561
+MN;87;;0100;U.S. Presidential Nominee;;0406;John K. Delaney;;;DFL;30;30;0;0.00;561
+MN;87;;0100;U.S. Presidential Nominee;;0407;Marianne Williamson;;;DFL;30;30;0;0.00;561
+MN;87;;0100;U.S. Presidential Nominee;;0408;Bernie Sanders;;;DFL;30;30;111;19.79;561
+MN;87;;0100;U.S. Presidential Nominee;;0409;Andrew Yang;;;DFL;30;30;2;0.36;561
+MN;87;;0100;U.S. Presidential Nominee;;0410;Elizabeth Warren;;;DFL;30;30;32;5.70;561
+MN;87;;0100;U.S. Presidential Nominee;;0411;Tulsi Gabbard;;;DFL;30;30;1;0.18;561
+MN;87;;0100;U.S. Presidential Nominee;;0412;Michael R. Bloomberg;;;DFL;30;30;51;9.09;561
+MN;87;;0100;U.S. Presidential Nominee;;0413;Joseph Biden;;;DFL;30;30;266;47.42;561
+MN;87;;0100;U.S. Presidential Nominee;;0414;Uncommitted;;;DFL;30;30;9;1.60;561
+MN;87;;0100;U.S. Presidential Nominee;;0415;Cory Booker;;;DFL;30;30;0;0.00;561
+MN;87;;0100;U.S. Presidential Nominee;;0416;Michael Bennet;;;DFL;30;30;0;0.00;561

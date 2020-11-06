@@ -1,0 +1,1044 @@
+MN;01;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;54;54;13;100.00;13
+MN;01;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;54;54;9;100.00;9
+MN;01;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;54;54;101;6.83;1478
+MN;01;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;54;54;54;3.65;1478
+MN;01;;0102;U.S. Senator;;0303;James Reibestein;;;R;54;54;65;4.40;1478
+MN;01;;0102;U.S. Senator;;0304;Jason Lewis;;;R;54;54;1148;77.67;1478
+MN;01;;0102;U.S. Senator;;0305;John L. Berman;;;R;54;54;110;7.44;1478
+MN;01;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;54;54;11;0.81;1354
+MN;01;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;54;54;1198;88.48;1354
+MN;01;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;54;54;24;1.77;1354
+MN;01;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;54;54;51;3.77;1354
+MN;01;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;54;54;70;5.17;1354
+MN;02;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;128;128;430;100.00;430
+MN;02;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;128;128;126;100.00;126
+MN;02;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;128;128;971;5.96;16289
+MN;02;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;128;128;567;3.48;16289
+MN;02;;0102;U.S. Senator;;0303;James Reibestein;;;R;128;128;474;2.91;16289
+MN;02;;0102;U.S. Senator;;0304;Jason Lewis;;;R;128;128;13505;82.91;16289
+MN;02;;0102;U.S. Senator;;0305;John L. Berman;;;R;128;128;772;4.74;16289
+MN;02;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;128;128;383;1.43;26788
+MN;02;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;128;128;22658;84.58;26788
+MN;02;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;128;128;1262;4.71;26788
+MN;02;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;128;128;1510;5.64;26788
+MN;02;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;128;128;975;3.64;26788
+MN;03;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;48;48;27;100.00;27
+MN;03;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;48;48;11;100.00;11
+MN;03;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;48;48;204;11.27;1810
+MN;03;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;48;48;106;5.86;1810
+MN;03;;0102;U.S. Senator;;0303;James Reibestein;;;R;48;48;113;6.24;1810
+MN;03;;0102;U.S. Senator;;0304;Jason Lewis;;;R;48;48;1128;62.32;1810
+MN;03;;0102;U.S. Senator;;0305;John L. Berman;;;R;48;48;259;14.31;1810
+MN;03;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;48;48;7;0.48;1449
+MN;03;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;48;48;1246;85.99;1449
+MN;03;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;48;48;21;1.45;1449
+MN;03;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;48;48;60;4.14;1449
+MN;03;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;48;48;115;7.94;1449
+MN;04;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;63;63;76;100.00;76
+MN;04;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;63;63;48;100.00;48
+MN;04;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;63;63;187;7.52;2488
+MN;04;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;63;63;105;4.22;2488
+MN;04;;0102;U.S. Senator;;0303;James Reibestein;;;R;63;63;120;4.82;2488
+MN;04;;0102;U.S. Senator;;0304;Jason Lewis;;;R;63;63;1844;74.12;2488
+MN;04;;0102;U.S. Senator;;0305;John L. Berman;;;R;63;63;232;9.32;2488
+MN;04;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;63;63;57;1.73;3300
+MN;04;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;63;63;2752;83.39;3300
+MN;04;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;63;63;131;3.97;3300
+MN;04;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;63;63;180;5.45;3300
+MN;04;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;63;63;180;5.45;3300
+MN;05;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;27;27;30;100.00;30
+MN;05;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;27;27;22;100.00;22
+MN;05;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;27;27;181;8.54;2120
+MN;05;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;27;27;101;4.76;2120
+MN;05;;0102;U.S. Senator;;0303;James Reibestein;;;R;27;27;95;4.48;2120
+MN;05;;0102;U.S. Senator;;0304;Jason Lewis;;;R;27;27;1573;74.20;2120
+MN;05;;0102;U.S. Senator;;0305;John L. Berman;;;R;27;27;170;8.02;2120
+MN;05;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;27;27;18;1.22;1472
+MN;05;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;27;27;1242;84.38;1472
+MN;05;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;27;27;79;5.37;1472
+MN;05;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;27;27;80;5.43;1472
+MN;05;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;27;27;53;3.60;1472
+MN;06;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;23;23;6;100.00;6
+MN;06;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;23;23;3;100.00;3
+MN;06;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;23;23;47;9.33;504
+MN;06;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;23;23;18;3.57;504
+MN;06;;0102;U.S. Senator;;0303;James Reibestein;;;R;23;23;18;3.57;504
+MN;06;;0102;U.S. Senator;;0304;Jason Lewis;;;R;23;23;376;74.60;504
+MN;06;;0102;U.S. Senator;;0305;John L. Berman;;;R;23;23;45;8.93;504
+MN;06;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;23;23;3;0.58;520
+MN;06;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;23;23;455;87.50;520
+MN;06;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;23;23;9;1.73;520
+MN;06;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;23;23;15;2.88;520
+MN;06;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;23;23;38;7.31;520
+MN;07;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;54;54;142;100.00;142
+MN;07;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;54;54;55;100.00;55
+MN;07;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;54;54;287;9.21;3116
+MN;07;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;54;54;224;7.19;3116
+MN;07;;0102;U.S. Senator;;0303;James Reibestein;;;R;54;54;139;4.46;3116
+MN;07;;0102;U.S. Senator;;0304;Jason Lewis;;;R;54;54;2242;71.95;3116
+MN;07;;0102;U.S. Senator;;0305;John L. Berman;;;R;54;54;224;7.19;3116
+MN;07;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;54;54;42;0.91;4616
+MN;07;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;54;54;4045;87.63;4616
+MN;07;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;54;54;142;3.08;4616
+MN;07;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;54;54;261;5.65;4616
+MN;07;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;54;54;126;2.73;4616
+MN;08;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;32;32;27;100.00;27
+MN;08;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;32;32;17;100.00;17
+MN;08;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;32;32;228;9.79;2330
+MN;08;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;32;32;114;4.89;2330
+MN;08;;0102;U.S. Senator;;0303;James Reibestein;;;R;32;32;122;5.24;2330
+MN;08;;0102;U.S. Senator;;0304;Jason Lewis;;;R;32;32;1643;70.52;2330
+MN;08;;0102;U.S. Senator;;0305;John L. Berman;;;R;32;32;223;9.57;2330
+MN;08;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;32;32;9;0.53;1692
+MN;08;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;32;32;1509;89.18;1692
+MN;08;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;32;32;29;1.71;1692
+MN;08;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;32;32;69;4.08;1692
+MN;08;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;32;32;76;4.49;1692
+MN;09;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;38;38;39;100.00;39
+MN;09;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;38;38;36;100.00;36
+MN;09;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;38;38;162;9.75;1662
+MN;09;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;38;38;93;5.60;1662
+MN;09;;0102;U.S. Senator;;0303;James Reibestein;;;R;38;38;132;7.94;1662
+MN;09;;0102;U.S. Senator;;0304;Jason Lewis;;;R;38;38;1118;67.27;1662
+MN;09;;0102;U.S. Senator;;0305;John L. Berman;;;R;38;38;157;9.45;1662
+MN;09;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;38;38;21;0.73;2879
+MN;09;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;38;38;2574;89.41;2879
+MN;09;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;38;38;54;1.88;2879
+MN;09;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;38;38;116;4.03;2879
+MN;09;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;38;38;114;3.96;2879
+MN;10;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;35;35;65;100.00;65
+MN;10;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;35;35;24;100.00;24
+MN;10;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;35;35;732;9.45;7745
+MN;10;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;35;35;318;4.11;7745
+MN;10;;0102;U.S. Senator;;0303;James Reibestein;;;R;35;35;165;2.13;7745
+MN;10;;0102;U.S. Senator;;0304;Jason Lewis;;;R;35;35;6204;80.10;7745
+MN;10;;0102;U.S. Senator;;0305;John L. Berman;;;R;35;35;326;4.21;7745
+MN;10;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;35;35;74;1.00;7418
+MN;10;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;35;35;6605;89.04;7418
+MN;10;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;35;35;187;2.52;7418
+MN;10;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;35;35;407;5.49;7418
+MN;10;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;35;35;145;1.95;7418
+MN;11;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;73;73;48;100.00;48
+MN;11;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;73;73;58;100.00;58
+MN;11;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;73;73;210;6.27;3350
+MN;11;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;73;73;110;3.28;3350
+MN;11;;0102;U.S. Senator;;0303;James Reibestein;;;R;73;73;114;3.40;3350
+MN;11;;0102;U.S. Senator;;0304;Jason Lewis;;;R;73;73;2715;81.04;3350
+MN;11;;0102;U.S. Senator;;0305;John L. Berman;;;R;73;73;201;6.00;3350
+MN;11;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;73;73;17;0.79;2146
+MN;11;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;73;73;1946;90.68;2146
+MN;11;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;73;73;40;1.86;2146
+MN;11;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;73;73;74;3.45;2146
+MN;11;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;73;73;69;3.22;2146
+MN;12;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;25;25;10;100.00;10
+MN;12;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;25;25;5;100.00;5
+MN;12;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;25;25;69;8.25;836
+MN;12;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;25;25;18;2.15;836
+MN;12;;0102;U.S. Senator;;0303;James Reibestein;;;R;25;25;28;3.35;836
+MN;12;;0102;U.S. Senator;;0304;Jason Lewis;;;R;25;25;625;74.76;836
+MN;12;;0102;U.S. Senator;;0305;John L. Berman;;;R;25;25;96;11.48;836
+MN;12;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;25;25;9;1.23;729
+MN;12;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;25;25;632;86.69;729
+MN;12;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;25;25;12;1.65;729
+MN;12;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;25;25;32;4.39;729
+MN;12;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;25;25;44;6.04;729
+MN;13;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;23;23;43;100.00;43
+MN;13;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;23;23;27;100.00;27
+MN;13;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;23;23;154;5.86;2629
+MN;13;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;23;23;128;4.87;2629
+MN;13;;0102;U.S. Senator;;0303;James Reibestein;;;R;23;23;79;3.00;2629
+MN;13;;0102;U.S. Senator;;0304;Jason Lewis;;;R;23;23;2123;80.75;2629
+MN;13;;0102;U.S. Senator;;0305;John L. Berman;;;R;23;23;145;5.52;2629
+MN;13;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;23;23;34;1.26;2702
+MN;13;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;23;23;2426;89.79;2702
+MN;13;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;23;23;53;1.96;2702
+MN;13;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;23;23;109;4.03;2702
+MN;13;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;23;23;80;2.96;2702
+MN;14;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;58;58;42;100.00;42
+MN;14;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;58;58;21;100.00;21
+MN;14;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;58;58;165;10.02;1646
+MN;14;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;58;58;131;7.96;1646
+MN;14;;0102;U.S. Senator;;0303;James Reibestein;;;R;58;58;103;6.26;1646
+MN;14;;0102;U.S. Senator;;0304;Jason Lewis;;;R;58;58;1057;64.22;1646
+MN;14;;0102;U.S. Senator;;0305;John L. Berman;;;R;58;58;190;11.54;1646
+MN;14;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;58;58;40;1.03;3895
+MN;14;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;58;58;3358;86.21;3895
+MN;14;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;58;58;81;2.08;3895
+MN;14;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;58;58;233;5.98;3895
+MN;14;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;58;58;183;4.70;3895
+MN;15;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;29;29;10;100.00;10
+MN;15;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;29;29;9;100.00;9
+MN;15;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;29;29;73;11.18;653
+MN;15;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;29;29;35;5.36;653
+MN;15;;0102;U.S. Senator;;0303;James Reibestein;;;R;29;29;37;5.67;653
+MN;15;;0102;U.S. Senator;;0304;Jason Lewis;;;R;29;29;413;63.25;653
+MN;15;;0102;U.S. Senator;;0305;John L. Berman;;;R;29;29;95;14.55;653
+MN;15;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;29;29;5;1.53;326
+MN;15;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;29;29;267;81.90;326
+MN;15;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;29;29;8;2.45;326
+MN;15;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;29;29;22;6.75;326
+MN;15;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;29;29;24;7.36;326
+MN;16;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;13;13;16;100.00;16
+MN;16;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;13;13;19;100.00;19
+MN;16;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;13;13;69;11.52;599
+MN;16;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;13;13;41;6.84;599
+MN;16;;0102;U.S. Senator;;0303;James Reibestein;;;R;13;13;25;4.17;599
+MN;16;;0102;U.S. Senator;;0304;Jason Lewis;;;R;13;13;414;69.12;599
+MN;16;;0102;U.S. Senator;;0305;John L. Berman;;;R;13;13;50;8.35;599
+MN;16;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;13;13;16;1.13;1418
+MN;16;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;13;13;1274;89.84;1418
+MN;16;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;13;13;25;1.76;1418
+MN;16;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;13;13;80;5.64;1418
+MN;16;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;13;13;23;1.62;1418
+MN;17;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;29;29;4;100.00;4
+MN;17;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;29;29;3;100.00;3
+MN;17;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;29;29;48;9.86;487
+MN;17;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;29;29;19;3.90;487
+MN;17;;0102;U.S. Senator;;0303;James Reibestein;;;R;29;29;30;6.16;487
+MN;17;;0102;U.S. Senator;;0304;Jason Lewis;;;R;29;29;341;70.02;487
+MN;17;;0102;U.S. Senator;;0305;John L. Berman;;;R;29;29;49;10.06;487
+MN;17;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;29;29;1;0.34;293
+MN;17;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;29;29;261;89.08;293
+MN;17;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;29;29;9;3.07;293
+MN;17;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;29;29;14;4.78;293
+MN;17;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;29;29;8;2.73;293
+MN;18;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;62;62;43;100.00;43
+MN;18;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;62;62;33;100.00;33
+MN;18;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;62;62;355;6.92;5131
+MN;18;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;62;62;227;4.42;5131
+MN;18;;0102;U.S. Senator;;0303;James Reibestein;;;R;62;62;234;4.56;5131
+MN;18;;0102;U.S. Senator;;0304;Jason Lewis;;;R;62;62;3986;77.68;5131
+MN;18;;0102;U.S. Senator;;0305;John L. Berman;;;R;62;62;329;6.41;5131
+MN;18;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;62;62;22;0.57;3871
+MN;18;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;62;62;3527;91.11;3871
+MN;18;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;62;62;62;1.60;3871
+MN;18;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;62;62;137;3.54;3871
+MN;18;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;62;62;123;3.18;3871
+MN;19;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;141;141;643;100.00;643
+MN;19;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;141;141;340;100.00;340
+MN;19;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;141;141;610;3.89;15680
+MN;19;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;141;141;459;2.93;15680
+MN;19;;0102;U.S. Senator;;0303;James Reibestein;;;R;141;141;299;1.91;15680
+MN;19;;0102;U.S. Senator;;0304;Jason Lewis;;;R;141;141;13876;88.49;15680
+MN;19;;0102;U.S. Senator;;0305;John L. Berman;;;R;141;141;436;2.78;15680
+MN;19;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;141;141;384;1.02;37487
+MN;19;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;141;141;33181;88.51;37487
+MN;19;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;141;141;1108;2.96;37487
+MN;19;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;141;141;2067;5.51;37487
+MN;19;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;141;141;747;1.99;37487
+MN;20;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;22;22;33;100.00;33
+MN;20;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;22;22;9;100.00;9
+MN;20;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;22;22;52;7.66;679
+MN;20;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;22;22;40;5.89;679
+MN;20;;0102;U.S. Senator;;0303;James Reibestein;;;R;22;22;38;5.60;679
+MN;20;;0102;U.S. Senator;;0304;Jason Lewis;;;R;22;22;478;70.40;679
+MN;20;;0102;U.S. Senator;;0305;John L. Berman;;;R;22;22;71;10.46;679
+MN;20;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;22;22;10;1.43;697
+MN;20;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;22;22;600;86.08;697
+MN;20;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;22;22;17;2.44;697
+MN;20;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;22;22;38;5.45;697
+MN;20;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;22;22;32;4.59;697
+MN;21;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;37;37;55;100.00;55
+MN;21;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;37;37;20;100.00;20
+MN;21;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;37;37;252;7.39;3410
+MN;21;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;37;37;103;3.02;3410
+MN;21;;0102;U.S. Senator;;0303;James Reibestein;;;R;37;37;134;3.93;3410
+MN;21;;0102;U.S. Senator;;0304;Jason Lewis;;;R;37;37;2673;78.39;3410
+MN;21;;0102;U.S. Senator;;0305;John L. Berman;;;R;37;37;248;7.27;3410
+MN;21;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;37;37;28;1.04;2680
+MN;21;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;37;37;2374;88.58;2680
+MN;21;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;37;37;46;1.72;2680
+MN;21;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;37;37;113;4.22;2680
+MN;21;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;37;37;119;4.44;2680
+MN;22;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;33;33;15;100.00;15
+MN;22;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;33;33;10;100.00;10
+MN;22;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;33;33;140;11.26;1243
+MN;22;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;33;33;78;6.28;1243
+MN;22;;0102;U.S. Senator;;0303;James Reibestein;;;R;33;33;67;5.39;1243
+MN;22;;0102;U.S. Senator;;0304;Jason Lewis;;;R;33;33;845;67.98;1243
+MN;22;;0102;U.S. Senator;;0305;John L. Berman;;;R;33;33;113;9.09;1243
+MN;22;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;33;33;9;1.65;547
+MN;22;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;33;33;472;86.29;547
+MN;22;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;33;33;13;2.38;547
+MN;22;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;33;33;25;4.57;547
+MN;22;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;33;33;28;5.12;547
+MN;23;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;37;37;47;100.00;47
+MN;23;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;37;37;12;100.00;12
+MN;23;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;37;37;92;12.12;759
+MN;23;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;37;37;67;8.83;759
+MN;23;;0102;U.S. Senator;;0303;James Reibestein;;;R;37;37;44;5.80;759
+MN;23;;0102;U.S. Senator;;0304;Jason Lewis;;;R;37;37;467;61.53;759
+MN;23;;0102;U.S. Senator;;0305;John L. Berman;;;R;37;37;89;11.73;759
+MN;23;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;37;37;11;0.98;1125
+MN;23;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;37;37;969;86.13;1125
+MN;23;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;37;37;13;1.16;1125
+MN;23;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;37;37;68;6.04;1125
+MN;23;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;37;37;64;5.69;1125
+MN;24;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;41;41;38;100.00;38
+MN;24;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;41;41;14;100.00;14
+MN;24;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;41;41;205;12.85;1595
+MN;24;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;41;41;105;6.58;1595
+MN;24;;0102;U.S. Senator;;0303;James Reibestein;;;R;41;41;91;5.71;1595
+MN;24;;0102;U.S. Senator;;0304;Jason Lewis;;;R;41;41;1008;63.20;1595
+MN;24;;0102;U.S. Senator;;0305;John L. Berman;;;R;41;41;186;11.66;1595
+MN;24;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;41;41;27;1.23;2194
+MN;24;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;41;41;1888;86.05;2194
+MN;24;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;41;41;43;1.96;2194
+MN;24;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;41;41;110;5.01;2194
+MN;24;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;41;41;126;5.74;2194
+MN;25;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;40;40;125;100.00;125
+MN;25;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;40;40;51;100.00;51
+MN;25;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;40;40;105;4.03;2606
+MN;25;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;40;40;77;2.95;2606
+MN;25;;0102;U.S. Senator;;0303;James Reibestein;;;R;40;40;56;2.15;2606
+MN;25;;0102;U.S. Senator;;0304;Jason Lewis;;;R;40;40;2266;86.95;2606
+MN;25;;0102;U.S. Senator;;0305;John L. Berman;;;R;40;40;102;3.91;2606
+MN;25;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;40;40;30;0.84;3580
+MN;25;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;40;40;3175;88.69;3580
+MN;25;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;40;40;75;2.09;3580
+MN;25;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;40;40;165;4.61;3580
+MN;25;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;40;40;135;3.77;3580
+MN;26;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;23;23;15;100.00;15
+MN;26;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;23;23;3;100.00;3
+MN;26;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;23;23;46;8.80;523
+MN;26;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;23;23;17;3.25;523
+MN;26;;0102;U.S. Senator;;0303;James Reibestein;;;R;23;23;18;3.44;523
+MN;26;;0102;U.S. Senator;;0304;Jason Lewis;;;R;23;23;407;77.82;523
+MN;26;;0102;U.S. Senator;;0305;John L. Berman;;;R;23;23;35;6.69;523
+MN;26;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;23;23;1;0.19;525
+MN;26;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;23;23;459;87.43;525
+MN;26;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;23;23;4;0.76;525
+MN;26;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;23;23;19;3.62;525
+MN;26;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;23;23;42;8.00;525
+MN;27;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;425;425;1568;100.00;1568
+MN;27;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;425;425;436;100.00;436
+MN;27;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;425;425;2157;5.62;38374
+MN;27;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;425;425;1393;3.63;38374
+MN;27;;0102;U.S. Senator;;0303;James Reibestein;;;R;425;425;948;2.47;38374
+MN;27;;0102;U.S. Senator;;0304;Jason Lewis;;;R;425;425;32369;84.35;38374
+MN;27;;0102;U.S. Senator;;0305;John L. Berman;;;R;425;425;1507;3.93;38374
+MN;27;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;425;425;2730;1.18;232128
+MN;27;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;425;425;200887;86.54;232128
+MN;27;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;425;425;9927;4.28;232128
+MN;27;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;425;425;12496;5.38;232128
+MN;27;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;425;425;6088;2.62;232128
+MN;28;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;27;27;64;100.00;64
+MN;28;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;27;27;23;100.00;23
+MN;28;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;27;27;133;14.21;936
+MN;28;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;27;27;78;8.33;936
+MN;28;;0102;U.S. Senator;;0303;James Reibestein;;;R;27;27;46;4.91;936
+MN;28;;0102;U.S. Senator;;0304;Jason Lewis;;;R;27;27;583;62.29;936
+MN;28;;0102;U.S. Senator;;0305;John L. Berman;;;R;27;27;96;10.26;936
+MN;28;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;27;27;16;1.20;1335
+MN;28;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;27;27;1041;77.98;1335
+MN;28;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;27;27;38;2.85;1335
+MN;28;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;27;27;117;8.76;1335
+MN;28;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;27;27;123;9.21;1335
+MN;29;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;38;38;32;100.00;32
+MN;29;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;38;38;17;100.00;17
+MN;29;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;38;38;129;8.38;1540
+MN;29;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;38;38;59;3.83;1540
+MN;29;;0102;U.S. Senator;;0303;James Reibestein;;;R;38;38;74;4.81;1540
+MN;29;;0102;U.S. Senator;;0304;Jason Lewis;;;R;38;38;1169;75.91;1540
+MN;29;;0102;U.S. Senator;;0305;John L. Berman;;;R;38;38;109;7.08;1540
+MN;29;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;38;38;11;0.75;1469
+MN;29;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;38;38;1344;91.49;1469
+MN;29;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;38;38;19;1.29;1469
+MN;29;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;38;38;43;2.93;1469
+MN;29;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;38;38;52;3.54;1469
+MN;30;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;19;19;44;100.00;44
+MN;30;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;19;19;19;100.00;19
+MN;30;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;19;19;114;6.10;1869
+MN;30;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;19;19;85;4.55;1869
+MN;30;;0102;U.S. Senator;;0303;James Reibestein;;;R;19;19;81;4.33;1869
+MN;30;;0102;U.S. Senator;;0304;Jason Lewis;;;R;19;19;1475;78.92;1869
+MN;30;;0102;U.S. Senator;;0305;John L. Berman;;;R;19;19;114;6.10;1869
+MN;30;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;19;19;20;1.27;1579
+MN;30;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;19;19;1401;88.73;1579
+MN;30;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;19;19;30;1.90;1579
+MN;30;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;19;19;85;5.38;1579
+MN;30;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;19;19;43;2.72;1579
+MN;31;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;76;76;49;100.00;49
+MN;31;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;76;76;70;100.00;70
+MN;31;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;76;76;311;10.15;3064
+MN;31;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;76;76;189;6.17;3064
+MN;31;;0102;U.S. Senator;;0303;James Reibestein;;;R;76;76;169;5.52;3064
+MN;31;;0102;U.S. Senator;;0304;Jason Lewis;;;R;76;76;2077;67.79;3064
+MN;31;;0102;U.S. Senator;;0305;John L. Berman;;;R;76;76;318;10.38;3064
+MN;31;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;76;76;35;0.90;3885
+MN;31;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;76;76;3523;90.68;3885
+MN;31;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;76;76;41;1.06;3885
+MN;31;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;76;76;144;3.71;3885
+MN;31;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;76;76;142;3.66;3885
+MN;32;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;28;28;5;100.00;5
+MN;32;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;28;28;9;100.00;9
+MN;32;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;28;28;73;10.41;701
+MN;32;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;28;28;28;3.99;701
+MN;32;;0102;U.S. Senator;;0303;James Reibestein;;;R;28;28;28;3.99;701
+MN;32;;0102;U.S. Senator;;0304;Jason Lewis;;;R;28;28;510;72.75;701
+MN;32;;0102;U.S. Senator;;0305;John L. Berman;;;R;28;28;62;8.84;701
+MN;32;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;28;28;5;1.29;387
+MN;32;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;28;28;336;86.82;387
+MN;32;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;28;28;10;2.58;387
+MN;32;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;28;28;17;4.39;387
+MN;32;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;28;28;19;4.91;387
+MN;33;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;20;20;20;100.00;20
+MN;33;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;20;20;17;100.00;17
+MN;33;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;20;20;43;4.63;929
+MN;33;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;20;20;42;4.52;929
+MN;33;;0102;U.S. Senator;;0303;James Reibestein;;;R;20;20;39;4.20;929
+MN;33;;0102;U.S. Senator;;0304;Jason Lewis;;;R;20;20;756;81.38;929
+MN;33;;0102;U.S. Senator;;0305;John L. Berman;;;R;20;20;49;5.27;929
+MN;33;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;20;20;11;1.51;730
+MN;33;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;20;20;637;87.26;730
+MN;33;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;20;20;9;1.23;730
+MN;33;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;20;20;40;5.48;730
+MN;33;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;20;20;33;4.52;730
+MN;34;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;48;48;38;100.00;38
+MN;34;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;48;48;18;100.00;18
+MN;34;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;48;48;130;6.16;2109
+MN;34;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;48;48;88;4.17;2109
+MN;34;;0102;U.S. Senator;;0303;James Reibestein;;;R;48;48;102;4.84;2109
+MN;34;;0102;U.S. Senator;;0304;Jason Lewis;;;R;48;48;1566;74.25;2109
+MN;34;;0102;U.S. Senator;;0305;John L. Berman;;;R;48;48;223;10.57;2109
+MN;34;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;48;48;19;0.95;2008
+MN;34;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;48;48;1768;88.05;2008
+MN;34;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;48;48;58;2.89;2008
+MN;34;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;48;48;67;3.34;2008
+MN;34;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;48;48;96;4.78;2008
+MN;35;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;39;39;5;100.00;5
+MN;35;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;39;39;2;100.00;2
+MN;35;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;39;39;45;10.71;420
+MN;35;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;39;39;22;5.24;420
+MN;35;;0102;U.S. Senator;;0303;James Reibestein;;;R;39;39;15;3.57;420
+MN;35;;0102;U.S. Senator;;0304;Jason Lewis;;;R;39;39;271;64.52;420
+MN;35;;0102;U.S. Senator;;0305;John L. Berman;;;R;39;39;67;15.95;420
+MN;35;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;39;39;11;2.31;477
+MN;35;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;39;39;413;86.58;477
+MN;35;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;39;39;8;1.68;477
+MN;35;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;39;39;20;4.19;477
+MN;35;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;39;39;25;5.24;477
+MN;36;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;22;22;14;100.00;14
+MN;36;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;22;22;8;100.00;8
+MN;36;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;22;22;93;12.09;769
+MN;36;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;22;22;56;7.28;769
+MN;36;;0102;U.S. Senator;;0303;James Reibestein;;;R;22;22;40;5.20;769
+MN;36;;0102;U.S. Senator;;0304;Jason Lewis;;;R;22;22;501;65.15;769
+MN;36;;0102;U.S. Senator;;0305;John L. Berman;;;R;22;22;79;10.27;769
+MN;36;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;22;22;8;0.94;848
+MN;36;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;22;22;783;92.33;848
+MN;36;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;22;22;9;1.06;848
+MN;36;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;22;22;22;2.59;848
+MN;36;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;22;22;26;3.07;848
+MN;37;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;29;29;1;100.00;1
+MN;37;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;29;29;0;0.00;0
+MN;37;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;29;29;41;8.02;511
+MN;37;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;29;29;20;3.91;511
+MN;37;;0102;U.S. Senator;;0303;James Reibestein;;;R;29;29;18;3.52;511
+MN;37;;0102;U.S. Senator;;0304;Jason Lewis;;;R;29;29;396;77.50;511
+MN;37;;0102;U.S. Senator;;0305;John L. Berman;;;R;29;29;36;7.05;511
+MN;37;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;29;29;5;0.97;517
+MN;37;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;29;29;448;86.65;517
+MN;37;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;29;29;12;2.32;517
+MN;37;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;29;29;20;3.87;517
+MN;37;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;29;29;32;6.19;517
+MN;38;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;19;19;16;100.00;16
+MN;38;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;19;19;14;100.00;14
+MN;38;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;19;19;67;11.59;578
+MN;38;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;19;19;42;7.27;578
+MN;38;;0102;U.S. Senator;;0303;James Reibestein;;;R;19;19;54;9.34;578
+MN;38;;0102;U.S. Senator;;0304;Jason Lewis;;;R;19;19;366;63.32;578
+MN;38;;0102;U.S. Senator;;0305;John L. Berman;;;R;19;19;49;8.48;578
+MN;38;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;19;19;9;0.74;1223
+MN;38;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;19;19;1096;89.62;1223
+MN;38;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;19;19;15;1.23;1223
+MN;38;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;19;19;68;5.56;1223
+MN;38;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;19;19;35;2.86;1223
+MN;39;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;17;17;11;100.00;11
+MN;39;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;17;17;5;100.00;5
+MN;39;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;17;17;67;12.41;540
+MN;39;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;17;17;31;5.74;540
+MN;39;;0102;U.S. Senator;;0303;James Reibestein;;;R;17;17;20;3.70;540
+MN;39;;0102;U.S. Senator;;0304;Jason Lewis;;;R;17;17;357;66.11;540
+MN;39;;0102;U.S. Senator;;0305;John L. Berman;;;R;17;17;65;12.04;540
+MN;39;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;17;17;6;1.86;322
+MN;39;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;17;17;259;80.43;322
+MN;39;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;17;17;1;0.31;322
+MN;39;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;17;17;21;6.52;322
+MN;39;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;17;17;35;10.87;322
+MN;40;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;26;26;57;100.00;57
+MN;40;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;26;26;18;100.00;18
+MN;40;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;26;26;89;6.22;1432
+MN;40;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;26;26;48;3.35;1432
+MN;40;;0102;U.S. Senator;;0303;James Reibestein;;;R;26;26;27;1.89;1432
+MN;40;;0102;U.S. Senator;;0304;Jason Lewis;;;R;26;26;1197;83.59;1432
+MN;40;;0102;U.S. Senator;;0305;John L. Berman;;;R;26;26;71;4.96;1432
+MN;40;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;26;26;9;0.67;1353
+MN;40;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;26;26;1215;89.80;1353
+MN;40;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;26;26;22;1.63;1353
+MN;40;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;26;26;66;4.88;1353
+MN;40;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;26;26;41;3.03;1353
+MN;41;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;20;20;7;100.00;7
+MN;41;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;20;20;4;100.00;4
+MN;41;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;20;20;30;9.74;308
+MN;41;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;20;20;21;6.82;308
+MN;41;;0102;U.S. Senator;;0303;James Reibestein;;;R;20;20;25;8.12;308
+MN;41;;0102;U.S. Senator;;0304;Jason Lewis;;;R;20;20;180;58.44;308
+MN;41;;0102;U.S. Senator;;0305;John L. Berman;;;R;20;20;52;16.88;308
+MN;41;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;20;20;5;2.59;193
+MN;41;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;20;20;149;77.20;193
+MN;41;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;20;20;3;1.55;193
+MN;41;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;20;20;14;7.25;193
+MN;41;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;20;20;22;11.40;193
+MN;42;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;33;33;20;100.00;20
+MN;42;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;33;33;9;100.00;9
+MN;42;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;33;33;98;7.10;1380
+MN;42;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;33;33;46;3.33;1380
+MN;42;;0102;U.S. Senator;;0303;James Reibestein;;;R;33;33;71;5.14;1380
+MN;42;;0102;U.S. Senator;;0304;Jason Lewis;;;R;33;33;1037;75.14;1380
+MN;42;;0102;U.S. Senator;;0305;John L. Berman;;;R;33;33;128;9.28;1380
+MN;42;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;33;33;16;1.43;1116
+MN;42;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;33;33;968;86.74;1116
+MN;42;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;33;33;31;2.78;1116
+MN;42;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;33;33;46;4.12;1116
+MN;42;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;33;33;55;4.93;1116
+MN;43;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;28;28;41;100.00;41
+MN;43;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;28;28;25;100.00;25
+MN;43;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;28;28;162;5.77;2808
+MN;43;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;28;28;104;3.70;2808
+MN;43;;0102;U.S. Senator;;0303;James Reibestein;;;R;28;28;92;3.28;2808
+MN;43;;0102;U.S. Senator;;0304;Jason Lewis;;;R;28;28;2255;80.31;2808
+MN;43;;0102;U.S. Senator;;0305;John L. Berman;;;R;28;28;195;6.94;2808
+MN;43;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;28;28;18;1.11;1624
+MN;43;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;28;28;1364;83.99;1624
+MN;43;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;28;28;54;3.33;1624
+MN;43;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;28;28;90;5.54;1624
+MN;43;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;28;28;98;6.03;1624
+MN;44;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;19;19;2;100.00;2
+MN;44;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;19;19;3;100.00;3
+MN;44;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;19;19;23;10.36;222
+MN;44;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;19;19;10;4.50;222
+MN;44;;0102;U.S. Senator;;0303;James Reibestein;;;R;19;19;18;8.11;222
+MN;44;;0102;U.S. Senator;;0304;Jason Lewis;;;R;19;19;128;57.66;222
+MN;44;;0102;U.S. Senator;;0305;John L. Berman;;;R;19;19;43;19.37;222
+MN;44;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;19;19;5;1.66;302
+MN;44;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;19;19;252;83.44;302
+MN;44;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;19;19;3;0.99;302
+MN;44;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;19;19;13;4.30;302
+MN;44;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;19;19;29;9.60;302
+MN;45;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;60;60;9;100.00;9
+MN;45;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;60;60;0;0.00;0
+MN;45;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;60;60;93;9.20;1011
+MN;45;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;60;60;30;2.97;1011
+MN;45;;0102;U.S. Senator;;0303;James Reibestein;;;R;60;60;34;3.36;1011
+MN;45;;0102;U.S. Senator;;0304;Jason Lewis;;;R;60;60;682;67.46;1011
+MN;45;;0102;U.S. Senator;;0305;John L. Berman;;;R;60;60;172;17.01;1011
+MN;45;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;60;60;5;0.85;590
+MN;45;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;60;60;494;83.73;590
+MN;45;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;60;60;5;0.85;590
+MN;45;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;60;60;38;6.44;590
+MN;45;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;60;60;48;8.14;590
+MN;46;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;37;37;17;100.00;17
+MN;46;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;37;37;3;100.00;3
+MN;46;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;37;37;213;10.54;2020
+MN;46;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;37;37;127;6.29;2020
+MN;46;;0102;U.S. Senator;;0303;James Reibestein;;;R;37;37;98;4.85;2020
+MN;46;;0102;U.S. Senator;;0304;Jason Lewis;;;R;37;37;1391;68.86;2020
+MN;46;;0102;U.S. Senator;;0305;John L. Berman;;;R;37;37;191;9.46;2020
+MN;46;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;37;37;7;0.94;743
+MN;46;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;37;37;657;88.43;743
+MN;46;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;37;37;18;2.42;743
+MN;46;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;37;37;28;3.77;743
+MN;46;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;37;37;33;4.44;743
+MN;47;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;30;30;25;100.00;25
+MN;47;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;30;30;12;100.00;12
+MN;47;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;30;30;118;7.02;1682
+MN;47;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;30;30;52;3.09;1682
+MN;47;;0102;U.S. Senator;;0303;James Reibestein;;;R;30;30;58;3.45;1682
+MN;47;;0102;U.S. Senator;;0304;Jason Lewis;;;R;30;30;1301;77.35;1682
+MN;47;;0102;U.S. Senator;;0305;John L. Berman;;;R;30;30;153;9.10;1682
+MN;47;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;30;30;10;0.91;1103
+MN;47;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;30;30;947;85.86;1103
+MN;47;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;30;30;23;2.09;1103
+MN;47;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;30;30;41;3.72;1103
+MN;47;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;30;30;82;7.43;1103
+MN;48;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;25;25;25;100.00;25
+MN;48;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;25;25;16;100.00;16
+MN;48;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;25;25;77;6.78;1136
+MN;48;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;25;25;52;4.58;1136
+MN;48;;0102;U.S. Senator;;0303;James Reibestein;;;R;25;25;63;5.55;1136
+MN;48;;0102;U.S. Senator;;0304;Jason Lewis;;;R;25;25;882;77.64;1136
+MN;48;;0102;U.S. Senator;;0305;John L. Berman;;;R;25;25;62;5.46;1136
+MN;48;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;25;25;13;1.55;837
+MN;48;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;25;25;710;84.83;837
+MN;48;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;25;25;23;2.75;837
+MN;48;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;25;25;40;4.78;837
+MN;48;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;25;25;51;6.09;837
+MN;49;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;48;48;28;100.00;28
+MN;49;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;48;48;20;100.00;20
+MN;49;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;48;48;269;8.36;3216
+MN;49;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;48;48;131;4.07;3216
+MN;49;;0102;U.S. Senator;;0303;James Reibestein;;;R;48;48;174;5.41;3216
+MN;49;;0102;U.S. Senator;;0304;Jason Lewis;;;R;48;48;2404;74.75;3216
+MN;49;;0102;U.S. Senator;;0305;John L. Berman;;;R;48;48;238;7.40;3216
+MN;49;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;48;48;15;1.16;1295
+MN;49;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;48;48;1117;86.25;1295
+MN;49;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;48;48;35;2.70;1295
+MN;49;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;48;48;64;4.94;1295
+MN;49;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;48;48;64;4.94;1295
+MN;50;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;40;40;87;100.00;87
+MN;50;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;40;40;37;100.00;37
+MN;50;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;40;40;156;11.48;1359
+MN;50;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;40;40;104;7.65;1359
+MN;50;;0102;U.S. Senator;;0303;James Reibestein;;;R;40;40;70;5.15;1359
+MN;50;;0102;U.S. Senator;;0304;Jason Lewis;;;R;40;40;878;64.61;1359
+MN;50;;0102;U.S. Senator;;0305;John L. Berman;;;R;40;40;151;11.11;1359
+MN;50;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;40;40;20;0.88;2278
+MN;50;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;40;40;1963;86.17;2278
+MN;50;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;40;40;50;2.19;2278
+MN;50;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;40;40;110;4.83;2278
+MN;50;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;40;40;135;5.93;2278
+MN;51;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;29;29;8;100.00;8
+MN;51;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;29;29;7;100.00;7
+MN;51;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;29;29;78;10.09;773
+MN;51;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;29;29;39;5.05;773
+MN;51;;0102;U.S. Senator;;0303;James Reibestein;;;R;29;29;44;5.69;773
+MN;51;;0102;U.S. Senator;;0304;Jason Lewis;;;R;29;29;529;68.43;773
+MN;51;;0102;U.S. Senator;;0305;John L. Berman;;;R;29;29;83;10.74;773
+MN;51;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;29;29;6;1.23;487
+MN;51;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;29;29;396;81.31;487
+MN;51;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;29;29;6;1.23;487
+MN;51;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;29;29;34;6.98;487
+MN;51;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;29;29;45;9.24;487
+MN;52;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;28;28;73;100.00;73
+MN;52;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;28;28;23;100.00;23
+MN;52;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;28;28;112;8.21;1364
+MN;52;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;28;28;71;5.21;1364
+MN;52;;0102;U.S. Senator;;0303;James Reibestein;;;R;28;28;65;4.77;1364
+MN;52;;0102;U.S. Senator;;0304;Jason Lewis;;;R;28;28;1016;74.49;1364
+MN;52;;0102;U.S. Senator;;0305;John L. Berman;;;R;28;28;100;7.33;1364
+MN;52;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;28;28;17;0.62;2722
+MN;52;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;28;28;2463;90.48;2722
+MN;52;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;28;28;81;2.98;2722
+MN;52;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;28;28;92;3.38;2722
+MN;52;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;28;28;69;2.53;2722
+MN;53;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;40;40;17;100.00;17
+MN;53;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;40;40;12;100.00;12
+MN;53;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;40;40;91;11.11;819
+MN;53;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;40;40;47;5.74;819
+MN;53;;0102;U.S. Senator;;0303;James Reibestein;;;R;40;40;41;5.01;819
+MN;53;;0102;U.S. Senator;;0304;Jason Lewis;;;R;40;40;545;66.54;819
+MN;53;;0102;U.S. Senator;;0305;John L. Berman;;;R;40;40;95;11.60;819
+MN;53;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;40;40;7;1.41;497
+MN;53;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;40;40;406;81.69;497
+MN;53;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;40;40;15;3.02;497
+MN;53;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;40;40;33;6.64;497
+MN;53;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;40;40;36;7.24;497
+MN;54;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;33;33;7;100.00;7
+MN;54;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;33;33;4;100.00;4
+MN;54;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;33;33;28;8.28;338
+MN;54;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;33;33;16;4.73;338
+MN;54;;0102;U.S. Senator;;0303;James Reibestein;;;R;33;33;22;6.51;338
+MN;54;;0102;U.S. Senator;;0304;Jason Lewis;;;R;33;33;235;69.53;338
+MN;54;;0102;U.S. Senator;;0305;John L. Berman;;;R;33;33;37;10.95;338
+MN;54;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;33;33;3;0.59;507
+MN;54;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;33;33;413;81.46;507
+MN;54;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;33;33;2;0.39;507
+MN;54;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;33;33;45;8.88;507
+MN;54;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;33;33;44;8.68;507
+MN;55;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;84;84;267;100.00;267
+MN;55;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;84;84;105;100.00;105
+MN;55;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;84;84;566;8.86;6391
+MN;55;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;84;84;366;5.73;6391
+MN;55;;0102;U.S. Senator;;0303;James Reibestein;;;R;84;84;269;4.21;6391
+MN;55;;0102;U.S. Senator;;0304;Jason Lewis;;;R;84;84;4663;72.96;6391
+MN;55;;0102;U.S. Senator;;0305;John L. Berman;;;R;84;84;527;8.25;6391
+MN;55;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;84;84;101;0.68;14745
+MN;55;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;84;84;13116;88.95;14745
+MN;55;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;84;84;352;2.39;14745
+MN;55;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;84;84;833;5.65;14745
+MN;55;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;84;84;343;2.33;14745
+MN;56;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;92;92;52;100.00;52
+MN;56;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;92;92;31;100.00;31
+MN;56;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;92;92;503;11.43;4400
+MN;56;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;92;92;306;6.95;4400
+MN;56;;0102;U.S. Senator;;0303;James Reibestein;;;R;92;92;349;7.93;4400
+MN;56;;0102;U.S. Senator;;0304;Jason Lewis;;;R;92;92;2564;58.27;4400
+MN;56;;0102;U.S. Senator;;0305;John L. Berman;;;R;92;92;678;15.41;4400
+MN;56;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;92;92;37;1.21;3046
+MN;56;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;92;92;2570;84.37;3046
+MN;56;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;92;92;68;2.23;3046
+MN;56;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;92;92;168;5.52;3046
+MN;56;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;92;92;203;6.66;3046
+MN;57;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;31;31;10;100.00;10
+MN;57;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;31;31;8;100.00;8
+MN;57;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;31;31;60;10.42;576
+MN;57;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;31;31;23;3.99;576
+MN;57;;0102;U.S. Senator;;0303;James Reibestein;;;R;31;31;38;6.60;576
+MN;57;;0102;U.S. Senator;;0304;Jason Lewis;;;R;31;31;335;58.16;576
+MN;57;;0102;U.S. Senator;;0305;John L. Berman;;;R;31;31;120;20.83;576
+MN;57;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;31;31;8;1.52;525
+MN;57;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;31;31;440;83.81;525
+MN;57;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;31;31;9;1.71;525
+MN;57;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;31;31;38;7.24;525
+MN;57;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;31;31;30;5.71;525
+MN;58;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;48;48;36;100.00;36
+MN;58;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;48;48;27;100.00;27
+MN;58;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;48;48;94;5.78;1627
+MN;58;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;48;48;49;3.01;1627
+MN;58;;0102;U.S. Senator;;0303;James Reibestein;;;R;48;48;66;4.06;1627
+MN;58;;0102;U.S. Senator;;0304;Jason Lewis;;;R;48;48;1347;82.79;1627
+MN;58;;0102;U.S. Senator;;0305;John L. Berman;;;R;48;48;71;4.36;1627
+MN;58;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;48;48;17;1.15;1482
+MN;58;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;48;48;1291;87.11;1482
+MN;58;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;48;48;26;1.75;1482
+MN;58;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;48;48;78;5.26;1482
+MN;58;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;48;48;70;4.72;1482
+MN;59;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;22;22;9;100.00;9
+MN;59;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;22;22;8;100.00;8
+MN;59;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;22;22;59;8.49;695
+MN;59;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;22;22;28;4.03;695
+MN;59;;0102;U.S. Senator;;0303;James Reibestein;;;R;22;22;50;7.19;695
+MN;59;;0102;U.S. Senator;;0304;Jason Lewis;;;R;22;22;458;65.90;695
+MN;59;;0102;U.S. Senator;;0305;John L. Berman;;;R;22;22;100;14.39;695
+MN;59;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;22;22;5;1.71;293
+MN;59;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;22;22;231;78.84;293
+MN;59;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;22;22;5;1.71;293
+MN;59;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;22;22;16;5.46;293
+MN;59;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;22;22;36;12.29;293
+MN;60;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;82;82;37;100.00;37
+MN;60;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;82;82;20;100.00;20
+MN;60;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;82;82;205;10.43;1966
+MN;60;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;82;82;100;5.09;1966
+MN;60;;0102;U.S. Senator;;0303;James Reibestein;;;R;82;82;82;4.17;1966
+MN;60;;0102;U.S. Senator;;0304;Jason Lewis;;;R;82;82;1298;66.02;1966
+MN;60;;0102;U.S. Senator;;0305;John L. Berman;;;R;82;82;281;14.29;1966
+MN;60;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;82;82;22;1.08;2039
+MN;60;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;82;82;1672;82.00;2039
+MN;60;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;82;82;38;1.86;2039
+MN;60;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;82;82;119;5.84;2039
+MN;60;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;82;82;188;9.22;2039
+MN;61;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;31;31;10;100.00;10
+MN;61;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;31;31;3;100.00;3
+MN;61;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;31;31;51;7.08;720
+MN;61;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;31;31;17;2.36;720
+MN;61;;0102;U.S. Senator;;0303;James Reibestein;;;R;31;31;36;5.00;720
+MN;61;;0102;U.S. Senator;;0304;Jason Lewis;;;R;31;31;552;76.67;720
+MN;61;;0102;U.S. Senator;;0305;John L. Berman;;;R;31;31;64;8.89;720
+MN;61;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;31;31;8;1.19;674
+MN;61;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;31;31;594;88.13;674
+MN;61;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;31;31;17;2.52;674
+MN;61;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;31;31;24;3.56;674
+MN;61;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;31;31;31;4.60;674
+MN;62;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;169;169;643;100.00;643
+MN;62;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;169;169;525;100.00;525
+MN;62;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;169;169;841;6.38;13191
+MN;62;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;169;169;670;5.08;13191
+MN;62;;0102;U.S. Senator;;0303;James Reibestein;;;R;169;169;442;3.35;13191
+MN;62;;0102;U.S. Senator;;0304;Jason Lewis;;;R;169;169;10632;80.60;13191
+MN;62;;0102;U.S. Senator;;0305;John L. Berman;;;R;169;169;606;4.59;13191
+MN;62;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;169;169;1048;1.35;77711
+MN;62;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;169;169;68252;87.83;77711
+MN;62;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;169;169;2610;3.36;77711
+MN;62;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;169;169;4517;5.81;77711
+MN;62;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;169;169;1284;1.65;77711
+MN;63;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;21;21;6;100.00;6
+MN;63;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;21;21;2;100.00;2
+MN;63;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;21;21;20;8.00;250
+MN;63;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;21;21;9;3.60;250
+MN;63;;0102;U.S. Senator;;0303;James Reibestein;;;R;21;21;23;9.20;250
+MN;63;;0102;U.S. Senator;;0304;Jason Lewis;;;R;21;21;158;63.20;250
+MN;63;;0102;U.S. Senator;;0305;John L. Berman;;;R;21;21;40;16.00;250
+MN;63;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;21;21;1;0.39;254
+MN;63;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;21;21;213;83.86;254
+MN;63;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;21;21;3;1.18;254
+MN;63;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;21;21;16;6.30;254
+MN;63;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;21;21;21;8.27;254
+MN;64;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;43;43;12;100.00;12
+MN;64;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;43;43;5;100.00;5
+MN;64;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;43;43;77;8.43;913
+MN;64;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;43;43;23;2.52;913
+MN;64;;0102;U.S. Senator;;0303;James Reibestein;;;R;43;43;56;6.13;913
+MN;64;;0102;U.S. Senator;;0304;Jason Lewis;;;R;43;43;653;71.52;913
+MN;64;;0102;U.S. Senator;;0305;John L. Berman;;;R;43;43;104;11.39;913
+MN;64;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;43;43;3;0.72;416
+MN;64;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;43;43;351;84.38;416
+MN;64;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;43;43;11;2.64;416
+MN;64;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;43;43;28;6.73;416
+MN;64;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;43;43;23;5.53;416
+MN;65;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;38;38;31;100.00;31
+MN;65;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;38;38;2;100.00;2
+MN;65;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;38;38;99;9.31;1063
+MN;65;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;38;38;66;6.21;1063
+MN;65;;0102;U.S. Senator;;0303;James Reibestein;;;R;38;38;79;7.43;1063
+MN;65;;0102;U.S. Senator;;0304;Jason Lewis;;;R;38;38;706;66.42;1063
+MN;65;;0102;U.S. Senator;;0305;John L. Berman;;;R;38;38;113;10.63;1063
+MN;65;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;38;38;8;1.20;667
+MN;65;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;38;38;542;81.26;667
+MN;65;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;38;38;11;1.65;667
+MN;65;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;38;38;35;5.25;667
+MN;65;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;38;38;71;10.64;667
+MN;66;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;31;31;119;100.00;119
+MN;66;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;31;31;39;100.00;39
+MN;66;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;31;31;127;5.26;2413
+MN;66;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;31;31;95;3.94;2413
+MN;66;;0102;U.S. Senator;;0303;James Reibestein;;;R;31;31;93;3.85;2413
+MN;66;;0102;U.S. Senator;;0304;Jason Lewis;;;R;31;31;1983;82.18;2413
+MN;66;;0102;U.S. Senator;;0305;John L. Berman;;;R;31;31;115;4.77;2413
+MN;66;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;31;31;22;0.43;5144
+MN;66;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;31;31;4689;91.15;5144
+MN;66;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;31;31;87;1.69;5144
+MN;66;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;31;31;225;4.37;5144
+MN;66;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;31;31;121;2.35;5144
+MN;67;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;24;24;6;100.00;6
+MN;67;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;24;24;7;100.00;7
+MN;67;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;24;24;47;8.62;545
+MN;67;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;24;24;24;4.40;545
+MN;67;;0102;U.S. Senator;;0303;James Reibestein;;;R;24;24;35;6.42;545
+MN;67;;0102;U.S. Senator;;0304;Jason Lewis;;;R;24;24;380;69.72;545
+MN;67;;0102;U.S. Senator;;0305;John L. Berman;;;R;24;24;59;10.83;545
+MN;67;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;24;24;4;1.09;368
+MN;67;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;24;24;312;84.78;368
+MN;67;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;24;24;4;1.09;368
+MN;67;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;24;24;24;6.52;368
+MN;67;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;24;24;24;6.52;368
+MN;68;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;44;44;10;100.00;10
+MN;68;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;44;44;5;100.00;5
+MN;68;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;44;44;143;9.30;1537
+MN;68;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;44;44;85;5.53;1537
+MN;68;;0102;U.S. Senator;;0303;James Reibestein;;;R;44;44;67;4.36;1537
+MN;68;;0102;U.S. Senator;;0304;Jason Lewis;;;R;44;44;1050;68.31;1537
+MN;68;;0102;U.S. Senator;;0305;John L. Berman;;;R;44;44;192;12.49;1537
+MN;68;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;44;44;6;1.00;600
+MN;68;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;44;44;489;81.50;600
+MN;68;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;44;44;9;1.50;600
+MN;68;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;44;44;36;6.00;600
+MN;68;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;44;44;60;10.00;600
+MN;69;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;172;172;153;100.00;153
+MN;69;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;172;172;149;100.00;149
+MN;69;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;172;172;895;10.57;8464
+MN;69;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;172;172;569;6.72;8464
+MN;69;;0102;U.S. Senator;;0303;James Reibestein;;;R;172;172;580;6.85;8464
+MN;69;;0102;U.S. Senator;;0304;Jason Lewis;;;R;172;172;5516;65.17;8464
+MN;69;;0102;U.S. Senator;;0305;John L. Berman;;;R;172;172;904;10.68;8464
+MN;69;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;172;172;186;0.81;23026
+MN;69;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;172;172;20569;89.33;23026
+MN;69;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;172;172;414;1.80;23026
+MN;69;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;172;172;1214;5.27;23026
+MN;69;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;172;172;643;2.79;23026
+MN;70;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;47;47;180;100.00;180
+MN;70;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;47;47;61;100.00;61
+MN;70;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;47;47;352;5.02;7011
+MN;70;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;47;47;228;3.25;7011
+MN;70;;0102;U.S. Senator;;0303;James Reibestein;;;R;47;47;114;1.63;7011
+MN;70;;0102;U.S. Senator;;0304;Jason Lewis;;;R;47;47;6081;86.74;7011
+MN;70;;0102;U.S. Senator;;0305;John L. Berman;;;R;47;47;236;3.37;7011
+MN;70;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;47;47;116;1.47;7876
+MN;70;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;47;47;6875;87.29;7876
+MN;70;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;47;47;279;3.54;7876
+MN;70;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;47;47;428;5.43;7876
+MN;70;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;47;47;178;2.26;7876
+MN;71;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;35;35;88;100.00;88
+MN;71;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;35;35;31;100.00;31
+MN;71;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;35;35;277;6.56;4224
+MN;71;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;35;35;162;3.84;4224
+MN;71;;0102;U.S. Senator;;0303;James Reibestein;;;R;35;35;143;3.39;4224
+MN;71;;0102;U.S. Senator;;0304;Jason Lewis;;;R;35;35;3413;80.80;4224
+MN;71;;0102;U.S. Senator;;0305;John L. Berman;;;R;35;35;229;5.42;4224
+MN;71;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;35;35;38;1.19;3185
+MN;71;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;35;35;2673;83.92;3185
+MN;71;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;35;35;190;5.97;3185
+MN;71;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;35;35;184;5.78;3185
+MN;71;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;35;35;100;3.14;3185
+MN;72;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;25;25;37;100.00;37
+MN;72;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;25;25;15;100.00;15
+MN;72;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;25;25;114;7.03;1622
+MN;72;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;25;25;37;2.28;1622
+MN;72;;0102;U.S. Senator;;0303;James Reibestein;;;R;25;25;76;4.69;1622
+MN;72;;0102;U.S. Senator;;0304;Jason Lewis;;;R;25;25;1276;78.67;1622
+MN;72;;0102;U.S. Senator;;0305;John L. Berman;;;R;25;25;119;7.34;1622
+MN;72;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;25;25;12;1.27;947
+MN;72;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;25;25;777;82.05;947
+MN;72;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;25;25;22;2.32;947
+MN;72;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;25;25;45;4.75;947
+MN;72;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;25;25;91;9.61;947
+MN;73;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;98;98;168;100.00;168
+MN;73;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;98;98;61;100.00;61
+MN;73;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;98;98;561;7.25;7736
+MN;73;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;98;98;279;3.61;7736
+MN;73;;0102;U.S. Senator;;0303;James Reibestein;;;R;98;98;294;3.80;7736
+MN;73;;0102;U.S. Senator;;0304;Jason Lewis;;;R;98;98;6036;78.02;7736
+MN;73;;0102;U.S. Senator;;0305;John L. Berman;;;R;98;98;566;7.32;7736
+MN;73;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;98;98;80;0.98;8172
+MN;73;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;98;98;6696;81.94;8172
+MN;73;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;98;98;736;9.01;8172
+MN;73;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;98;98;386;4.72;8172
+MN;73;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;98;98;274;3.35;8172
+MN;74;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;26;26;71;100.00;71
+MN;74;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;26;26;26;100.00;26
+MN;74;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;26;26;92;7.74;1188
+MN;74;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;26;26;36;3.03;1188
+MN;74;;0102;U.S. Senator;;0303;James Reibestein;;;R;26;26;58;4.88;1188
+MN;74;;0102;U.S. Senator;;0304;Jason Lewis;;;R;26;26;927;78.03;1188
+MN;74;;0102;U.S. Senator;;0305;John L. Berman;;;R;26;26;75;6.31;1188
+MN;74;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;26;26;12;0.90;1334
+MN;74;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;26;26;1157;86.73;1334
+MN;74;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;26;26;39;2.92;1334
+MN;74;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;26;26;77;5.77;1334
+MN;74;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;26;26;49;3.67;1334
+MN;75;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;26;26;16;100.00;16
+MN;75;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;26;26;5;100.00;5
+MN;75;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;26;26;23;3.80;605
+MN;75;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;26;26;9;1.49;605
+MN;75;;0102;U.S. Senator;;0303;James Reibestein;;;R;26;26;16;2.64;605
+MN;75;;0102;U.S. Senator;;0304;Jason Lewis;;;R;26;26;526;86.94;605
+MN;75;;0102;U.S. Senator;;0305;John L. Berman;;;R;26;26;31;5.12;605
+MN;75;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;26;26;9;1.31;686
+MN;75;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;26;26;612;89.21;686
+MN;75;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;26;26;5;0.73;686
+MN;75;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;26;26;38;5.54;686
+MN;75;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;26;26;22;3.21;686
+MN;76;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;30;30;17;100.00;17
+MN;76;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;30;30;2;100.00;2
+MN;76;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;30;30;55;8.27;665
+MN;76;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;30;30;25;3.76;665
+MN;76;;0102;U.S. Senator;;0303;James Reibestein;;;R;30;30;30;4.51;665
+MN;76;;0102;U.S. Senator;;0304;Jason Lewis;;;R;30;30;509;76.54;665
+MN;76;;0102;U.S. Senator;;0305;John L. Berman;;;R;30;30;46;6.92;665
+MN;76;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;30;30;10;1.43;699
+MN;76;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;30;30;594;84.98;699
+MN;76;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;30;30;10;1.43;699
+MN;76;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;30;30;34;4.86;699
+MN;76;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;30;30;51;7.30;699
+MN;77;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;40;40;19;100.00;19
+MN;77;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;40;40;7;100.00;7
+MN;77;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;40;40;120;7.56;1588
+MN;77;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;40;40;70;4.41;1588
+MN;77;;0102;U.S. Senator;;0303;James Reibestein;;;R;40;40;108;6.80;1588
+MN;77;;0102;U.S. Senator;;0304;Jason Lewis;;;R;40;40;1120;70.53;1588
+MN;77;;0102;U.S. Senator;;0305;John L. Berman;;;R;40;40;170;10.71;1588
+MN;77;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;40;40;11;1.40;784
+MN;77;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;40;40;651;83.04;784
+MN;77;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;40;40;19;2.42;784
+MN;77;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;40;40;41;5.23;784
+MN;77;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;40;40;62;7.91;784
+MN;78;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;20;20;6;100.00;6
+MN;78;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;20;20;3;100.00;3
+MN;78;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;20;20;21;7.89;266
+MN;78;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;20;20;6;2.26;266
+MN;78;;0102;U.S. Senator;;0303;James Reibestein;;;R;20;20;6;2.26;266
+MN;78;;0102;U.S. Senator;;0304;Jason Lewis;;;R;20;20;215;80.83;266
+MN;78;;0102;U.S. Senator;;0305;John L. Berman;;;R;20;20;18;6.77;266
+MN;78;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;20;20;0;0.00;235
+MN;78;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;20;20;210;89.36;235
+MN;78;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;20;20;4;1.70;235
+MN;78;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;20;20;6;2.55;235
+MN;78;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;20;20;15;6.38;235
+MN;79;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;33;33;39;100.00;39
+MN;79;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;33;33;16;100.00;16
+MN;79;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;33;33;51;5.54;921
+MN;79;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;33;33;34;3.69;921
+MN;79;;0102;U.S. Senator;;0303;James Reibestein;;;R;33;33;23;2.50;921
+MN;79;;0102;U.S. Senator;;0304;Jason Lewis;;;R;33;33;753;81.76;921
+MN;79;;0102;U.S. Senator;;0305;John L. Berman;;;R;33;33;60;6.51;921
+MN;79;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;33;33;15;1.37;1093
+MN;79;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;33;33;935;85.54;1093
+MN;79;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;33;33;21;1.92;1093
+MN;79;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;33;33;56;5.12;1093
+MN;79;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;33;33;66;6.04;1093
+MN;80;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;25;25;8;100.00;8
+MN;80;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;25;25;5;100.00;5
+MN;80;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;25;25;84;9.46;888
+MN;80;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;25;25;54;6.08;888
+MN;80;;0102;U.S. Senator;;0303;James Reibestein;;;R;25;25;43;4.84;888
+MN;80;;0102;U.S. Senator;;0304;Jason Lewis;;;R;25;25;619;69.71;888
+MN;80;;0102;U.S. Senator;;0305;John L. Berman;;;R;25;25;88;9.91;888
+MN;80;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;25;25;2;0.44;452
+MN;80;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;25;25;386;85.40;452
+MN;80;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;25;25;11;2.43;452
+MN;80;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;25;25;27;5.97;452
+MN;80;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;25;25;26;5.75;452
+MN;81;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;22;22;25;100.00;25
+MN;81;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;22;22;11;100.00;11
+MN;81;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;22;22;91;9.14;996
+MN;81;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;22;22;37;3.71;996
+MN;81;;0102;U.S. Senator;;0303;James Reibestein;;;R;22;22;50;5.02;996
+MN;81;;0102;U.S. Senator;;0304;Jason Lewis;;;R;22;22;738;74.10;996
+MN;81;;0102;U.S. Senator;;0305;John L. Berman;;;R;22;22;80;8.03;996
+MN;81;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;22;22;9;1.29;696
+MN;81;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;22;22;618;88.79;696
+MN;81;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;22;22;21;3.02;696
+MN;81;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;22;22;26;3.74;696
+MN;81;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;22;22;22;3.16;696
+MN;82;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;83;83;283;100.00;283
+MN;82;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;83;83;166;100.00;166
+MN;82;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;83;83;516;5.63;9172
+MN;82;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;83;83;292;3.18;9172
+MN;82;;0102;U.S. Senator;;0303;James Reibestein;;;R;83;83;223;2.43;9172
+MN;82;;0102;U.S. Senator;;0304;Jason Lewis;;;R;83;83;7821;85.27;9172
+MN;82;;0102;U.S. Senator;;0305;John L. Berman;;;R;83;83;320;3.49;9172
+MN;82;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;83;83;260;1.03;25244
+MN;82;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;83;83;22509;89.17;25244
+MN;82;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;83;83;671;2.66;25244
+MN;82;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;83;83;1251;4.96;25244
+MN;82;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;83;83;553;2.19;25244
+MN;83;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;21;21;12;100.00;12
+MN;83;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;21;21;0;0.00;0
+MN;83;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;21;21;95;9.80;969
+MN;83;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;21;21;52;5.37;969
+MN;83;;0102;U.S. Senator;;0303;James Reibestein;;;R;21;21;37;3.82;969
+MN;83;;0102;U.S. Senator;;0304;Jason Lewis;;;R;21;21;676;69.76;969
+MN;83;;0102;U.S. Senator;;0305;John L. Berman;;;R;21;21;109;11.25;969
+MN;83;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;21;21;12;2.37;507
+MN;83;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;21;21;461;90.93;507
+MN;83;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;21;21;5;0.99;507
+MN;83;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;21;21;10;1.97;507
+MN;83;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;21;21;19;3.75;507
+MN;84;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;32;32;8;100.00;8
+MN;84;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;32;32;5;100.00;5
+MN;84;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;32;32;22;6.75;326
+MN;84;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;32;32;8;2.45;326
+MN;84;;0102;U.S. Senator;;0303;James Reibestein;;;R;32;32;15;4.60;326
+MN;84;;0102;U.S. Senator;;0304;Jason Lewis;;;R;32;32;246;75.46;326
+MN;84;;0102;U.S. Senator;;0305;John L. Berman;;;R;32;32;35;10.74;326
+MN;84;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;32;32;4;1.29;309
+MN;84;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;32;32;256;82.85;309
+MN;84;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;32;32;3;0.97;309
+MN;84;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;32;32;25;8.09;309
+MN;84;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;32;32;21;6.80;309
+MN;85;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;49;49;143;100.00;143
+MN;85;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;49;49;62;100.00;62
+MN;85;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;49;49;202;11.44;1765
+MN;85;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;49;49;132;7.48;1765
+MN;85;;0102;U.S. Senator;;0303;James Reibestein;;;R;49;49;121;6.86;1765
+MN;85;;0102;U.S. Senator;;0304;Jason Lewis;;;R;49;49;1107;62.72;1765
+MN;85;;0102;U.S. Senator;;0305;John L. Berman;;;R;49;49;203;11.50;1765
+MN;85;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;49;49;42;1.09;3858
+MN;85;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;49;49;3248;84.19;3858
+MN;85;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;49;49;108;2.80;3858
+MN;85;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;49;49;231;5.99;3858
+MN;85;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;49;49;229;5.94;3858
+MN;86;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;45;45;135;100.00;135
+MN;86;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;45;45;45;100.00;45
+MN;86;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;45;45;387;6.39;6061
+MN;86;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;45;45;215;3.55;6061
+MN;86;;0102;U.S. Senator;;0303;James Reibestein;;;R;45;45;197;3.25;6061
+MN;86;;0102;U.S. Senator;;0304;Jason Lewis;;;R;45;45;4958;81.80;6061
+MN;86;;0102;U.S. Senator;;0305;John L. Berman;;;R;45;45;304;5.02;6061
+MN;86;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;45;45;57;1.11;5133
+MN;86;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;45;45;4545;88.54;5133
+MN;86;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;45;45;122;2.38;5133
+MN;86;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;45;45;274;5.34;5133
+MN;86;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;45;45;135;2.63;5133
+MN;87;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;30;30;8;100.00;8
+MN;87;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;30;30;2;100.00;2
+MN;87;;0102;U.S. Senator;;0301;Cynthia Gail;;;R;30;30;40;7.17;558
+MN;87;;0102;U.S. Senator;;0302;Bob "Again" Carney Jr.;;;R;30;30;11;1.97;558
+MN;87;;0102;U.S. Senator;;0303;James Reibestein;;;R;30;30;15;2.69;558
+MN;87;;0102;U.S. Senator;;0304;Jason Lewis;;;R;30;30;441;79.03;558
+MN;87;;0102;U.S. Senator;;0305;John L. Berman;;;R;30;30;51;9.14;558
+MN;87;;0102;U.S. Senator;;0401;Christopher Lovell Seymore, Sr.;;;DFL;30;30;4;0.82;486
+MN;87;;0102;U.S. Senator;;0402;Tina Smith;;;DFL;30;30;424;87.24;486
+MN;87;;0102;U.S. Senator;;0403;Ahmad R. Hassan;;;DFL;30;30;12;2.47;486
+MN;87;;0102;U.S. Senator;;0404;Paula Overby;;;DFL;30;30;18;3.70;486
+MN;87;;0102;U.S. Senator;;0405;Steve Carlson;;;DFL;30;30;28;5.76;486

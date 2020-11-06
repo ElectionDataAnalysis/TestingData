@@ -1,0 +1,52 @@
+MN;;;0126;State Senator District 6;6;0301;John J. Moren;;;R;108;108;3569;100.00;3569
+MN;;;0126;State Senator District 6;6;0401;Christopher Horoshak;;;DFL;108;108;1025;13.59;7544
+MN;;;0126;State Senator District 6;6;0402;David J Tomassoni;;;DFL;108;108;6519;86.41;7544
+MN;;;0127;State Senator District 7;7;0301;Donna Bergstrom;;;R;32;32;2129;100.00;2129
+MN;;;0127;State Senator District 7;7;0401;Erik Simonson;;;DFL;32;32;3095;26.46;11698
+MN;;;0127;State Senator District 7;7;0402;Jen McEwen;;;DFL;32;32;8603;73.54;11698
+MN;;;0129;State Senator District 9;9;0301;Paul Gazelka;;;R;126;126;5822;83.49;6973
+MN;;;0129;State Senator District 9;9;0302;Richard Dahl;;;R;126;126;1151;16.51;6973
+MN;;;0129;State Senator District 9;9;0401;A. John Peters;;;DFL;126;126;2759;100.00;2759
+MN;;;0130;State Senator District 10;10;0301;Shaun Christian Hansen;;;R;116;116;1179;17.50;6737
+MN;;;0130;State Senator District 10;10;0302;Carrie Ruud;;;R;116;116;5558;82.50;6737
+MN;;;0130;State Senator District 10;10;0401;Steve Samuelson;;;DFL;116;116;4869;100.00;4869
+MN;;;0142;State Senator District 22;22;0201;Brian Abrahamson;;;GLC;198;198;44;100.00;44
+MN;;;0142;State Senator District 22;22;0301;Bill Weber;;;R;198;198;4406;100.00;4406
+MN;;;0142;State Senator District 22;22;0401;Shawna Marshall;;;DFL;198;198;1897;76.06;2494
+MN;;;0142;State Senator District 22;22;0402;Roger L. Elgersma;;;DFL;198;198;597;23.94;2494
+MN;;;0154;State Senator District 34;34;0301;Warren Limmer;;;R;30;30;3875;100.00;3875
+MN;;;0154;State Senator District 34;34;0401;Bonnie Westlin;;;DFL;30;30;5810;71.81;8091
+MN;;;0154;State Senator District 34;34;0402;Aarica L. Coleman;;;DFL;30;30;2281;28.19;8091
+MN;;;0159;State Senator District 39;39;0301;Karin Housley;;;R;31;31;3213;100.00;3213
+MN;;;0159;State Senator District 39;39;0401;Brian D. Hile;;;DFL;31;31;1080;13.06;8268
+MN;;;0159;State Senator District 39;39;0402;Josiah Hill;;;DFL;31;31;7188;86.94;8268
+MN;;;0163;State Senator District 43;43;0201;Doug Daubenspeck;;;GLC;27;27;81;100.00;81
+MN;;;0163;State Senator District 43;43;0301;Bob Zick;;;R;27;27;2352;100.00;2352
+MN;;;0163;State Senator District 43;43;0401;Natasha Lapcinski;;;DFL;27;27;2634;30.33;8685
+MN;;;0163;State Senator District 43;43;0402;Charles "Chuck" Wiger;;;DFL;27;27;6051;69.67;8685
+MN;;;0164;State Senator District 44;44;0301;Greg Pulles;;;R;30;30;3946;100.00;3946
+MN;;;0164;State Senator District 44;44;0401;Zina Alston-Fizer;;;DFL;30;30;2956;23.41;12628
+MN;;;0164;State Senator District 44;44;0402;Ann Johnson Stewart;;;DFL;30;30;9672;76.59;12628
+MN;;;0167;State Senator District 47;47;0301;Julia Coleman;;;R;31;31;4586;63.52;7220
+MN;;;0167;State Senator District 47;47;0302;Thomas Funk;;;R;31;31;2634;36.48;7220
+MN;;;0167;State Senator District 47;47;0401;Addie Miller;;;DFL;31;31;5105;86.97;5870
+MN;;;0167;State Senator District 47;47;0402;Bala Chintaginjala;;;DFL;31;31;765;13.03;5870
+MN;;;0169;State Senator District 49;49;0301;Julie Dupré;;;R;34;34;2581;62.78;4111
+MN;;;0169;State Senator District 49;49;0302;Jenny Rhoades;;;R;34;34;1530;37.22;4111
+MN;;;0169;State Senator District 49;49;0401;Melisa Lopez Franzen;;;DFL;34;34;14895;100.00;14895
+MN;;;0173;State Senator District 53;53;0301;Mary Giuliani Stephens;;;R;23;23;2889;100.00;2889
+MN;;;0173;State Senator District 53;53;0401;Marquita Stephens;;;DFL;23;23;3214;33.37;9632
+MN;;;0173;State Senator District 53;53;0402;Susan Kent;;;DFL;23;23;6418;66.63;9632
+MN;;;0176;State Senator District 56;56;0301;Dan Hall;;;R;24;24;3090;100.00;3090
+MN;;;0176;State Senator District 56;56;0401;Lindsey Port;;;DFL;24;24;4669;66.70;7000
+MN;;;0176;State Senator District 56;56;0402;Kevin Shea;;;DFL;24;24;1925;27.50;7000
+MN;;;0176;State Senator District 56;56;0403;Richard Tucker;;;DFL;24;24;406;5.80;7000
+MN;;;0179;State Senator District 59;59;0301;Paul Anderson;;;R;25;25;841;100.00;841
+MN;;;0179;State Senator District 59;59;0401;Bobby Joe Champion;;;DFL;25;25;11639;77.07;15102
+MN;;;0179;State Senator District 59;59;0402;Suleiman Isse;;;DFL;25;25;3463;22.93;15102
+MN;;;0182;State Senator District 62;62;0301;Bruce Lundeen;;;R;25;25;443;100.00;443
+MN;;;0182;State Senator District 62;62;0401;Jeff Hayden;;;DFL;25;25;9140;45.14;20249
+MN;;;0182;State Senator District 62;62;0402;Omar Fateh;;;DFL;25;25;11109;54.86;20249
+MN;;;0185;State Senator District 65;65;0301;Paul Holmgren;;;R;26;26;902;100.00;902
+MN;;;0185;State Senator District 65;65;0401;Laverne McCartney Knighton;;;DFL;26;26;4270;36.33;11754
+MN;;;0185;State Senator District 65;65;0402;Sandy Pappas;;;DFL;26;26;7484;63.67;11754

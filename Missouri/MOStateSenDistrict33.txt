@@ -1,0 +1,11 @@
+County	Karla Eslinger, REP	Tammy Harty, DEM
+ 	 	 
+Douglas	5,931	898
+Howell	15,207	2,935
+Oregon	3,670	858
+Ozark	4,166	617
+Ripley	4,540	974
+Texas	9,140	1,798
+Webster	14,840	3,352
+Wright	7,380	1,097
+

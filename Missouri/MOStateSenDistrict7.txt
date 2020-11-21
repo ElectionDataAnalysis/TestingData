@@ -1,0 +1,5 @@
+County	Greg Razer, DEM	Nathan Kline, GRE	WRITE-INS, WI	Tiffany Poke, WI	Jorge Fuller, WI
+ 	 	 	 	 	 
+Jackson	12,978	4,856	0	0	0
+Kansas City	57,099	10,441	858	0	0
+

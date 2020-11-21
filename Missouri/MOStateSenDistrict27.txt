@@ -1,0 +1,9 @@
+County	Holly Rehder, REP	Donnie Owens, DEM
+ 	 	 
+Bollinger	4,939	875
+Cape Girardeau	28,903	10,374
+Madison	4,304	1,227
+Perry	7,357	1,659
+Scott	13,391	4,003
+Wayne	4,681	971
+

@@ -1,0 +1,11 @@
+County	Denny Hoskins, REP	Mark Bliss, LIB
+ 	 	 
+Caldwell	3,651	719
+Carroll	3,809	495
+Howard	3,572	1,060
+Johnson	16,836	5,171
+Lafayette	13,038	3,050
+Livingston	5,565	726
+Ray	8,296	2,395
+Saline	6,892	1,960
+

@@ -1,0 +1,29 @@
+County	Vicky Hartzler, REP	Lindsey Simmons, DEM	Steven K. Koonse, LIB
+ 	 	 	 
+Audrain	6,060	2,009	255
+Barton	5,053	758	129
+Bates	6,538	1,556	195
+Benton	7,977	2,072	272
+Boone	40,764	45,486	2,484
+Camden	7,259	1,807	237
+Cass	38,157	17,038	1,380
+Cedar	5,655	1,068	176
+Cooper	6,227	2,040	313
+Dade	3,345	605	89
+Dallas	6,498	1,255	208
+Henry	7,964	2,363	241
+Hickory	3,905	961	112
+Howard	3,474	1,312	180
+Johnson	15,598	6,438	768
+Laclede	13,714	2,515	423
+Moniteau	5,673	1,199	167
+Morgan	7,313	1,762	235
+Pettis	13,722	4,431	568
+Pulaski	10,160	3,394	502
+Randolph	7,898	2,325	335
+St. Clair	3,845	965	104
+Vernon	7,126	1,749	163
+Webster	11,139	2,420	398
+
+
+

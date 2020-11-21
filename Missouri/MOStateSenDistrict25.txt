@@ -1,0 +1,11 @@
+County	Jason Bean, REP
+ 	 
+Butler	16,164
+Carter	2,528
+Dunklin	9,232
+Mississippi	4,017
+New Madrid	6,201
+Pemiscot	4,715
+Shannon	3,149
+Stoddard	12,173
+

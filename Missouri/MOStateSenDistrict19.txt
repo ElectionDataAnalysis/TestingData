@@ -1,0 +1,5 @@
+County	Caleb Rowden, REP	Judy Baker, DEM	WRITE-INS, WI	James Coyne, WI
+ 	 	 	 	 
+Boone	43,994	45,233	109	0
+Cooper	6,524	2,077	19	0
+

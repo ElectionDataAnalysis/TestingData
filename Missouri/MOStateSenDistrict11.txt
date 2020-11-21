@@ -1,0 +1,6 @@
+County	John Joseph Rizzo, DEM
+ 	 
+Jackson	41,728
+Kansas City	8,061
+
+

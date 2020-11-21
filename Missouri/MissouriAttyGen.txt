@@ -1,0 +1,119 @@
+County	Eric Schmitt, REP	Rich Finneran, DEM	Kevin C Babcock, LIB
+ 	 	 	 
+Adair	6,603	3,249	248
+Andrew	7,189	1,974	305
+Atchison	2,119	457	76
+Audrain	7,722	2,286	325
+Barry	12,420	2,428	389
+Barton	5,064	711	142
+Bates	6,298	1,557	256
+Benton	8,073	1,899	285
+Bollinger	5,016	692	99
+Boone	40,937	44,127	2,946
+Buchanan	22,038	11,461	2,021
+Butler	14,416	2,947	372
+Caldwell	3,574	773	180
+Callaway	14,866	5,172	637
+Camden	18,761	4,752	653
+Cape Girardeau	29,352	9,216	910
+Carroll	3,671	677	77
+Carter	2,360	364	38
+Cass	37,268	16,856	1,839
+Cedar	5,630	961	224
+Chariton	3,035	802	89
+Christian	35,454	9,136	1,228
+Clark	2,532	632	90
+Clay	66,474	52,331	4,248
+Clinton	7,675	2,563	358
+Cole	27,177	10,558	1,026
+Cooper	6,340	1,896	282
+Crawford	8,697	1,894	208
+Dade	3,397	549	89
+Dallas	6,558	1,123	224
+Daviess	2,951	660	132
+De Kalb	3,713	821	167
+Dent	5,827	934	183
+Douglas	5,798	847	157
+Dunklin	7,921	1,947	227
+Franklin	37,800	12,853	1,454
+Gasconade	6,259	1,337	133
+Gentry	2,479	533	78
+Greene	85,020	46,002	4,260
+Grundy	3,563	699	81
+Harrison	3,169	497	60
+Henry	7,827	2,298	260
+Hickory	3,903	910	114
+Holt	1,939	273	60
+Howard	3,508	1,198	186
+Howell	15,046	2,666	446
+Iron	3,350	891	134
+Jackson	101,373	81,171	6,831
+Jasper	38,211	11,811	1,471
+Jefferson	75,311	33,984	3,415
+Johnson	15,596	6,184	908
+Kansas City	29,085	99,508	4,320
+Knox	1,381	290	41
+Laclede	13,874	2,296	402
+Lafayette	12,262	4,050	441
+Lawrence	14,354	2,638	443
+Lewis	3,439	820	122
+Lincoln	21,118	6,175	825
+Linn	4,222	1,155	143
+Livingston	5,259	1,122	136
+Macon	6,025	1,478	151
+Madison	4,461	920	155
+Maries	3,831	740	89
+Marion	9,786	2,853	331
+McDonald	7,281	1,345	228
+Mercer	1,513	184	26
+Miller	9,978	1,711	294
+Mississippi	3,453	956	132
+Moniteau	5,717	1,115	141
+Monroe	3,317	852	101
+Montgomery	4,503	1,023	109
+Morgan	7,263	1,674	281
+New Madrid	5,292	1,563	169
+Newton	22,242	5,052	661
+Nodaway	6,942	2,389	261
+Oregon	3,693	744	106
+Osage	6,302	866	97
+Ozark	3,959	637	107
+Pemiscot	3,937	1,433	97
+Perry	7,438	1,344	185
+Pettis	13,795	3,966	725
+Phelps	13,618	4,994	549
+Pike	5,734	1,623	145
+Platte	30,985	24,779	1,614
+Polk	12,097	2,357	365
+Pulaski	10,285	3,194	571
+Putnam	1,919	302	41
+Ralls	4,265	1,128	106
+Randolph	7,963	2,173	365
+Ray	7,912	2,890	408
+Reynolds	2,433	534	84
+Ripley	4,609	783	117
+Saline	6,362	2,633	289
+Schuyler	1,510	328	64
+Scotland	1,493	329	48
+Scott	13,619	3,438	293
+Shannon	3,027	629	81
+Shelby	2,578	538	77
+St. Charles	131,942	77,471	5,431
+St. Clair	3,883	896	117
+St. Francois	19,906	6,407	784
+St. Louis	218,213	290,707	10,415
+St. Louis City	24,626	101,297	3,186
+Ste. Genevieve	6,290	2,475	219
+Stoddard	11,237	1,616	226
+Stone	14,763	2,848	362
+Sullivan	1,916	445	42
+Taney	20,377	4,521	651
+Texas	9,332	1,501	242
+Vernon	7,081	1,676	196
+Warren	13,094	4,346	469
+Washington	7,610	1,707	253
+Wayne	4,748	800	109
+Webster	14,737	2,937	638
+Worth	844	187	31
+Wright	7,343	997	187
+

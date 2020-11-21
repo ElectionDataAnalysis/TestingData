@@ -1,0 +1,14 @@
+County	Billy Long, REP	Teresa Montseny, DEM	Kevin Craig, LIB	WRITE-INS, WI	Audrey Richards, WI	Dennis Davis, WI
+ 	 	 	 	 	 	 
+Barry	12,016	2,701	580	61	0	0
+Christian	33,216	10,439	2,113	147	0	0
+Greene	78,704	49,341	6,468	1,281	0	0
+Jasper	36,883	12,416	1,988	327	0	0
+Lawrence	13,287	3,209	862	118	0	0
+McDonald	7,240	1,374	263	18	0	0
+Newton	21,598	5,383	889	194	0	0
+Polk	11,478	2,766	603	23	0	0
+Stone	14,179	3,122	567	185	0	0
+Taney	19,829	4,859	817	182	0	0
+Webster	3,327	891	251	0	0	0
+

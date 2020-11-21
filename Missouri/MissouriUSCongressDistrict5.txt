@@ -1,0 +1,8 @@
+County	Ryan Derks, REP	Emanuel Cleaver II, DEM	Robin Dominick, LIB	WRITE-INS, WI	Antwain Winters, WI	Billy Ballard, WI	Emmanuel Dorn, WI
+ 	 	 	 	 	 	 	 
+Clay	15,000	19,109	1,141	0	0	0	0
+Jackson	69,755	69,379	3,986	104	0	0	0
+Kansas City	26,537	104,458	3,255	165	0	0	0
+Lafayette	11,306	5,268	310	0	0	0	0
+Ray	7,184	3,872	306	16	0	0	0
+Saline	5,614	2,545	213	0	0	0	0

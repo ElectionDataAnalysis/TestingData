@@ -1,9 +1,0 @@
-County	Elaine Freeman Gannon, REP
- 	 
-Iron	3,713
-Jefferson	20,577
-Reynolds	2,555
-St. Francois	23,053
-Ste. Genevieve	7,339
-Washington	8,439
-

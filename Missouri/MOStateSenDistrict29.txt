@@ -1,8 +1,0 @@
-County	Mike Moon, REP
- 	 
-Barry	13,499
-Lawrence	15,483
-McDonald	8,043
-Stone	15,943
-Taney	22,434
-

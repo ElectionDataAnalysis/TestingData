@@ -1,9 +1,0 @@
-County	Rick Brattin , REP	Raymond Kinney, DEM
- 	 	 
-Barton	5,067	835
-Bates	6,322	1,808
-Cass	37,651	18,365
-Henry	7,864	2,592
-Vernon	6,972	1,966
-
-

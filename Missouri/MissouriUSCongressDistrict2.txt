@@ -1,5 +1,0 @@
-County	Ann Wagner, REP	Jill Schupp, DEM	Martin Schulte, LIB	WRITE-INS, WI	Gina Bufe, WI
- 	 	 	 	 	 
-Jefferson	12,929	7,761	1,134	0	0
-St. Charles	45,881	31,170	2,817	67	0
-St. Louis	171,807	162,589	7,607	0	0

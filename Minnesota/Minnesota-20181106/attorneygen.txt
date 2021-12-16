@@ -1,4 +1,0 @@
-MN;;;0335;Attorney General;;0301;Doug Wardlow;;;R;4113;4113;1150459;45.08;2551772
-MN;;;0335;Attorney General;;0401;Keith Ellison;;;DFL;4113;4113;1249407;48.96;2551772
-MN;;;0335;Attorney General;;0801;Noah M. Johnson;;;GLC;4113;4113;145748;5.71;2551772
-MN;;;0335;Attorney General;;9901;WRITE-IN**;;;WI;4113;4113;6158;0.24;2551772

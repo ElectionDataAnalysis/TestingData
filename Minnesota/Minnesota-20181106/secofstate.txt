@@ -1,4 +1,0 @@
-MN;;;0332;Secretary of State;;0301;John Howe;;;R;4113;4113;1109093;43.62;2542522
-MN;;;0332;Secretary of State;;0401;Steve Simon;;;DFL;4113;4113;1328502;52.25;2542522
-MN;;;0332;Secretary of State;;1101;William Denney;;;IP;4113;4113;103610;4.08;2542522
-MN;;;0332;Secretary of State;;9901;WRITE-IN**;;;WI;4113;4113;1317;0.05;2542522

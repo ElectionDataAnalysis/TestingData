@@ -1,5 +1,0 @@
-County	Anthony Rogers, REP	Cori Bush, DEM	Alex Furman, LIB	WRITE-INS, WI	Martin D Baker, WI
- 	 	 	 	 	 
-St. Louis	36,278	142,337	3,867	0	0
-St. Louis City	22,878	103,183	2,814	397	0
-
